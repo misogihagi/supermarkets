@@ -1,4162 +1,4162 @@
 [
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.aizawafood.com/",
-    "company_name": "(\u682a)\u76f8\u6ca2\u98df\u6599\u767e\u8ca8\u5e97",
+    "company_name": "(株)相沢食料百貨店",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "http://azuma-j.net/",
-    "company_name": "(\u6709)\u5e02\u539f\u7cbe\u8089\u5e97",
+    "company_name": "(有)市原精肉店",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": null,
-    "company_name": "\u4eca\u6751\u5546\u4e8b(\u682a)(\u7f8e\u6df1\u30b9\u30fc\u30d1\u30fc)",
+    "company_name": "今村商事(株)(美深スーパー)",
     "supermarket_names": [
-      "\u7f8e\u6df1\u30b9\u30fc\u30d1\u30fc"
+      "美深スーパー"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "http://www.saijo-dp.co.jp/",
-    "company_name": "(\u682a)\u897f\u689d",
+    "company_name": "(株)西條",
     "supermarket_names": [
-      "\u897f\u689d",
+      "西條",
       "BESTOM",
-      "Q\u30de\u30fc\u30c8"
+      "Qマート"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.jr-seisen.jp/",
-    "company_name": "JR\u5317\u6d77\u9053\u30d5\u30ec\u30c3\u30b7\u30e5\u30ad\u30e8\u30b9\u30af(\u682a)",
+    "company_name": "JR北海道フレッシュキヨスク(株)",
     "supermarket_names": [
-      "\u30b8\u30a7\u30a4\u30a2\u30fc\u30eb\u751f\u9bae\u5e02\u5834"
+      "ジェイアール生鮮市場"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.tokou-store.co.jp/",
-    "company_name": "(\u682a)\u6771\u5149\u30b9\u30c8\u30a2",
+    "company_name": "(株)東光ストア",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.doutou-arcs.co.jp/",
-    "company_name": "(\u682a)\u9053\u6771\u30a2\u30fc\u30af\u30b9",
+    "company_name": "(株)道東アークス",
     "supermarket_names": [
-      "\u30b9\u30fc\u30d1\u30fc\u30a2\u30fc\u30af\u30b9",
+      "スーパーアークス",
       "BASIC",
-      "\u30e9\u30eb\u30ba\u30de\u30fc\u30c8",
-      "\u30d3\u30c3\u30b0\u30cf\u30a6\u30b9"
+      "ラルズマート",
+      "ビッグハウス"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.dounan-ralse.co.jp/",
-    "company_name": "(\u682a)\u9053\u5357\u30e9\u30eb\u30ba",
+    "company_name": "(株)道南ラルズ",
     "supermarket_names": [
-      "\u30b9\u30fc\u30d1\u30fc\u30a2\u30fc\u30af\u30b9",
-      "\u30e9\u30eb\u30ba\u30de\u30fc\u30c8",
-      "\u30d3\u30c3\u30b0\u30cf\u30a6\u30b9"
+      "スーパーアークス",
+      "ラルズマート",
+      "ビッグハウス"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.douhoku-arcs.co.jp/",
-    "company_name": "(\u682a)\u9053\u5317\u30a2\u30fc\u30af\u30b9",
+    "company_name": "(株)道北アークス",
     "supermarket_names": [
-      "\u3075\u3058",
-      "\u30d9\u30b9\u30c8\u30d7\u30e9\u30a4\u30b9",
-      "\u30d3\u30c3\u30b0\u30cf\u30a6\u30b9"
+      "ふじ",
+      "ベストプライス",
+      "ビッグハウス"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.fukuhara-arcs.co.jp/",
-    "company_name": "(\u682a)\u798f\u539f",
+    "company_name": "(株)福原",
     "supermarket_names": [
-      "\u30d5\u30af\u30cf\u30e9"
+      "フクハラ"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "http://www.food-d.jp/",
-    "company_name": "(\u682a)\u8c4a\u6708",
+    "company_name": "(株)豊月",
     "supermarket_names": [
-      "\u30d5\u30fc\u30c9D",
+      "フードD",
       "365"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.hokuno.com/",
-    "company_name": "(\u682a)\u30db\u30af\u30ce\u30fc",
+    "company_name": "(株)ホクノー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.hokuyu-lucky.co.jp/",
-    "company_name": "\u5317\u96c4\u30e9\u30c3\u30ad\u30fc(\u682a)",
+    "company_name": "北雄ラッキー(株)",
     "supermarket_names": [
-      "\u30e9\u30c3\u30ad\u30fc",
-      "\u30b7\u30c6\u30a3"
+      "ラッキー",
+      "シティ"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.hokkaiichiba.co.jp",
-    "company_name": "(\u682a)\u30e2\u30ea\u30ef\u30ad",
+    "company_name": "(株)モリワキ",
     "supermarket_names": [
-      "\u5317\u6d77\u5e02\u5834"
+      "北海市場"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.ralse.co.jp/",
-    "company_name": "(\u682a)\u30e9\u30eb\u30ba",
+    "company_name": "(株)ラルズ",
     "supermarket_names": [
-      "\u30e9\u30eb\u30ba\u30de\u30fc\u30c8",
-      "\u30d3\u30c3\u30b0\u30cf\u30a6\u30b9",
-      "\u30b9\u30fc\u30d1\u30fc\u30a2\u30fc\u30af\u30b9"
+      "ラルズマート",
+      "ビッグハウス",
+      "スーパーアークス"
     ]
   },
   {
-    "prefecture": "\u9752\u68ee\u770c",
+    "prefecture": "青森県",
     "company_url": "http://www.kakemo.com/",
-    "company_name": "(\u682a)\u30b9\u30fc\u30d1\u30fc\u30ab\u30b1\u30e2",
+    "company_name": "(株)スーパーカケモ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9752\u68ee\u770c",
+    "prefecture": "青森県",
     "company_url": "https://tsugaruya.com/",
-    "company_name": "(\u682a)\u3064\u304c\u308b\u5c4b",
+    "company_name": "(株)つがる屋",
     "supermarket_names": [
-      "\u30d1\u30ec\u30c3\u30c8\u30b7\u30e7\u30c3\u30d7"
+      "パレットショップ"
     ]
   },
   {
-    "prefecture": "\u9752\u68ee\u770c",
+    "prefecture": "青森県",
     "company_url": "http://www.supertoei.co.jp/",
-    "company_name": "(\u6709)\u30c8\u30fc\u30a8\u30fc",
+    "company_name": "(有)トーエー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9752\u68ee\u770c",
+    "prefecture": "青森県",
     "company_url": "https://www.beny.co.jp/",
-    "company_name": "\u7d05\u5c4b\u5546\u4e8b(\u682a)",
+    "company_name": "紅屋商事(株)",
     "supermarket_names": [
-      "\u30d9\u30cb\u30fc\u30de\u30fc\u30c8",
-      "\u30ab\u30d6\u30bb\u30f3\u30bf\u30fc"
+      "ベニーマート",
+      "カブセンター"
     ]
   },
   {
-    "prefecture": "\u9752\u68ee\u770c",
+    "prefecture": "青森県",
     "company_url": "https://i-maeda.jp",
-    "company_name": "(\u682a)\u30de\u30a8\u30c0",
+    "company_name": "(株)マエダ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9752\u68ee\u770c",
+    "prefecture": "青森県",
     "company_url": "https://www.yamaharu-web.jp/",
-    "company_name": "(\u6709)\u3084\u307e\u306f\u308b",
+    "company_name": "(有)やまはる",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9752\u68ee\u770c",
+    "prefecture": "青森県",
     "company_url": "https://www.universe.co.jp/",
-    "company_name": "(\u682a)\u30e6\u30cb\u30d0\u30fc\u30b9",
+    "company_name": "(株)ユニバース",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9752\u68ee\u770c",
+    "prefecture": "青森県",
     "company_url": "https://yokomachi.com",
-    "company_name": "(\u682a)\u3088\u3053\u307e\u3061",
+    "company_name": "(株)よこまち",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5ca9\u624b\u770c",
+    "prefecture": "岩手県",
     "company_url": "https://www.kanbun-store.jp/",
-    "company_name": "(\u682a)\u795e\u6587\u30b9\u30c8\u30a2",
+    "company_name": "(株)神文ストア",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5ca9\u624b\u770c",
+    "prefecture": "岩手県",
     "company_url": "https://tamori.co.jp/",
-    "company_name": "(\u682a)\u305f\u3082\u308a",
+    "company_name": "(株)たもり",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5ca9\u624b\u770c",
+    "prefecture": "岩手県",
     "company_url": "https://yamadabihan.jp/",
-    "company_name": "\u3073\u306f\u3093(\u682a)",
+    "company_name": "びはん(株)",
     "supermarket_names": [
-      "\u3073\u306f\u3093\u30b9\u30c8\u30a2"
+      "びはんストア"
     ]
   },
   {
-    "prefecture": "\u5ca9\u624b\u770c",
+    "prefecture": "岩手県",
     "company_url": "https://www.beljois.co.jp/",
-    "company_name": "(\u682a)\u30d9\u30eb\u30b8\u30e7\u30a4\u30b9",
+    "company_name": "(株)ベルジョイス",
     "supermarket_names": [
-      "\u30b8\u30e7\u30a4\u30b9",
-      "\u30d9\u30eb\u30d7\u30e9\u30b9",
-      "\u30d3\u30c3\u30b0\u30cf\u30a6\u30b9",
-      "\u30b9\u30fc\u30d1\u30fc\u30a2\u30fc\u30af\u30b9"
+      "ジョイス",
+      "ベルプラス",
+      "ビッグハウス",
+      "スーパーアークス"
     ]
   },
   {
-    "prefecture": "\u5ca9\u624b\u770c",
+    "prefecture": "岩手県",
     "company_url": "https://www.maiya.co.jp/",
-    "company_name": "(\u682a)\u30de\u30a4\u30e4",
+    "company_name": "(株)マイヤ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5ca9\u624b\u770c",
+    "prefecture": "岩手県",
     "company_url": "https://marue-super.jp/",
-    "company_name": "(\u682a)\u4e38\u6c5f",
+    "company_name": "(株)丸江",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5ca9\u624b\u770c",
+    "prefecture": "岩手県",
     "company_url": "https://michinoku-rs.co.jp/",
-    "company_name": "(\u682a)\u307f\u3061\u306e\u304f\u6d41\u901a\u30b7\u30b9\u30c6\u30e0",
+    "company_name": "(株)みちのく流通システム",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bae\u57ce\u770c",
+    "prefecture": "宮城県",
     "company_url": "https://www.itochain.com/",
-    "company_name": "(\u682a)\u4f0a\u85e4\u30c1\u30a7\u30fc\u30f3",
+    "company_name": "(株)伊藤チェーン",
     "supermarket_names": [
-      "\u30a4\u30c8\u30fc\u30c1\u30a7\u30fc\u30f3"
+      "イトーチェーン"
     ]
   },
   {
-    "prefecture": "\u5bae\u57ce\u770c",
+    "prefecture": "宮城県",
     "company_url": "http://www.ujiesuper.com/",
-    "company_name": "(\u682a)\u30a6\u30b8\u30a8\u30b9\u30fc\u30d1\u30fc",
+    "company_name": "(株)ウジエスーパー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bae\u57ce\u770c",
+    "prefecture": "宮城県",
     "company_url": "https://www.kamei.co.jp/",
-    "company_name": "\u30ab\u30e1\u30a4(\u682a)",
+    "company_name": "カメイ(株)",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u5bae\u57ce\u770c",
+    "prefecture": "宮城県",
     "company_url": "https://www.livit.jregroup.ne.jp/",
-    "company_name": "JR\u6771\u65e5\u672c\u6771\u5317\u7dcf\u5408\u30b5\u30fc\u30d3\u30b9(\u682a)",
+    "company_name": "JR東日本東北総合サービス(株)",
     "supermarket_names": [
-      "\u30d4\u30dc\u30c3\u30c8"
+      "ピボット"
     ]
   },
   {
-    "prefecture": "\u5bae\u57ce\u770c",
+    "prefecture": "宮城県",
     "company_url": "http://www.wako-web.com/",
-    "company_name": "(\u682a)\u548c\u8208",
+    "company_name": "(株)和興",
     "supermarket_names": [
-      "\u30ef\u30b3\u30fc"
+      "ワコー"
     ]
   },
   {
-    "prefecture": "\u79cb\u7530\u770c",
+    "prefecture": "秋田県",
     "company_url": "https://www.itoku.co.jp/",
-    "company_name": "(\u682a)\u4f0a\u5fb3",
+    "company_name": "(株)伊徳",
     "supermarket_names": [
       "ITOKU"
     ]
   },
   {
-    "prefecture": "\u79cb\u7530\u770c",
+    "prefecture": "秋田県",
     "company_url": "https://www.e-takayanagi.com/",
-    "company_name": "(\u682a)\u30bf\u30ab\u30e4\u30ca\u30ae",
+    "company_name": "(株)タカヤナギ",
     "supermarket_names": [
-      "\u30b0\u30e9\u30f3\u30de\u30fc\u30c8"
+      "グランマート"
     ]
   },
   {
-    "prefecture": "\u79cb\u7530\u770c",
+    "prefecture": "秋田県",
     "company_url": "http://www.sm-lucky.com/",
-    "company_name": "(\u682a)\u30de\u30eb\u30b7\u30e1",
+    "company_name": "(株)マルシメ",
     "supermarket_names": [
-      "\u30e9\u30c3\u30ad\u30fc"
+      "ラッキー"
     ]
   },
   {
-    "prefecture": "\u79cb\u7530\u770c",
+    "prefecture": "秋田県",
     "company_url": "http://ax-egao.com/",
-    "company_name": "(\u6709)\u30df\u30b5\u30c8\u30d5\u30fc\u30ba",
+    "company_name": "(有)ミサトフーズ",
     "supermarket_names": [
       "AX"
     ]
   },
   {
-    "prefecture": "\u5c71\u5f62\u770c",
+    "prefecture": "山形県",
     "company_url": "https://www.oh-ban.com/",
-    "company_name": "(\u682a)\u304a\u30fc\u3070\u3093",
+    "company_name": "(株)おーばん",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5c71\u5f62\u770c",
+    "prefecture": "山形県",
     "company_url": "http://www.fu-sha.com/",
-    "company_name": "(\u682a)\u4e3b\u5a66\u306e\u5e97\u9db4\u5ca1\u5e97",
+    "company_name": "(株)主婦の店鶴岡店",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5c71\u5f62\u770c",
+    "prefecture": "山形県",
     "company_url": "http://www.toichiya.co.jp/",
-    "company_name": "(\u682a)\u30c8\u4e00\u5c4b",
+    "company_name": "(株)ト一屋",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u5cf6\u770c",
+    "prefecture": "福島県",
     "company_url": "https://ouchi-y.com",
-    "company_name": "\u5927\u5185\u5b89\u7537\u5546\u5e97",
+    "company_name": "大内安男商店",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u5cf6\u770c",
+    "prefecture": "福島県",
     "company_url": "http://www.simizu-store.jp/",
-    "company_name": "(\u682a)\u6e05\u6c34\u5546\u5e97",
+    "company_name": "(株)清水商店",
     "supermarket_names": [
-      "\u30b7\u30df\u30ba\u30b9\u30c8\u30a2"
+      "シミズストア"
     ]
   },
   {
-    "prefecture": "\u798f\u5cf6\u770c",
+    "prefecture": "福島県",
     "company_url": null,
-    "company_name": "(\u682a)\u30d6\u30a4\u30b7\u30fc\u30b8\u30fc(\u30d6\u30a4\u30c1\u30a7\u30fc\u30f3)",
+    "company_name": "(株)ブイシージー(ブイチェーン)",
     "supermarket_names": [
-      "\u30d6\u30a4\u30c1\u30a7\u30fc\u30f3"
+      "ブイチェーン"
     ]
   },
   {
-    "prefecture": "\u798f\u5cf6\u770c",
+    "prefecture": "福島県",
     "company_url": "http://fresco-k.com/",
-    "company_name": "\u30d5\u30ec\u30b9\u30b3(\u682a)",
+    "company_name": "フレスコ(株)",
     "supermarket_names": [
-      "\u30d5\u30ec\u30b9\u30b3\u30ad\u30af\u30c1"
+      "フレスコキクチ"
     ]
   },
   {
-    "prefecture": "\u798f\u5cf6\u770c",
+    "prefecture": "福島県",
     "company_url": "https://www.maruto-gp.co.jp/",
-    "company_name": "(\u682a)\u30de\u30eb\u30c8",
+    "company_name": "(株)マルト",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u5cf6\u770c",
+    "prefecture": "福島県",
     "company_url": "https://www.liondor.jp/",
-    "company_name": "(\u682a)\u30ea\u30aa\u30f3\u30fb\u30c9\u30fc\u30eb\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
+    "company_name": "(株)リオン・ドールコーポレーション",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u8328\u57ce\u770c",
+    "prefecture": "茨城県",
     "company_url": "http://www.kawaneya.co.jp/",
-    "company_name": "(\u682a)\u304b\u308f\u306d\u3084",
+    "company_name": "(株)かわねや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u8328\u57ce\u770c",
+    "prefecture": "茨城県",
     "company_url": "http://www.sanyu-store.jp/",
-    "company_name": "(\u682a)\u30b5\u30f3\u30e6\u30fc\u30b9\u30c8\u30a2\u30fc",
+    "company_name": "(株)サンユーストアー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u8328\u57ce\u770c",
+    "prefecture": "茨城県",
     "company_url": "https://super-hiroseya.jp/",
-    "company_name": "(\u682a)\u30b9\u30fc\u30d1\u30fc\u30d2\u30ed\u30bb\u30e4",
+    "company_name": "(株)スーパーヒロセヤ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u8328\u57ce\u770c",
+    "prefecture": "茨城県",
     "company_url": "http://www.super-seimiya.co.jp/",
-    "company_name": "(\u682a)\u30bb\u30a4\u30df\u30e4",
+    "company_name": "(株)セイミヤ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u8328\u57ce\u770c",
+    "prefecture": "茨城県",
     "company_url": "https://www.super-taiyo.com/",
-    "company_name": "(\u682a)\u30bf\u30a4\u30e8\u30fc",
+    "company_name": "(株)タイヨー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6803\u6728\u770c",
+    "prefecture": "栃木県",
     "company_url": "https://www.yaohan.jp",
-    "company_name": "(\u682a)\u516b\u767e\u534a\u30d5\u30fc\u30c9\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "(株)八百半フードセンター",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u7fa4\u99ac\u770c",
+    "prefecture": "群馬県",
     "company_url": "https://www.fressay.co.jp/",
-    "company_name": "(\u682a)\u30d5\u30ec\u30c3\u30bb\u30a4",
+    "company_name": "(株)フレッセイ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u57fc\u7389\u770c",
+    "prefecture": "埼玉県",
     "company_url": "https://mirai.coopnet.or.jp/",
-    "company_name": "(\u751f\u5354)\u30b3\u30fc\u30d7\u307f\u3089\u3044",
+    "company_name": "(生協)コープみらい",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u57fc\u7389\u770c",
+    "prefecture": "埼玉県",
     "company_url": "https://ha-z.jp/",
-    "company_name": "(\u682a)\u30cf\u30fc\u30ba",
+    "company_name": "(株)ハーズ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u57fc\u7389\u770c",
+    "prefecture": "埼玉県",
     "company_url": "https://www.padma-tr.shop",
-    "company_name": "(\u682a)\u30d1\u30c9\u30de",
+    "company_name": "(株)パドマ",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u57fc\u7389\u770c",
+    "prefecture": "埼玉県",
     "company_url": "https://www.rogers.co.jp/",
-    "company_name": "\u5317\u8fb0\u5546\u4e8b(\u682a)",
+    "company_name": "北辰商事(株)",
     "supermarket_names": [
-      "\u30ed\u30c2\u30e3\u30fc\u30b9"
+      "ロヂャース"
     ]
   },
   {
-    "prefecture": "\u57fc\u7389\u770c",
+    "prefecture": "埼玉県",
     "company_url": "https://mami-mart.com",
-    "company_name": "(\u682a)\u30de\u30df\u30fc\u30de\u30fc\u30c8",
+    "company_name": "(株)マミーマート",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u57fc\u7389\u770c",
+    "prefecture": "埼玉県",
     "company_url": "https://www.worldlinks.co.jp/",
-    "company_name": "(\u6709)\u30ef\u30fc\u30eb\u30c9\u30ea\u30f3\u30af\u30b9",
+    "company_name": "(有)ワールドリンクス",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "https://aoi-shouji.co.jp/",
-    "company_name": "(\u682a)\u8475\u5546\u4e8b",
+    "company_name": "(株)葵商事",
     "supermarket_names": [
-      "\u30a2\u30aa\u30a4\u30b9\u30c8\u30a2\u30fc"
+      "アオイストアー"
     ]
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "https://www.ecopeer.jp/",
-    "company_name": "(\u682a)\u77f3\u539f",
+    "company_name": "(株)石原",
     "supermarket_names": [
-      "\u30a8\u30b3\u30fb\u30d4\u30a2"
+      "エコ・ピア"
     ]
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "https://www.odoya.com/",
-    "company_name": "(\u682a)\u304a\u3069\u3084",
+    "company_name": "(株)おどや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "https://courantdair.jp/",
-    "company_name": "(\u682a)\u304b\u308f\u305f",
+    "company_name": "(株)かわた",
     "supermarket_names": [
-      "\u30af\u30e9\u30f3\u30c7\u30fc\u30eb"
+      "クランデール"
     ]
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "https://www.keiseistore.co.jp/",
-    "company_name": "(\u682a)\u4eac\u6210\u30b9\u30c8\u30a2",
+    "company_name": "(株)京成ストア",
     "supermarket_names": [
-      "\u30ea\u30d6\u30ec\u4eac\u6210"
+      "リブレ京成"
     ]
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "https://www.keihokusuper.co.jp/",
-    "company_name": "(\u682a)\u4eac\u5317\u30b9\u30fc\u30d1\u30fc",
+    "company_name": "(株)京北スーパー",
     "supermarket_names": [
       "KEIHOKU"
     ]
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "https://www.foods-selection.co.jp/",
-    "company_name": "(\u682a)\u30bb\u30ec\u30af\u30b7\u30e7\u30f3",
+    "company_name": "(株)セレクション",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "https://t-mart.co.jp/",
-    "company_name": "(\u682a)\u9ad8\u6a4b\u5546\u5e97",
+    "company_name": "(株)高橋商店",
     "supermarket_names": [
-      "T\u30fb\u30de\u30fc\u30c8"
+      "T・マート"
     ]
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "https://e-tous.com/",
-    "company_name": "(\u682a)\u30c8\u30a6\u30ba",
+    "company_name": "(株)トウズ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "http://www.naritaya-net.co.jp/",
-    "company_name": "(\u682a)\u30ca\u30ea\u30bf\u30e4",
+    "company_name": "(株)ナリタヤ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": null,
-    "company_name": "(\u6709)\u30de\u30eb\u30c8\u30e2\u5546\u5e97(\u30d5\u30ec\u30c3\u30b7\u30e5\u30de\u30eb\u30c8\u30e2)",
+    "company_name": "(有)マルトモ商店(フレッシュマルトモ)",
     "supermarket_names": [
-      "\u30d5\u30ec\u30c3\u30b7\u30e5\u30de\u30eb\u30c8\u30e2"
+      "フレッシュマルトモ"
     ]
   },
   {
-    "prefecture": "\u5343\u8449\u770c",
+    "prefecture": "千葉県",
     "company_url": "https://landrome.jp/",
-    "company_name": "(\u682a)\u30e9\u30f3\u30c9\u30ed\u30fc\u30e0\u30b8\u30e3\u30d1\u30f3",
+    "company_name": "(株)ランドロームジャパン",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "http://www.food-shimizuya.co.jp/",
-    "company_name": "(\u682a)\u30a2\u30c9\u30d0\u30f3\u30b9\u30af\u30ea\u30e4\u30de",
+    "company_name": "(株)アドバンスクリヤマ",
     "supermarket_names": [
-      "\u30b7\u30df\u30ba\u30e4"
+      "シミズヤ"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.ababakafudado.co.jp/",
-    "company_name": "(\u682a)\u30a2\u30d6\u30a2\u30d6\u8d64\u672d\u5802",
+    "company_name": "(株)アブアブ赤札堂",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.itoyokado.co.jp/",
-    "company_name": "(\u682a)\u30a4\u30c8\u30fc\u30e8\u30fc\u30ab\u5802",
+    "company_name": "(株)イトーヨーカ堂",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.inageya.co.jp/",
-    "company_name": "(\u682a)\u3044\u306a\u3052\u3084",
+    "company_name": "(株)いなげや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://escamare.co.jp/",
-    "company_name": "\u30a8\u30b9\u30ab\u30de\u30fc\u30ec(\u682a)",
+    "company_name": "エスカマーレ(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": null,
-    "company_name": "(\u682a)\u30a8\u30cc\u30fb\u30de\u30fc\u30c8",
+    "company_name": "(株)エヌ・マート",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.im-food.co.jp/",
-    "company_name": "(\u682a)\u30a8\u30e0\u30a2\u30a4\u30d5\u30fc\u30c9\u30b9\u30bf\u30a4\u30eb",
+    "company_name": "(株)エムアイフードスタイル",
     "supermarket_names": [
-      "\u30af\u30a4\u30fc\u30f3\u30ba\u4f0a\u52e2\u4e39"
+      "クイーンズ伊勢丹"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://enchu-food.com/",
-    "company_name": "\u9060\u5fe0\u98df\u54c1(\u682a)",
+    "company_name": "遠忠食品(株)",
     "supermarket_names": [
-      "\u9060\u5fe0\u5546\u5e97"
+      "遠忠商店"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://kimuraya-enet.jimdofree.com",
-    "company_name": "\u795e\u697d\u5742KIMURAYA(\u6a4b\u722a\u5546\u5e97)",
+    "company_name": "神楽坂KIMURAYA(橋爪商店)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "http://www.sake-kawachi.co.jp/",
-    "company_name": "\u6cb3\u5185\u5c4b\u9152\u8ca9(\u682a)",
+    "company_name": "河内屋酒販(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.e-kinokuniya.com/",
-    "company_name": "(\u682a)\u7d00\u30ce\u570b\u5c4b",
+    "company_name": "(株)紀ノ國屋",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.kyusyuya.co.jp/",
-    "company_name": "(\u682a)\u4e5d\u5dde\u5c4b",
+    "company_name": "(株)九州屋",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://ginza-sembikiya.jp/",
-    "company_name": "(\u682a)\u9280\u5ea7\u5343\u758b\u5c4b",
+    "company_name": "(株)銀座千疋屋",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.keiostore.co.jp/",
-    "company_name": "(\u682a)\u4eac\u738b\u30b9\u30c8\u30a2",
+    "company_name": "(株)京王ストア",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "http://www.kk-koizumi.co.jp/",
-    "company_name": "(\u682a)\u30b3\u30a4\u30ba\u30df\u7523\u696d",
+    "company_name": "(株)コイズミ産業",
     "supermarket_names": [
-      "\u30d9\u30cb\u30fc\u30b9\u30fc\u30d1\u30fc\u897f\u84b2\u7530"
+      "ベニースーパー西蒲田"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.sakagami-cl.co.jp/",
-    "company_name": "(\u682a)\u30b5\u30ab\u30ac\u30df",
+    "company_name": "(株)サカガミ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.santoku.co.jp/",
-    "company_name": "(\u682a)\u4e09\u5fb7",
+    "company_name": "(株)三德",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://sunbelx.com/",
-    "company_name": "(\u682a)\u30b5\u30f3\u30d9\u30eb\u30af\u30b9",
+    "company_name": "(株)サンベルクス",
     "supermarket_names": [
       "Belx"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.heartful-sanwa.co.jp/",
-    "company_name": "(\u682a)\u4e09\u548c",
+    "company_name": "(株)三和",
     "supermarket_names": [
-      "\u4e09\u548c",
-      "\u30d5\u30fc\u30c9\u30ef\u30f3"
+      "三和",
+      "フードワン"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.glmart.co.jp/",
-    "company_name": "(\u682a)G&L\u30de\u30fc\u30c8",
+    "company_name": "(株)G&Lマート",
     "supermarket_names": [
-      "\u30ea\u30ab\u30fc\u30ad\u30f3\u30b0",
-      "\u696d\u52d9\u30b9\u30fc\u30d1\u30fc"
+      "リカーキング",
+      "業務スーパー"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.garden.co.jp/",
-    "company_name": "(\u682a)\u30b7\u30a7\u30eb\u30ac\u30fc\u30c7\u30f3",
+    "company_name": "(株)シェルガーデン",
     "supermarket_names": [
-      "\u30b6\u30fb\u30ac\u30fc\u30c7\u30f3\u81ea\u7531\u304c\u4e18"
+      "ザ・ガーデン自由が丘"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://shinanoya.co.jp/",
-    "company_name": "(\u682a)\u4fe1\u6fc3\u5c4b\u98df\u54c1",
+    "company_name": "(株)信濃屋食品",
     "supermarket_names": [
-      "\u4fe1\u6fc3\u5c4b"
+      "信濃屋"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "http://www.super-shimadaya.com/",
-    "company_name": "(\u682a)\u5cf6\u7530\u5c4b",
+    "company_name": "(株)島田屋",
     "supermarket_names": [
-      "\u30b7\u30de\u30c0\u30e4"
+      "シマダヤ"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.jalux.com/",
-    "company_name": "(\u682a)JALUX",
+    "company_name": "(株)JALUX",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://marusho-honten.co.jp/",
-    "company_name": "(\u682a)\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30bb\u30f3\u30bf\u30fc\u4e38\u6b63\u7dcf\u672c\u5e97",
+    "company_name": "(株)ショッピングセンター丸正総本店",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://market.kita-grp.co.jp/",
-    "company_name": "(\u682a)\u30b9\u30fc\u30d1\u30fc\u30ad\u30bf\u30e0\u30e9",
+    "company_name": "(株)スーパーキタムラ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.yaoshiti.com/",
-    "company_name": "\u9234\u6728\u9752\u679c(\u6709)",
+    "company_name": "鈴木青果(有)",
     "supermarket_names": [
-      "\u30e4\u30aa\u30b7\u30c1"
+      "ヤオシチ"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.seiyu.co.jp/",
-    "company_name": "(\u682a)\u897f\u53cb",
+    "company_name": "(株)西友",
     "supermarket_names": [
-      "\u897f\u53cb",
+      "西友",
       "LIVIN"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.tobustore.co.jp/",
-    "company_name": "(\u682a)\u6771\u6b66\u30b9\u30c8\u30a2",
+    "company_name": "(株)東武ストア",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "http://www.supertops.com/",
-    "company_name": "(\u682a)\u30c8\u30c3\u30d7",
+    "company_name": "(株)トップ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "http://www.national-azabu.com/",
-    "company_name": "\u30ca\u30b7\u30e7\u30ca\u30eb\u9ebb\u5e03 (\u682a)",
+    "company_name": "ナショナル麻布 (株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.nissinham.co.jp/",
-    "company_name": "\u65e5\u9032\u755c\u7523\u5de5\u696d(\u682a)",
+    "company_name": "日進畜産工業(株)",
     "supermarket_names": [
-      "\u65e5\u9032\u30ef\u30fc\u30eb\u30c9\u30c7\u30ea\u30ab\u30c7\u30c3\u30bb\u30f3"
+      "日進ワールドデリカデッセン"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.nittoh-e.co.jp/",
-    "company_name": "\u65e5\u6771\u71c3\u6599\u5de5\u696d(\u682a)",
+    "company_name": "日東燃料工業(株)",
     "supermarket_names": [
-      "\u30d9\u30cb\u30fc\u30b9\u30fc\u30d1\u30fc"
+      "ベニースーパー"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.hban-yu.jp/",
-    "company_name": "\u516b\u4e08\u4e07\u6709(\u682a)",
+    "company_name": "八丈万有(株)",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "http://seoul-ichiba.com/",
-    "company_name": "(\u682a)\u30cf\u30c3\u30d4\u30fc\u98df\u54c1",
+    "company_name": "(株)ハッピー食品",
     "supermarket_names": [
-      "\u30bd\u30a6\u30eb\u5e02\u5834"
+      "ソウル市場"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.hanamasa.co.jp/",
-    "company_name": "(\u682a)\u82b1\u6b63",
+    "company_name": "(株)花正",
     "supermarket_names": [
-      "\u30cf\u30ca\u30de\u30b5"
+      "ハナマサ"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.jreast.co.jp/",
-    "company_name": "\u6771\u65e5\u672c\u65c5\u5ba2\u9244\u9053(\u682a)",
+    "company_name": "東日本旅客鉄道(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.fu-suipj.com/home",
-    "company_name": "(\u682a)\u98a8\u6c34\u30d7\u30ed\u30b8\u30a7\u30af\u30c8",
+    "company_name": "(株)風水プロジェクト",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.bunkado.com/",
-    "company_name": "(\u682a)\u6587\u5316\u5802",
+    "company_name": "(株)文化堂",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.miuraya.com/",
-    "company_name": "(\u682a)\u4e09\u6d66\u5c4b",
+    "company_name": "(株)三浦屋",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.meidi-ya.co.jp/",
-    "company_name": "(\u682a)\u660e\u6cbb\u5c4b",
+    "company_name": "(株)明治屋",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "http://www.super-yamaichi.com/",
-    "company_name": "(\u682a)\u30e4\u30de\u30a4\u30c1",
+    "company_name": "(株)ヤマイチ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.yoshiike-group.co.jp/",
-    "company_name": "(\u682a)\u5409\u6c60",
+    "company_name": "(株)吉池",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "https://www.yoshiya.co.jp/",
-    "company_name": "(\u682a)\u3088\u3057\u3084",
+    "company_name": "(株)よしや",
     "supermarket_names": [
       "SainE"
     ]
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "http://www.lifecorp.jp/",
-    "company_name": "(\u682a)\u30e9\u30a4\u30d5\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
+    "company_name": "(株)ライフコーポレーション",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://www.supertaiga.com/",
-    "company_name": "(\u682a)\u30a2\u30a4\u30b9\u30b3",
+    "company_name": "(株)アイスコ",
     "supermarket_names": [
-      "\u30b9\u30fc\u30d1\u30fc\u751f\u9bae\u9928TAIGA"
+      "スーパー生鮮館TAIGA"
     ]
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://www.arai-group.co.jp/",
-    "company_name": "\u8352\u4e95\u5546\u4e8b(\u682a)",
+    "company_name": "荒井商事(株)",
     "supermarket_names": [
-      "\u30a2\u30eb\u30ba"
+      "アルズ"
     ]
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://www.odakyu-ox.net/",
-    "company_name": "\u5c0f\u7530\u6025\u5546\u4e8b(\u682a)",
+    "company_name": "小田急商事(株)",
     "supermarket_names": [
       "OdakyuOX"
     ]
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://www.odawara100.com/",
-    "company_name": "(\u682a)\u5c0f\u7530\u539f\u767e\u8ca8\u5e97",
+    "company_name": "(株)小田原百貨店",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://www.keikyu-store.co.jp/",
-    "company_name": "(\u682a)\u4eac\u6025\u30b9\u30c8\u30a2",
+    "company_name": "(株)京急ストア",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://coop-suisan.com/",
-    "company_name": "(\u682a)\u30b3\u30fc\u30d7\u6c34\u7523",
+    "company_name": "(株)コープ水産",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://www.shimamura-store.com",
-    "company_name": "(\u682a)\u3057\u307e\u3080\u3089",
+    "company_name": "(株)しまむら",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://www.suzukiya-inc.jp/",
-    "company_name": "(\u682a)\u30b9\u30ba\u30ad\u30e4",
+    "company_name": "(株)スズキヤ",
     "supermarket_names": [
-      "\u30b9\u30ba\u30ad\u30e4",
-      "\u30a8\u30b9\u30d1\u30c6\u30a3\u30aa"
+      "スズキヤ",
+      "エスパティオ"
     ]
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://seijoishii.com",
-    "company_name": "(\u682a)\u6210\u57ce\u77f3\u4e95",
+    "company_name": "(株)成城石井",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "http://www.foodhouse-oonoya.co.jp/",
-    "company_name": "(\u682a)\u5927\u5bff",
+    "company_name": "(株)大寿",
     "supermarket_names": [
       "OONOYA"
     ]
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "http://www.fresh-tamaya.jp/",
-    "company_name": "(\u682a)\u305f\u307e\u3084",
+    "company_name": "(株)たまや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "http://www.nakaya-shouji.jp/",
-    "company_name": "(\u682a)\u4ef2\u5c4b\u5546\u4e8b",
+    "company_name": "(株)仲屋商事",
     "supermarket_names": [
-      "\u306a\u304b\u3084"
+      "なかや"
     ]
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://www.fujicitio.com/",
-    "company_name": "\u5bcc\u58eb\u30b7\u30c6\u30a3\u30aa(\u682a)",
+    "company_name": "富士シティオ(株)",
     "supermarket_names": [
       "Fuji"
     ]
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "http://www.yaomasa.com/",
-    "company_name": "\u30e4\u30aa\u30de\u30b5(\u682a)",
+    "company_name": "ヤオマサ(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "http://www.smyamaka.co.jp/",
-    "company_name": "(\u682a)\u3084\u307e\u304b",
+    "company_name": "(株)やまか",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://www.eyusei.com",
-    "company_name": "\u53cb\u76db\u8cbf\u6613(\u682a)",
+    "company_name": "友盛貿易(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://www.yokohamaya.co.jp/",
-    "company_name": "(\u682a)\u6a2a\u6ff1\u5c4b",
+    "company_name": "(株)横濱屋",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "https://royalyotsuya.com/",
-    "company_name": "(\u682a)\u30ed\u30fc\u30e4\u30eb\u3088\u3064\u3084",
+    "company_name": "(株)ローヤルよつや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u65b0\u6f5f\u770c",
+    "prefecture": "新潟県",
     "company_url": "http://www.ichiko-joetsu.com/",
-    "company_name": "(\u682a)\u30a4\u30c1\u30b3",
+    "company_name": "(株)イチコ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u65b0\u6f5f\u770c",
+    "prefecture": "新潟県",
     "company_url": "https://www.uoroku.co.jp/",
-    "company_name": "(\u682a)\u30a6\u30aa\u30ed\u30af",
+    "company_name": "(株)ウオロク",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u65b0\u6f5f\u770c",
+    "prefecture": "新潟県",
     "company_url": "https://www.niigata-cupid.com",
-    "company_name": "(\u682a)\u30ad\u30e5\u30fc\u30d4\u30c3\u30c8",
+    "company_name": "(株)キューピット",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u65b0\u6f5f\u770c",
+    "prefecture": "新潟県",
     "company_url": "https://jenic.jp/",
-    "company_name": "JR\u6771\u65e5\u672c\u65b0\u6f5f\u30b7\u30c6\u30a3\u30af\u30ea\u30a8\u30a4\u30c8(\u682a)",
+    "company_name": "JR東日本新潟シティクリエイト(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u65b0\u6f5f\u770c",
+    "prefecture": "新潟県",
     "company_url": "https://www.harashinnarus.jp/",
-    "company_name": "(\u682a)\u30ca\u30eb\u30b9",
+    "company_name": "(株)ナルス",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u65b0\u6f5f\u770c",
+    "prefecture": "新潟県",
     "company_url": "http://www.s-noguchi.co.jp/",
-    "company_name": "(\u682a)\u306e\u3050\u3061",
+    "company_name": "(株)のぐち",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u65b0\u6f5f\u770c",
+    "prefecture": "新潟県",
     "company_url": "https://www.harashinnarus.jp/",
-    "company_name": "(\u682a)\u539f\u4fe1",
+    "company_name": "(株)原信",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u65b0\u6f5f\u770c",
+    "prefecture": "新潟県",
     "company_url": "https://www.super-marui.com/",
-    "company_name": "(\u682a)\u30de\u30eb\u30a4",
+    "company_name": "(株)マルイ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bcc\u5c71\u770c",
+    "prefecture": "富山県",
     "company_url": "http://www.apple-sansho.co.jp/",
-    "company_name": "(\u682a)\u30a2\u30c3\u30d7\u30eb\u30b5\u30f3\u30b7\u30e7\u30a6",
+    "company_name": "(株)アップルサンショウ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bcc\u5c71\u770c",
+    "prefecture": "富山県",
     "company_url": "https://www.albis.co.jp/",
-    "company_name": "\u30a2\u30eb\u30d3\u30b9(\u682a)",
+    "company_name": "アルビス(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bcc\u5c71\u770c",
+    "prefecture": "富山県",
     "company_url": "https://www.ohsakaya-shop.jp/",
-    "company_name": "(\u682a)\u5927\u962a\u5c4b\u30b7\u30e7\u30c3\u30d7",
+    "company_name": "(株)大阪屋ショップ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bcc\u5c71\u770c",
+    "prefecture": "富山県",
     "company_url": "https://www.kurosakiya.co.jp/",
-    "company_name": "(\u682a)\u9ed2\u5d0e\u9bae\u9b5a",
+    "company_name": "(株)黒崎鮮魚",
     "supermarket_names": [
-      "\u9ed2\u5d0e\u5c4b"
+      "黒崎屋"
     ]
   },
   {
-    "prefecture": "\u5bcc\u5c71\u770c",
+    "prefecture": "富山県",
     "company_url": "https://tea-tree.jp/",
-    "company_name": "(\u682a)\u30c6\u30a3\u30fc\u30fb\u30c4\u30ea\u30fc\u30fb\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30ba",
+    "company_name": "(株)ティー・ツリー・コミュニケーションズ",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u5bcc\u5c71\u770c",
+    "prefecture": "富山県",
     "company_url": "http://www.maruen.co.jp/",
-    "company_name": "(\u682a)\u4e38\u5713\u5546\u5e97",
+    "company_name": "(株)丸圓商店",
     "supermarket_names": [
-      "\u30f4\u30a1\u30ed\u30fc\u30ec"
+      "ヴァローレ"
     ]
   },
   {
-    "prefecture": "\u77f3\u5ddd\u770c",
+    "prefecture": "石川県",
     "company_url": "https://adachistore.com/",
-    "company_name": "(\u682a)\u5b89\u9054",
+    "company_name": "(株)安達",
     "supermarket_names": [
-      "\u3042\u3060\u3061\u30b9\u30c8\u30a2"
+      "あだちストア"
     ]
   },
   {
-    "prefecture": "\u77f3\u5ddd\u770c",
+    "prefecture": "石川県",
     "company_url": "https://www.kajimart.com/",
-    "company_name": "(\u682a)\u935c\u6cbb\u5546\u5e97",
+    "company_name": "(株)鍜治商店",
     "supermarket_names": [
-      "\u30ab\u30b8\u30de\u30fc\u30c8"
+      "カジマート"
     ]
   },
   {
-    "prefecture": "\u77f3\u5ddd\u770c",
+    "prefecture": "石川県",
     "company_url": null,
-    "company_name": "(\u682a)\u5927\u4e38(DAIMARU)",
+    "company_name": "(株)大丸(DAIMARU)",
     "supermarket_names": [
       "DAIMARU"
     ]
   },
   {
-    "prefecture": "\u77f3\u5ddd\u770c",
+    "prefecture": "石川県",
     "company_url": "https://www.dontaku.co.jp/",
-    "company_name": "(\u682a)\u3069\u3093\u305f\u304f",
+    "company_name": "(株)どんたく",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u77f3\u5ddd\u770c",
+    "prefecture": "石川県",
     "company_url": "https://www.newsankyu.co.jp/",
-    "company_name": "(\u682a)\u30cb\u30e5\u30fc\u4e09\u4e45",
+    "company_name": "(株)ニュー三久",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u77f3\u5ddd\u770c",
+    "prefecture": "石川県",
     "company_url": "https://s-marue.co.jp/",
-    "company_name": "(\u682a)\u30de\u30eb\u30a8\u30fc",
+    "company_name": "(株)マルエー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "https://www.nagasugi.co.jp/store-izumoya.php",
-    "company_name": "(\u682a)\u3044\u305a\u3082\u3084",
+    "company_name": "(株)いずもや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "http://www.efure.co.jp/",
-    "company_name": "(\u682a)\u30a8\u30d5\u30ec",
+    "company_name": "(株)エフレ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "https://kimura-group48.jp/",
-    "company_name": "(\u682a)\u7247\u753a\u30d5\u30fc\u30c9\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "(株)片町フードセンター",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "https://ashimiya.jp/",
-    "company_name": "(\u682a)\u65b0\u9bae\u9928\u304a\u304f\u3048\u3064",
+    "company_name": "(株)新鮮館おくえつ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "http://ashimiya.jp/",
-    "company_name": "(\u682a)\u65b0\u9bae\u9928\u3075\u304f\u3044",
+    "company_name": "(株)新鮮館ふくい",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "https://kimura-group48.jp/",
-    "company_name": "(\u682a)\u6771\u90e8\u30d7\u30e9\u30b6",
+    "company_name": "(株)東部プラザ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": null,
-    "company_name": "(\u682a)\u4e2d\u5409\u5546\u5e97",
+    "company_name": "(株)中吉商店",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "https://www.nagasugi.co.jp/",
-    "company_name": "(\u682a)\u306a\u304c\u3059\u304e",
+    "company_name": "(株)ながすぎ",
     "supermarket_names": [
-      "\u30d3\u30c3\u30b0\u30de\u30fc\u30c8"
+      "ビッグマート"
     ]
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "http://www.honey.jp/",
-    "company_name": "(\u5354)\u30cf\u30cb\u30fc",
+    "company_name": "(協)ハニー",
     "supermarket_names": [
-      "*\u5370\u306f\u52a0\u76df\u4f01\u696d"
+      "*印は加盟企業"
     ]
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "https://foodfukui.cf0.jp/",
-    "company_name": "(\u682a)\u30d5\u30fc\u30c9\u798f\u4e95",
+    "company_name": "(株)フード福井",
     "supermarket_names": [
-      "A\u30b3\u30fc\u30d7"
+      "Aコープ"
     ]
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "https://www.fujiya.fukui.jp/",
-    "company_name": "(\u682a)\u5bcc\u58eb\u5c4b",
+    "company_name": "(株)富士屋",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u4e95\u770c",
+    "prefecture": "福井県",
     "company_url": "https://kimura-group48.jp/",
-    "company_name": "(\u682a)\u677e\u672c\u30d5\u30fc\u30c9\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "(株)松本フードセンター",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5c71\u68a8\u770c",
+    "prefecture": "山梨県",
     "company_url": "https://ichiyamamart.com/",
-    "company_name": "(\u682a)\u3044\u3061\u3084\u307e\u30de\u30fc\u30c8",
+    "company_name": "(株)いちやまマート",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5c71\u68a8\u770c",
+    "prefecture": "山梨県",
     "company_url": "https://www.ogino.co.jp/",
-    "company_name": "(\u682a)\u30aa\u30ae\u30ce",
+    "company_name": "(株)オギノ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5c71\u68a8\u770c",
+    "prefecture": "山梨県",
     "company_url": "https://www.ja-minami-alps-city.or.jp/",
-    "company_name": "JA\u5357\u30a2\u30eb\u30d7\u30b9\u5e02",
+    "company_name": "JA南アルプス市",
     "supermarket_names": [
-      "A\u30b3\u30fc\u30d7"
+      "Aコープ"
     ]
   },
   {
-    "prefecture": "\u9577\u91ce\u770c",
+    "prefecture": "長野県",
     "company_url": "http://www.kiraya.jp/",
-    "company_name": "(\u682a)\u30ad\u30e9\u30e4",
+    "company_name": "(株)キラヤ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u91ce\u770c",
+    "prefecture": "長野県",
     "company_url": "https://daiichi-super.com",
-    "company_name": "(\u682a)\u7b2c\u4e00\u30b9\u30fc\u30d1\u30fc",
+    "company_name": "(株)第一スーパー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u91ce\u770c",
+    "prefecture": "長野県",
     "company_url": null,
-    "company_name": "(\u682a)\u30bf\u30b1\u30c0\u30b9\u30c8\u30a2\u30fc(\u30d3\u30c3\u30b0\uff11)",
+    "company_name": "(株)タケダストアー(ビッグ１)",
     "supermarket_names": [
-      "\u30d3\u30c3\u30b0\uff11"
+      "ビッグ１"
     ]
   },
   {
-    "prefecture": "\u9577\u91ce\u770c",
+    "prefecture": "長野県",
     "company_url": "https://www.tsuruya-corp.co.jp/",
-    "company_name": "(\u682a)\u30c4\u30eb\u30e4",
+    "company_name": "(株)ツルヤ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u91ce\u770c",
+    "prefecture": "長野県",
     "company_url": "https://www.delicia-web.co.jp/",
-    "company_name": "(\u682a)\u30c7\u30ea\u30b7\u30a2",
+    "company_name": "(株)デリシア",
     "supermarket_names": [
-      "\u30c7\u30ea\u30b7\u30a2",
-      "\u30e6\u30fc\u30d1\u30ec\u30c3\u30c8"
+      "デリシア",
+      "ユーパレット"
     ]
   },
   {
-    "prefecture": "\u9577\u91ce\u770c",
+    "prefecture": "長野県",
     "company_url": "https://www.nishizawa.co.jp/",
-    "company_name": "(\u682a)\u30cb\u30b7\u30b6\u30ef",
+    "company_name": "(株)ニシザワ",
     "supermarket_names": [
-      "\u98df\u5f69\u9928",
-      "\u30d9\u30eb\u30b7\u30e3\u30a4\u30f3"
+      "食彩館",
+      "ベルシャイン"
     ]
   },
   {
-    "prefecture": "\u5c90\u961c\u770c",
+    "prefecture": "岐阜県",
     "company_url": "https://www.manpow.co.jp/",
-    "company_name": "(\u682a)\u672a\u6765\u5802\u9ad8\u5c71",
+    "company_name": "(株)未来堂高山",
     "supermarket_names": [
       "BOSS FOODS MARKET"
     ]
   },
   {
-    "prefecture": "\u9759\u5ca1\u770c",
+    "prefecture": "静岡県",
     "company_url": "https://ibcompany.co.jp/",
-    "company_name": "(\u682a)\u30a2\u30a4\u30fb\u30d3\u30fc\u30fb\u30ab\u30f3\u30d1\u30cb\u30fc",
+    "company_name": "(株)アイ・ビー・カンパニー",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u9759\u5ca1\u770c",
+    "prefecture": "静岡県",
     "company_url": "http://www.superaoki.com/",
-    "company_name": "(\u682a)\u3042\u304a\u304d",
+    "company_name": "(株)あおき",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9759\u5ca1\u770c",
+    "prefecture": "静岡県",
     "company_url": "https://www.entstore.co.jp/",
-    "company_name": "(\u682a)\u9060\u9244\u30b9\u30c8\u30a2",
+    "company_name": "(株)遠鉄ストア",
     "supermarket_names": [
-      "\u9060\u9244\u30b9\u30c8\u30a2",
-      "\u30d5\u30fc\u30c9\u30ef\u30f3"
+      "遠鉄ストア",
+      "フードワン"
     ]
   },
   {
-    "prefecture": "\u9759\u5ca1\u770c",
+    "prefecture": "静岡県",
     "company_url": "https://www.s-sanzen.com/",
-    "company_name": "(\u682a)\u4e09\u5584",
+    "company_name": "(株)三善",
     "supermarket_names": [
-      "\u30b5\u30f3\u30bc\u30f3"
+      "サンゼン"
     ]
   },
   {
-    "prefecture": "\u9759\u5ca1\u770c",
+    "prefecture": "静岡県",
     "company_url": "https://www.s-store.co.jp/",
-    "company_name": "(\u682a)\u9759\u9244\u30b9\u30c8\u30a2",
+    "company_name": "(株)静鉄ストア",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9759\u5ca1\u770c",
+    "prefecture": "静岡県",
     "company_url": "https://takaramc.co.jp/",
-    "company_name": "(\u682a)\u30bf\u30ab\u30e9\u30fb\u30a8\u30e0\u30b7\u30fc",
+    "company_name": "(株)タカラ・エムシー",
     "supermarket_names": [
-      "\u30d5\u30fc\u30c9\u30de\u30fc\u30b1\u30c3\u30c8\u30de\u30e0",
-      "\u30ea\u30d9\u30ed"
+      "フードマーケットマム",
+      "リベロ"
     ]
   },
   {
-    "prefecture": "\u9759\u5ca1\u770c",
+    "prefecture": "静岡県",
     "company_url": "https://ito-nagaya.co.jp/",
-    "company_name": "\u30ca\u30ac\u30e4(\u682a)",
+    "company_name": "ナガヤ(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9759\u5ca1\u770c",
+    "prefecture": "静岡県",
     "company_url": "https://www.bigfuji.co.jp/",
-    "company_name": "(\u682a)\u30d3\u30c3\u30b0\u5bcc\u58eb",
+    "company_name": "(株)ビッグ富士",
     "supermarket_names": [
-      "\u30a8\u30d6\u30ea\u30a3\u30d3\u30c3\u30b0\u30c7\u30fc"
+      "エブリィビッグデー"
     ]
   },
   {
-    "prefecture": "\u611b\u77e5\u770c",
+    "prefecture": "愛知県",
     "company_url": "https://www.foodoasis.jp/",
-    "company_name": "(\u682a)\u6e25\u7f8e\u30d5\u30fc\u30ba",
+    "company_name": "(株)渥美フーズ",
     "supermarket_names": [
-      "\u30d5\u30fc\u30c9\u30aa\u30a2\u30b7\u30b9\u3042\u3064\u307f"
+      "フードオアシスあつみ"
     ]
   },
   {
-    "prefecture": "\u611b\u77e5\u770c",
+    "prefecture": "愛知県",
     "company_url": "https://www.jr-plus.co.jp/",
-    "company_name": "(\u682a)JR\u6771\u6d77\u30ea\u30c6\u30a4\u30ea\u30f3\u30b0\u30fb\u30d7\u30e9\u30b9",
+    "company_name": "(株)JR東海リテイリング・プラス",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u611b\u77e5\u770c",
+    "prefecture": "愛知県",
     "company_url": "http://shoptokai.jp/",
-    "company_name": "(\u682a)\u30b7\u30b8\u30b7\u30fc\u30fb\u30b7\u30e7\u30c3\u30d7\u6771\u6d77",
+    "company_name": "(株)シジシー・ショップ東海",
     "supermarket_names": [
-      "\u30d5\u30fc\u30ba\u30a2\u30a4\u30e9\u30f3\u30c9"
+      "フーズアイランド"
     ]
   },
   {
-    "prefecture": "\u611b\u77e5\u770c",
+    "prefecture": "愛知県",
     "company_url": "http://powersnet.co.jp/",
-    "company_name": "(\u682a)\u30b7\u30d0\u30bf",
+    "company_name": "(株)シバタ",
     "supermarket_names": [
-      "\u30d1\u30ef\u30fc\u30ba",
-      "\u305f\u3064\u307f\u30b9\u30c8\u30a2\u30fc"
+      "パワーズ",
+      "たつみストアー"
     ]
   },
   {
-    "prefecture": "\u611b\u77e5\u770c",
+    "prefecture": "愛知県",
     "company_url": "https://www.yaosuzu.co.jp/",
-    "company_name": "\u30b9\u30fc\u30d1\u30fc\u30e4\u30aa\u30b9\u30ba(\u682a)",
+    "company_name": "スーパーヤオスズ(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u611b\u77e5\u770c",
+    "prefecture": "愛知県",
     "company_url": "https://www.super-yamadai.co.jp/",
-    "company_name": "(\u682a)\u30b9\u30fc\u30d1\u30fc\u30e4\u30de\u30c0\u30a4",
+    "company_name": "(株)スーパーヤマダイ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u611b\u77e5\u770c",
+    "prefecture": "愛知県",
     "company_url": "https://newlife-fuji.jp/",
-    "company_name": "(\u682a)\u30cb\u30e5\u30fc\u30e9\u30a4\u30d5\u30d5\u30b8",
+    "company_name": "(株)ニューライフフジ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u611b\u77e5\u770c",
+    "prefecture": "愛知県",
     "company_url": "https://www.yamanobu.co.jp/",
-    "company_name": "(\u682a)\u5c71\u4fe1\u5546\u5e97",
+    "company_name": "(株)山信商店",
     "supermarket_names": [
-      "\u3084\u307e\u306e\u3076"
+      "やまのぶ"
     ]
   },
   {
-    "prefecture": "\u611b\u77e5\u770c",
+    "prefecture": "愛知県",
     "company_url": "https://www.yoshizuya.com/",
-    "company_name": "(\u682a)\u30ef\u30a4\u30b9\u30c8\u30a2",
+    "company_name": "(株)ワイストア",
     "supermarket_names": [
-      "Y\u30b9\u30c8\u30a2",
-      "\u30e8\u30b7\u30c5\u30e4"
+      "Yストア",
+      "ヨシヅヤ"
     ]
   },
   {
-    "prefecture": "\u4e09\u91cd\u770c",
+    "prefecture": "三重県",
     "company_url": "https://www.ichigokan.co.jp/",
-    "company_name": "(\u682a)\u4e00\u53f7\u8218",
+    "company_name": "(株)一号舘",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4e09\u91cd\u770c",
+    "prefecture": "三重県",
     "company_url": "https://www.gyutora.com/",
-    "company_name": "(\u682a)\u304e\u3085\u30fc\u3068\u3089",
+    "company_name": "(株)ぎゅーとら",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4e09\u91cd\u770c",
+    "prefecture": "三重県",
     "company_url": "http://www.shufunomise.co.jp/",
-    "company_name": "(\u682a)\u4e3b\u5a66\u306e\u5e97 \u5c3e\u9df2",
+    "company_name": "(株)主婦の店 尾鷲",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4e09\u91cd\u770c",
+    "prefecture": "三重県",
     "company_url": "https://supersanshi.com",
-    "company_name": "\u30b9\u30fc\u30d1\u30fc\u30b5\u30f3\u30b7(\u682a)",
+    "company_name": "スーパーサンシ(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4e09\u91cd\u770c",
+    "prefecture": "三重県",
     "company_url": "http://www.gooday-tamaki.com/",
-    "company_name": "(\u682a)\u7389\u57ce",
+    "company_name": "(株)玉城",
     "supermarket_names": [
       "GOODAY"
     ]
   },
   {
-    "prefecture": "\u4e09\u91cd\u770c",
+    "prefecture": "三重県",
     "company_url": "http://www.sapore.co.jp/",
-    "company_name": "(\u682a)\u30de\u30eb\u30e4\u30b9",
+    "company_name": "(株)マルヤス",
     "supermarket_names": [
-      "\u30de\u30eb\u30e4\u30b9",
+      "マルヤス",
       "BASIC"
     ]
   },
   {
-    "prefecture": "\u4eac\u90fd\u5e9c",
+    "prefecture": "京都府",
     "company_url": "https://www.kyoto-itoken.co.jp/",
-    "company_name": "(\u682a)\u4f0a\u85e4\u8ed2",
+    "company_name": "(株)伊藤軒",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4eac\u90fd\u5e9c",
+    "prefecture": "京都府",
     "company_url": "http://www.k-amity.jp/",
-    "company_name": "(\u5354)\u4e80\u5ca1\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "(協)亀岡ショッピングセンター",
     "supermarket_names": [
-      "\u30a2\u30df\u30c6\u30a3"
+      "アミティ"
     ]
   },
   {
-    "prefecture": "\u4eac\u90fd\u5e9c",
+    "prefecture": "京都府",
     "company_url": "https://www.kanzakiya.co.jp/",
-    "company_name": "(\u682a)\u795e\ufa11\u5c4b",
+    "company_name": "(株)神﨑屋",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4eac\u90fd\u5e9c",
+    "prefecture": "京都府",
     "company_url": "https://sun-daiko.co.jp/",
-    "company_name": "\u30b5\u30f3\u30c0\u30a4\u30b3\u30fc(\u682a)",
+    "company_name": "サンダイコー(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4eac\u90fd\u5e9c",
+    "prefecture": "京都府",
     "company_url": "https://seisenkan-nakamura.co.jp/",
-    "company_name": "(\u682a)\u306a\u304b\u3080\u3089",
+    "company_name": "(株)なかむら",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4eac\u90fd\u5e9c",
+    "prefecture": "京都府",
     "company_url": "https://www.super-fresco.co.jp",
-    "company_name": "(\u682a)\u30cf\u30fc\u30c8\u30d5\u30ec\u30f3\u30c9",
+    "company_name": "(株)ハートフレンド",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u5927\u962a\u5e9c",
+    "prefecture": "大阪府",
     "company_url": "https://www.kansai-foodmarket.co.jp/",
-    "company_name": "\u30a4\u30ba\u30df\u30e4\u30fb\u962a\u6025\u30aa\u30a2\u30b7\u30b9(\u682a)",
+    "company_name": "イズミヤ・阪急オアシス(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5927\u962a\u5e9c",
+    "prefecture": "大阪府",
     "company_url": "https://www.kk-kano.co.jp/",
-    "company_name": "(\u682a)\u30ab\u30ce\u30fc",
+    "company_name": "(株)カノー",
     "supermarket_names": [
-      "\u98df\u54c1\u9928\u30a2\u30d7\u30ed"
+      "食品館アプロ"
     ]
   },
   {
-    "prefecture": "\u5927\u962a\u5e9c",
+    "prefecture": "大阪府",
     "company_url": "https://www.kohyo.co.jp/",
-    "company_name": "(\u682a)\u5149\u6d0b",
+    "company_name": "(株)光洋",
     "supermarket_names": [
       "KOHYO"
     ]
   },
   {
-    "prefecture": "\u5927\u962a\u5e9c",
+    "prefecture": "大阪府",
     "company_url": "http://www.konomiya.jp/",
-    "company_name": "(\u682a)\u30b3\u30ce\u30df\u30e4",
+    "company_name": "(株)コノミヤ",
     "supermarket_names": [
-      "\u30b3\u30ce\u30df\u30e4"
+      "コノミヤ"
     ]
   },
   {
-    "prefecture": "\u5927\u962a\u5e9c",
+    "prefecture": "大阪府",
     "company_url": "http://www.super-san-ei.co.jp/",
-    "company_name": "(\u682a)\u30b9\u30fc\u30d1\u30fc\u30b5\u30f3\u30a8\u30fc",
+    "company_name": "(株)スーパーサンエー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5927\u962a\u5e9c",
+    "prefecture": "大阪府",
     "company_url": "https://hellodaikyo.net",
-    "company_name": "(\u682a)\u30c0\u30a4\u30ad\u30e7\u30a6",
+    "company_name": "(株)ダイキョウ",
     "supermarket_names": [
-      "\u30cf\u30ed\u30fc\u30c0\u30a4\u30ad\u30e7\u30a6"
+      "ハローダイキョウ"
     ]
   },
   {
-    "prefecture": "\u5927\u962a\u5e9c",
+    "prefecture": "大阪府",
     "company_url": "https://www.pantry-lucky.jp/",
-    "company_name": "(\u682a)\u5927\u8fd1",
+    "company_name": "(株)大近",
     "supermarket_names": [
-      "\u30e9\u30c3\u30ad\u30fc",
-      "\u30d1\u30f3\u30c8\u30ea\u30fc"
+      "ラッキー",
+      "パントリー"
     ]
   },
   {
-    "prefecture": "\u5927\u962a\u5e9c",
+    "prefecture": "大阪府",
     "company_url": "http://www.bonshokai.co.jp",
-    "company_name": "\u30dc\u30f3\u5546\u4f1a(\u682a)",
+    "company_name": "ボン商会(株)",
     "supermarket_names": [
       "the Bon inc."
     ]
   },
   {
-    "prefecture": "\u5175\u5eab\u770c",
+    "prefecture": "兵庫県",
     "company_url": "https://www.ikarisuper.com/",
-    "company_name": "(\u682a)\u3044\u304b\u308a\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8",
+    "company_name": "(株)いかりスーパーマーケット",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5175\u5eab\u770c",
+    "prefecture": "兵庫県",
     "company_url": "https://www.kansaisuper.co.jp/",
-    "company_name": "(\u682a)\u95a2\u897f\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8",
+    "company_name": "(株)関西スーパーマーケット",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5175\u5eab\u770c",
+    "prefecture": "兵庫県",
     "company_url": "https://smile-circle.com/",
-    "company_name": "Smile Circle(\u682a)",
+    "company_name": "Smile Circle(株)",
     "supermarket_names": [
-      "\u30b0\u30e9\u30f3\u30c9\u30d5\u30fc\u30c9\u30db\u30fc\u30eb"
+      "グランドフードホール"
     ]
   },
   {
-    "prefecture": "\u5175\u5eab\u770c",
+    "prefecture": "兵庫県",
     "company_url": "https://www.yamada-store.com",
-    "company_name": "\u30e4\u30de\u30c0\u30b9\u30c8\u30a2\u30fc(\u682a)",
+    "company_name": "ヤマダストアー(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5948\u826f\u770c",
+    "prefecture": "奈良県",
     "company_url": "http://www.yamatoh.com/",
-    "company_name": "\u30e4\u30de\u30c8\u30fc\u5546\u4e8b(\u682a)",
+    "company_name": "ヤマトー商事(株)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u548c\u6b4c\u5c71\u770c",
+    "prefecture": "和歌山県",
     "company_url": "https://hirooka-g.co.jp/",
-    "company_name": "(\u682a)\u5ee3\u5ca1\u30fb\u5ee3\u751a",
+    "company_name": "(株)廣岡・廣甚",
     "supermarket_names": [
-      "\u30c7\u30ea\u30b7\u30e3\u30b9\u5ee3\u5ca1",
-      "\u30a8\u30d0\u30b0\u30ea\u30fc\u30f3"
+      "デリシャス廣岡",
+      "エバグリーン"
     ]
   },
   {
-    "prefecture": "\u9ce5\u53d6\u770c",
+    "prefecture": "鳥取県",
     "company_url": "http://sunmart.co.jp/",
-    "company_name": "(\u682a)\u30b5\u30f3\u30de\u30fc\u30c8",
+    "company_name": "(株)サンマート",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9ce5\u53d6\u770c",
+    "prefecture": "鳥取県",
     "company_url": "https://www.tohokigyo.com/",
-    "company_name": "(\u682a)\u6771\u5b9d\u4f01\u696d",
+    "company_name": "(株)東宝企業",
     "supermarket_names": [
-      "\u6771\u5b9d\u30b9\u30c8\u30a2",
-      "\u65b0\u3042\u3058\u305d\u3046"
+      "東宝ストア",
+      "新あじそう"
     ]
   },
   {
-    "prefecture": "\u5cf6\u6839\u770c",
+    "prefecture": "島根県",
     "company_url": "https://goodday-ushio.com/",
-    "company_name": "(\u682a)\u30a6\u30b7\u30aa",
+    "company_name": "(株)ウシオ",
     "supermarket_names": [
-      "\u30b0\u30c3\u30c7\u30a3\u30fc"
+      "グッディー"
     ]
   },
   {
-    "prefecture": "\u5cf6\u6839\u770c",
+    "prefecture": "島根県",
     "company_url": "https://www.kinuya.co.jp/",
-    "company_name": "(\u682a)\u30ad\u30cc\u30e4",
+    "company_name": "(株)キヌヤ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5cf6\u6839\u770c",
+    "prefecture": "島根県",
     "company_url": "https://heartpia-corp.com/",
-    "company_name": "(\u682a)\u30cf\u30fc\u30c8\u30d4\u30a2\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
+    "company_name": "(株)ハートピアコーポレーション",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u5cf6\u6839\u770c",
+    "prefecture": "島根県",
     "company_url": "https://makanaiya.jp/",
-    "company_name": "(\u682a)\u3075\u304f\u3057\u307e",
+    "company_name": "(株)ふくしま",
     "supermarket_names": [
-      "\u30e9\u30d1\u30f3"
+      "ラパン"
     ]
   },
   {
-    "prefecture": "\u5cf6\u6839\u770c",
+    "prefecture": "島根県",
     "company_url": "https://www.mishimaya.com/",
-    "company_name": "(\u682a)\u307f\u3057\u307e\u3084",
+    "company_name": "(株)みしまや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5cf6\u6839\u770c",
+    "prefecture": "島根県",
     "company_url": "https://e-yamadaya.co.jp/",
-    "company_name": "(\u682a)\u30e4\u30de\u30c0\u30e4",
+    "company_name": "(株)ヤマダヤ",
     "supermarket_names": [
-      "\u3072\u307e\u308a"
+      "ひまり"
     ]
   },
   {
-    "prefecture": "\u5ca1\u5c71\u770c",
+    "prefecture": "岡山県",
     "company_url": "https://www.halows.com/",
-    "company_name": "(\u682a)\u30cf\u30ed\u30fc\u30ba",
+    "company_name": "(株)ハローズ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5ca1\u5c71\u770c",
+    "prefecture": "岡山県",
     "company_url": "https://www.maruilife.co.jp/",
-    "company_name": "(\u682a)\u30de\u30eb\u30a4",
+    "company_name": "(株)マルイ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "https://www.super-every.co.jp/",
-    "company_name": "(\u682a)\u30a8\u30d6\u30ea\u30a4",
+    "company_name": "(株)エブリイ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "http://www.liquorlandjp.com/",
-    "company_name": "(\u682a)\u30ad\u30e0\u30e9",
+    "company_name": "(株)キムラ",
     "supermarket_names": [
-      "\u30ea\u30ab\u30fc\u30e9\u30f3\u30c9"
+      "リカーランド"
     ]
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "https://www.saijo-shoji.co.jp/",
-    "company_name": "\u897f\u689d\u5546\u4e8b(\u682a)",
+    "company_name": "西條商事(株)",
     "supermarket_names": [
-      "\u30b7\u30e7\u30fc\u30b8"
+      "ショージ"
     ]
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "https://www.spark-net.co.jp/",
-    "company_name": "(\u682a)\u30b9\u30d1\u30fc\u30af",
+    "company_name": "(株)スパーク",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "https://www.daiso-sangyo.co.jp/",
-    "company_name": "(\u682a)\u5927\u5275\u7523\u696d",
+    "company_name": "(株)大創産業",
     "supermarket_names": [
-      "\u30c0\u30a4\u30bd\u30fc"
+      "ダイソー"
     ]
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "http://www.kk-nichie.co.jp/",
-    "company_name": "(\u682a)\u30cb\u30c1\u30a8\u30fc",
+    "company_name": "(株)ニチエー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "https://www.k-fujisan.co.jp/",
-    "company_name": "(\u682a)\u85e4\u4e09",
+    "company_name": "(株)藤三",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "https://www.purecook.jp/",
-    "company_name": "(\u682a)\u30d5\u30b8\u30de\u30fc\u30c8",
+    "company_name": "(株)フジマート",
     "supermarket_names": [
-      "\u30d4\u30e5\u30a2\u30fc\u30af\u30c3\u30af"
+      "ピュアークック"
     ]
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "https://www.fresta.co.jp/",
-    "company_name": "(\u682a)\u30d5\u30ec\u30b9\u30bf",
+    "company_name": "(株)フレスタ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "https://www.alzo.co.jp/",
-    "company_name": "(\u682a)\u4e07\u60e3",
+    "company_name": "(株)万惣",
     "supermarket_names": [
-      "\u30a2\u30eb\u30be",
-      "\u4e07\u60e3",
-      "\u30de\u30eb\u30b7\u30a7\u30fc"
+      "アルゾ",
+      "万惣",
+      "マルシェー"
     ]
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "https://www.yours.co.jp/",
-    "company_name": "(\u682a)\u30e6\u30a2\u30fc\u30ba",
+    "company_name": "(株)ユアーズ",
     "supermarket_names": [
-      "\u30e6\u30a2\u30fc\u30ba",
-      "\u30a2\u30d0\u30f3\u30bb"
+      "ユアーズ",
+      "アバンセ"
     ]
   },
   {
-    "prefecture": "\u5c71\u53e3\u770c",
+    "prefecture": "山口県",
     "company_url": "http://www.mrk09.co.jp/",
-    "company_name": "(\u682a)\u4e38\u4e45",
+    "company_name": "(株)丸久",
     "supermarket_names": [
-      "\u30a2\u30eb\u30af",
-      "\u4e38\u4e45"
+      "アルク",
+      "丸久"
     ]
   },
   {
-    "prefecture": "\u5c71\u53e3\u770c",
+    "prefecture": "山口県",
     "company_url": "https://yours-value.jp/",
-    "company_name": "(\u682a)\u30e6\u30a2\u30fc\u30ba\u30fb\u30d0\u30ea\u30e5\u30fc",
+    "company_name": "(株)ユアーズ・バリュー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5fb3\u5cf6\u770c",
+    "prefecture": "徳島県",
     "company_url": "http://ff-ookita.jp/",
-    "company_name": "(\u682a)\u30aa\u30aa\u30ad\u30bf",
+    "company_name": "(株)オオキタ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5fb3\u5cf6\u770c",
+    "prefecture": "徳島県",
     "company_url": "https://www.tokushimaru.jp/",
-    "company_name": "(\u682a)\u3068\u304f\u3057\u4e38",
+    "company_name": "(株)とくし丸",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9999\u5ddd\u770c",
+    "prefecture": "香川県",
     "company_url": "https://www.suijin-ichiba.com/",
-    "company_name": "(\u682a)\u53b3\u9078",
+    "company_name": "(株)厳選",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u611b\u5a9b\u770c",
+    "prefecture": "愛媛県",
     "company_url": "http://www.abc-fms.co.jp/",
-    "company_name": "(\u682a)\u30d5\u30b8\u30de\u30fc\u30c8\u56db\u56fd",
+    "company_name": "(株)フジマート四国",
     "supermarket_names": [
-      "\u30b9\u30fc\u30d1\u30fcABC"
+      "スーパーABC"
     ]
   },
   {
-    "prefecture": "\u9ad8\u77e5\u770c",
+    "prefecture": "高知県",
     "company_url": "http://www.ace1.co.jp/",
-    "company_name": "(\u682a)\u30a8\u30fc\u30b9\u30ef\u30f3",
+    "company_name": "(株)エースワン",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9ad8\u77e5\u770c",
+    "prefecture": "高知県",
     "company_url": "https://sunshinechain.com/",
-    "company_name": "(\u682a)\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30c1\u30a7\u30fc\u30f3\u672c\u90e8",
+    "company_name": "(株)サンシャインチェーン本部",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9ad8\u77e5\u770c",
+    "prefecture": "高知県",
     "company_url": "https://www.sunplaza-kochi.co.jp/",
-    "company_name": "(\u682a)\u30b5\u30f3\u30d7\u30e9\u30b6",
+    "company_name": "(株)サンプラザ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9ad8\u77e5\u770c",
+    "prefecture": "高知県",
     "company_url": null,
-    "company_name": "\u56db\u56fd\u65b0\u65e5\u672c\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u5354\u4f1a\u30b0\u30eb\u30fc\u30d7(\u306f\u52a0\u76df\u4f01\u696d)",
+    "company_name": "四国新日本スーパーマーケット協会グループ(は加盟企業)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9ad8\u77e5\u770c",
+    "prefecture": "高知県",
     "company_url": "https://www.suehiloya.jp/",
-    "company_name": "(\u682a)\u672b\u5e83",
+    "company_name": "(株)末広",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9ad8\u77e5\u770c",
+    "prefecture": "高知県",
     "company_url": "https://value-tsc.jp/",
-    "company_name": "(\u682a)\u571f\u4f50\u5c71\u7530\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "(株)土佐山田ショッピングセンター",
     "supermarket_names": [
-      "\u30d0\u30ea\u30e5\u30fc"
+      "バリュー"
     ]
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": "http://yakuinvalue.com/",
-    "company_name": "(\u682a)\u30a4\u30fc\u30de\u30fc\u30c8",
+    "company_name": "(株)イーマート",
     "supermarket_names": [
-      "\u85ac\u9662\u30d0\u30ea\u30e5\u30fc"
+      "薬院バリュー"
     ]
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": "https://www.acoop-kyushu.jp/",
-    "company_name": "(\u682a)A\u30b3\u30fc\u30d7\u4e5d\u5dde",
+    "company_name": "(株)Aコープ九州",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": null,
-    "company_name": "\u4e5d\u5dde\u65b0\u65e5\u672c\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u5354\u4f1a\u30b0\u30eb\u30fc\u30d7(\u306f\u30b0\u30eb\u30fc\u30d7\u4f01\u696d)",
+    "company_name": "九州新日本スーパーマーケット協会グループ(はグループ企業)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": "https://www.kyushu-sg.co.jp/",
-    "company_name": "(\u682a)\u4e5d\u5dde\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u30b0\u30eb\u30fc\u30d7",
+    "company_name": "(株)九州スーパーマーケットグループ",
     "supermarket_names": [
-      "*1\u306f\u52a0\u76df\u4f01\u696d"
+      "*1は加盟企業"
     ]
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": null,
-    "company_name": "(\u682a)\u30b5\u30f3\u30b0\u30ea\u30f3",
+    "company_name": "(株)サングリン",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": null,
-    "company_name": "(\u682a)\u30b5\u30f3\u30d4\u30c3\u30c8(\u30b5\u30f3\u30d4\u30c3\u30c8\u30d0\u30ea\u30e5\u30fc)",
+    "company_name": "(株)サンピット(サンピットバリュー)",
     "supermarket_names": [
-      "\u30b5\u30f3\u30d4\u30c3\u30c8\u30d0\u30ea\u30e5\u30fc"
+      "サンピットバリュー"
     ]
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": "https://www.daikyo-plaza.jp/",
-    "company_name": "(\u682a)\u30c0\u30a4\u30ad\u30e7\u30fc\u30d7\u30e9\u30b6",
+    "company_name": "(株)ダイキョープラザ",
     "supermarket_names": [
-      "\u30c0\u30a4\u30ad\u30e7\u30fc\u30d0\u30ea\u30e5\u30fc"
+      "ダイキョーバリュー"
     ]
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": "https://nishitetsu-store.jp/",
-    "company_name": "(\u682a)\u897f\u9244\u30b9\u30c8\u30a2",
+    "company_name": "(株)西鉄ストア",
     "supermarket_names": [
-      "\u306b\u3057\u3066\u3064\u30b9\u30c8\u30a2",
-      "\u30ec\u30ac\u30cd\u30c3\u30c8",
-      "\u30b9\u30d4\u30ca"
+      "にしてつストア",
+      "レガネット",
+      "スピナ"
     ]
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": "http://www.hsf-g.com/",
-    "company_name": "(\u682a)\u535a\u591a\u30b9\u30c6\u30a4\u30b7\u30e7\u30f3\u30d5\u30fc\u30c9",
+    "company_name": "(株)博多ステイションフード",
     "supermarket_names": [
-      "\u535a\u591a\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3\u30d5\u30fc\u30c9"
+      "博多ステーションフード"
     ]
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": "http://www.ootemon-hazama.jp/",
-    "company_name": "(\u682a)\u6ce2\u4f50\u9593\u98df\u6599\u54c1\u5e97",
+    "company_name": "(株)波佐間食料品店",
     "supermarket_names": [
-      "\u30cb\u30e5\u30fc\u30cf\u30b6\u30de"
+      "ニューハザマ"
     ]
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": "https://www.halloday.co.jp/",
-    "company_name": "(\u682a)\u30cf\u30ed\u30fc\u30c7\u30a4",
+    "company_name": "(株)ハローデイ",
     "supermarket_names": [
-      "\u30cf\u30ed\u30fc\u30c7\u30a4",
-      "\u30dc\u30f3\u30e9\u30d1\u30b9"
+      "ハローデイ",
+      "ボンラパス"
     ]
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": null,
-    "company_name": "(\u682a)\u30de\u30eb\u30b3\u30fc(\u30de\u30eb\u30b3\u30fc\u30d0\u30ea\u30e5\u30fc)",
+    "company_name": "(株)マルコー(マルコーバリュー)",
     "supermarket_names": [
-      "\u30de\u30eb\u30b3\u30fc\u30d0\u30ea\u30e5\u30fc"
+      "マルコーバリュー"
     ]
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": "http://market-link.jp/",
-    "company_name": "(\u6709)\u30ea\u30f3\u30af",
+    "company_name": "(有)リンク",
     "supermarket_names": [
-      "\u30d0\u30ea\u30e5\u30fc\u30ea\u30f3\u30af"
+      "バリューリンク"
     ]
   },
   {
-    "prefecture": "\u4f50\u8cc0\u770c",
+    "prefecture": "佐賀県",
     "company_url": null,
-    "company_name": "(\u682a)\u4e09\u6804(\u5e02\u5834\u30d0\u30ea\u30e5\u30fc\u30b5\u30f3\u30a8\u30fc)",
+    "company_name": "(株)三栄(市場バリューサンエー)",
     "supermarket_names": [
-      "\u5e02\u5834\u30d0\u30ea\u30e5\u30fc\u30b5\u30f3\u30a8\u30fc"
+      "市場バリューサンエー"
     ]
   },
   {
-    "prefecture": "\u4f50\u8cc0\u770c",
+    "prefecture": "佐賀県",
     "company_url": "https://www.super-morinaga.co.jp/",
-    "company_name": "(\u682a)\u30b9\u30fc\u30d1\u30fc\u30e2\u30ea\u30ca\u30ac",
+    "company_name": "(株)スーパーモリナガ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4f50\u8cc0\u770c",
+    "prefecture": "佐賀県",
     "company_url": "https://maizuru.co.jp/",
-    "company_name": "(\u682a)\u307e\u3044\u3065\u308b\u767e\u8ca8\u5e97",
+    "company_name": "(株)まいづる百貨店",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": "https://value-ichiyama.com/",
-    "company_name": "(\u682a)\u30a4\u30c1\u30e4\u30de",
+    "company_name": "(株)イチヤマ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": "https://www.saikinet.co.jp/",
-    "company_name": "(\u682a)\u30b5\u30a4\u30ad",
+    "company_name": "(株)サイキ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": "http://www.sunlife-co.jp/",
-    "company_name": "\u30b5\u30f3\u30e9\u30a4\u30d5(\u682a)",
+    "company_name": "サンライフ(株)",
     "supermarket_names": [
-      "\u30d5\u30fc\u30ba\u30d4\u30fc\u30d7\u30eb"
+      "フーズピープル"
     ]
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": "https://joyfulsun.co.jp/",
-    "company_name": "(\u682a)\u30b8\u30e7\u30a4\u30d5\u30eb\u30b5\u30f3",
+    "company_name": "(株)ジョイフルサン",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": null,
-    "company_name": "(\u682a)\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30d7\u30e9\u30b6\u7d00\u4e45\u5c4b(\u30d0\u30ea\u30e5\u30fc\u5e73\u5c71\u5e97)",
+    "company_name": "(株)ショッピングプラザ紀久屋(バリュー平山店)",
     "supermarket_names": [
-      "\u30d0\u30ea\u30e5\u30fc\u5e73\u5c71\u5e97"
+      "バリュー平山店"
     ]
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": "http://takesue.co.jp/",
-    "company_name": "(\u682a)\u30bf\u30b1\u30b9\u30a8",
+    "company_name": "(株)タケスエ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": "http://www.s-tobi.com/",
-    "company_name": "(\u682a)\u6771\u7f8e",
+    "company_name": "(株)東美",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": "https://kamity.jp/",
-    "company_name": "(\u682a)\u4e2d\u6751\u8208\u7523(\u30ab\u30df\u30c6\u30a3)",
+    "company_name": "(株)中村興産(カミティ)",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": "https://www.pup2.co.jp/",
-    "company_name": "(\u682a)\u30d1\u30c3\u30d7\u30fb\u30b6\u30fb\u30bb\u30ab\u30f3\u30c9\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
+    "company_name": "(株)パップ・ザ・セカンドコーポレーション",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": null,
-    "company_name": "(\u682a)\u6d5c\u559c\u5c4b(\u30d0\u30ea\u30e5\u30fc\u306f\u307e\u304d\u3084)",
+    "company_name": "(株)浜喜屋(バリューはまきや)",
     "supermarket_names": [
-      "\u30d0\u30ea\u30e5\u30fc\u306f\u307e\u304d\u3084"
+      "バリューはまきや"
     ]
   },
   {
-    "prefecture": "\u9577\u5d0e\u770c",
+    "prefecture": "長崎県",
     "company_url": "https://mitsui321.jimdofree.com/",
-    "company_name": "(\u682a)\u307f\u3064\u3044",
+    "company_name": "(株)みつい",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u718a\u672c\u770c",
+    "prefecture": "熊本県",
     "company_url": "https://www.isumi-s.co.jp/",
-    "company_name": "(\u682a)\u30a4\u30b9\u30df\u5546\u4e8b",
+    "company_name": "(株)イスミ商事",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u718a\u672c\u770c",
+    "prefecture": "熊本県",
     "company_url": "https://www.impact-one.co.jp/",
-    "company_name": "(\u682a)\u30a4\u30f3\u30d1\u30af\u30c8\u30ef\u30f3",
+    "company_name": "(株)インパクトワン",
     "supermarket_names": [
-      "\u30a4\u30f3\u30d1\u30af\u30c8\u30ef\u30f3\u30d7\u30e9\u30b9"
+      "インパクトワンプラス"
     ]
   },
   {
-    "prefecture": "\u718a\u672c\u770c",
+    "prefecture": "熊本県",
     "company_url": null,
-    "company_name": "\u718a\u672c\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u30b0\u30eb\u30fc\u30d7",
+    "company_name": "熊本スーパーマーケットグループ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u718a\u672c\u770c",
+    "prefecture": "熊本県",
     "company_url": "https://foodyone.com/",
-    "company_name": "\u9db4\u5c4b\u5546\u4e8b(\u682a)",
+    "company_name": "鶴屋商事(株)",
     "supermarket_names": [
       "FOODY ONE"
     ]
   },
   {
-    "prefecture": "\u718a\u672c\u770c",
+    "prefecture": "熊本県",
     "company_url": "https://www.youmart-tokunaga.com/",
-    "company_name": "(\u682a)\u30e6\u30fc\u30de\u30fc\u30c8\u30c8\u30af\u30ca\u30ac",
+    "company_name": "(株)ユーマートトクナガ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5927\u5206\u770c",
+    "prefecture": "大分県",
     "company_url": "http://www.value-tuiteru.com/",
-    "company_name": "(\u6709)\u5c0f\u4e32\u5546\u5e97",
+    "company_name": "(有)小串商店",
     "supermarket_names": [
-      "\u30d0\u30ea\u30e5\u30fc"
+      "バリュー"
     ]
   },
   {
-    "prefecture": "\u5927\u5206\u770c",
+    "prefecture": "大分県",
     "company_url": null,
-    "company_name": "(\u682a)\u795e\u7530\u697d\u5e02",
+    "company_name": "(株)神田楽市",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5927\u5206\u770c",
+    "prefecture": "大分県",
     "company_url": null,
-    "company_name": "(\u682a)\u30ad\u30c1\u30bb(\u30d0\u30ea\u30e5\u30fc)",
+    "company_name": "(株)キチセ(バリュー)",
     "supermarket_names": [
-      "\u30d0\u30ea\u30e5\u30fc"
+      "バリュー"
     ]
   },
   {
-    "prefecture": "\u5927\u5206\u770c",
+    "prefecture": "大分県",
     "company_url": null,
-    "company_name": "(\u682a)\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30d7\u30e9\u30b6 \u30a8\u30fc\u30b9",
+    "company_name": "(株)ショッピングプラザ エース",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5927\u5206\u770c",
+    "prefecture": "大分県",
     "company_url": "http://aokisuper.com/",
-    "company_name": "(\u6709)\u30b9\u30fc\u30d1\u30fc\u9752\u6728",
+    "company_name": "(有)スーパー青木",
     "supermarket_names": [
-      "\u30b9\u30fc\u30d1\u30fc\u3042\u304a\u304d"
+      "スーパーあおき"
     ]
   },
   {
-    "prefecture": "\u5927\u5206\u770c",
+    "prefecture": "大分県",
     "company_url": "https://super-hosokawa.com/",
-    "company_name": "(\u682a)\u30b9\u30fc\u30d1\u30fc\u7d30\u5ddd",
+    "company_name": "(株)スーパー細川",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5927\u5206\u770c",
+    "prefecture": "大分県",
     "company_url": null,
-    "company_name": "(\u6709)\u3066\u3064\u3084",
+    "company_name": "(有)てつや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5927\u5206\u770c",
+    "prefecture": "大分県",
     "company_url": "http://www.oita-maruya.com/",
-    "company_name": "(\u6709)\u307e\u308b\u3084",
+    "company_name": "(有)まるや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bae\u5d0e\u770c",
+    "prefecture": "宮崎県",
     "company_url": "https://pantryksuke.com/",
-    "company_name": "(\u6709)\u6176\u52a9",
+    "company_name": "(有)慶助",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u5bae\u5d0e\u770c",
+    "prefecture": "宮崎県",
     "company_url": "https://www.sa-tekuroshio.com/",
-    "company_name": "(\u540c)SA\u30fbTe\u9ed2\u6f6e",
+    "company_name": "(同)SA・Te黒潮",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bae\u5d0e\u770c",
+    "prefecture": "宮崎県",
     "company_url": "https://www.m-nagayama.co.jp/",
-    "company_name": "(\u682a)\u306a\u304c\u3084\u307e",
+    "company_name": "(株)ながやま",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": null,
-    "company_name": "(\u682a)\u79cb\u4e38\u5546\u4f1a",
+    "company_name": "(株)秋丸商会",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": "https://sun-grp.jp/",
-    "company_name": "(\u682a)\u3046\u3057\u3058\u307e\u30b9\u30c8\u30a2\u30fc",
+    "company_name": "(株)うしじまストアー",
     "supermarket_names": [
-      "\u30b5\u30f3\u30b7\u30fc\u30c9"
+      "サンシード"
     ]
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": null,
-    "company_name": "(\u682a)\u30b7\u30fc\u30b8\u30fc\u30b7\u30fc\u5357\u4e5d\u5dde\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "(株)シージーシー南九州センター",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": "https://shiroyamastore.com",
-    "company_name": "(\u682a)\u57ce\u5c71\u30b9\u30c8\u30a2\u30fc",
+    "company_name": "(株)城山ストアー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": "https://www.super-yoshida.com/",
-    "company_name": "(\u682a)\u30b9\u30fc\u30d1\u30fc\u3088\u3057\u3060",
+    "company_name": "(株)スーパーよしだ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": "https://www.homecenter-takami.com/",
-    "company_name": "(\u682a)\u30bf\u30ab\u30df",
+    "company_name": "(株)タカミ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": null,
-    "company_name": "(\u682a)\u6771\u90f7\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8(\u5e02\u5834\u30d0\u30ea\u30e5\u30fc\u30c8\u30fc\u30b4\u30fc)",
+    "company_name": "(株)東郷スーパーマーケット(市場バリュートーゴー)",
     "supermarket_names": [
-      "\u5e02\u5834\u30d0\u30ea\u30e5\u30fc\u30c8\u30fc\u30b4\u30fc"
+      "市場バリュートーゴー"
     ]
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": "https://www.narizawa.jp/",
-    "company_name": "(\u6709)\u306a\u308a\u3056\u308f",
+    "company_name": "(有)なりざわ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": "https://nishimuta.co.jp/",
-    "company_name": "(\u682a)\u30cb\u30b7\u30e0\u30bf",
+    "company_name": "(株)ニシムタ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": null,
-    "company_name": "(\u682a)\u4e07\u4e16\u30b9\u30c8\u30a2\u30fc",
+    "company_name": "(株)万世ストアー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9e7f\u5150\u5cf6\u770c",
+    "prefecture": "鹿児島県",
     "company_url": "https://www.yamakataya-store.jp/",
-    "company_name": "(\u682a)\u5c71\u5f62\u5c4b\u30b9\u30c8\u30a2",
+    "company_name": "(株)山形屋ストア",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6c96\u7e04\u770c",
+    "prefecture": "沖縄県",
     "company_url": "https://www.washita.co.jp/info/",
-    "company_name": "(\u682a)\u6c96\u7e04\u770c\u7269\u7523\u516c\u793e",
+    "company_name": "(株)沖縄県物産公社",
     "supermarket_names": [
       ""
     ]
   },
   {
-    "prefecture": "\u6c96\u7e04\u770c",
+    "prefecture": "沖縄県",
     "company_url": "https://union-okinawa.com/",
-    "company_name": "(\u682a)\u91ce\u5d69\u5546\u4f1a",
+    "company_name": "(株)野嵩商会",
     "supermarket_names": [
-      "\u30d5\u30ec\u30c3\u30b7\u30e5\u30d7\u30e9\u30b6\u30e6\u30cb\u30aa\u30f3",
-      "\u30e6\u30cb\u30aa\u30f3\u30b9\u30ab\u30e9"
+      "フレッシュプラザユニオン",
+      "ユニオンスカラ"
     ]
   },
   {
-    "prefecture": "\u6c96\u7e04\u770c",
+    "prefecture": "沖縄県",
     "company_url": "https://ryubostore.jp/",
-    "company_name": "(\u682a)\u30ea\u30a6\u30dc\u30a6\u30b9\u30c8\u30a2",
+    "company_name": "(株)リウボウストア",
     "supermarket_names": [
-      "\u308a\u3046\u307c\u3046"
+      "りうぼう"
     ]
   },
   {
-    "prefecture": "\u6d77\u5916",
+    "prefecture": "海外",
     "company_url": "http://katagiri.com/",
-    "company_name": "(\u682a)\u7247\u6850\u5546\u4f1a",
+    "company_name": "(株)片桐商会",
     "supermarket_names": [
       "KATAGIRI"
     ]
   },
   {
-    "prefecture": "\u6d77\u5916",
+    "prefecture": "海外",
     "company_url": "http://www.civil-mart.com.tw/",
-    "company_name": "\u91d1\u559c\u7f8e",
+    "company_name": "金喜美",
     "supermarket_names": [
-      "\u559c\u7f8e\u8d85\u5e02"
+      "喜美超市"
     ]
   },
   {
-    "prefecture": "\u5317\u6d77\u9053",
+    "prefecture": "北海道",
     "company_url": "https://www.daiichi-d.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30c0\u30a4\u30a4\u30c1",
+    "company_name": "株式会社ダイイチ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9752\u68ee\u770c",
+    "prefecture": "青森県",
     "company_url": "http://www.kakemo.com",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30b9\u30fc\u30d1\u30fc\u30ab\u30b1\u30e2",
+    "company_name": "株式会社スーパーカケモ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5ca9\u624b\u770c",
+    "prefecture": "岩手県",
     "company_url": "http://www.super-maruichi.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30de\u30eb\u30a4\u30c1",
+    "company_name": "株式会社マルイチ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u79cb\u7530\u770c",
+    "prefecture": "秋田県",
     "company_url": "http://www.mv-tohoku.co.jp/",
-    "company_name": "\u30a4\u30aa\u30f3\u6771\u5317\u682a\u5f0f\u4f1a\u793e",
+    "company_name": "イオン東北株式会社",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5c71\u5f62\u770c",
+    "prefecture": "山形県",
     "company_url": "http://www.yamazawa.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30e4\u30de\u30b6\u30ef",
+    "company_name": "株式会社ヤマザワ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bae\u57ce\u770c",
+    "prefecture": "宮城県",
     "company_url": "http://www.malnet.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30de\u30eb\u30cb",
+    "company_name": "株式会社マルニ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u5cf6\u770c",
+    "prefecture": "福島県",
     "company_url": "http://www.ichii-yume.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u3044\u3061\u3044",
+    "company_name": "株式会社いちい",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u65b0\u6f5f\u770c",
+    "prefecture": "新潟県",
     "company_url": "https://www.axial-r.com/",
-    "company_name": "\u30a2\u30af\u30b7\u30a2\u30eb\u30ea\u30c6\u30a4\u30ea\u30f3\u30b0\u682a\u5f0f\u4f1a\u793e",
+    "company_name": "アクシアルリテイリング株式会社",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u7fa4\u99ac\u770c",
+    "prefecture": "群馬県",
     "company_url": "https://www.torisen.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u3068\u308a\u305b\u3093",
+    "company_name": "株式会社とりせん",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6803\u6728\u770c",
+    "prefecture": "栃木県",
     "company_url": "http://www.eco-s.co.jp/tairaya.php",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u305f\u3044\u3089\u3084",
+    "company_name": "株式会社たいらや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u8328\u57ce\u770c",
+    "prefecture": "茨城県",
     "company_url": "http://www.kasumi.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30ab\u30b9\u30df",
+    "company_name": "株式会社カスミ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u57fc\u7389\u770c",
+    "prefecture": "埼玉県",
     "company_url": "http://www.maruya-group.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30de\u30eb\u30e4",
+    "company_name": "株式会社マルヤ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6771\u4eac\u90fd",
+    "prefecture": "東京都",
     "company_url": "http://www.inageya.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u3044\u306a\u3052\u3084",
+    "company_name": "株式会社いなげや",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u795e\u5948\u5ddd\u770c",
+    "prefecture": "神奈川県",
     "company_url": "http://www.arai-group.co.jp",
-    "company_name": "\u8352\u4e95\u5546\u4e8b\u682a\u5f0f\u4f1a\u793e",
+    "company_name": "荒井商事株式会社",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9577\u91ce\u770c",
+    "prefecture": "長野県",
     "company_url": "http://www.delicia-web.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30c7\u30ea\u30b7\u30a2",
+    "company_name": "株式会社デリシア",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9759\u5ca1\u770c",
+    "prefecture": "静岡県",
     "company_url": "http://www.tagoju.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u7530\u5b50\u91cd",
+    "company_name": "株式会社田子重",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u611b\u77e5\u770c",
+    "prefecture": "愛知県",
     "company_url": "http://www.nafuco-fujiya.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u4e0d\u4e8c\u5c4b",
+    "company_name": "株式会社不二屋",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4e09\u91cd\u770c",
+    "prefecture": "三重県",
     "company_url": "https://www.supersanshi.com/",
-    "company_name": "\u30b9\u30fc\u30d1\u30fc\u30b5\u30f3\u30b7\u682a\u5f0f\u4f1a\u793e",
+    "company_name": "スーパーサンシ株式会社",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bcc\u5c71\u770c",
+    "prefecture": "富山県",
     "company_url": "http://www.albis.co.jp/",
-    "company_name": "\u30a2\u30eb\u30d3\u30b9\u682a\u5f0f\u4f1a\u793e",
+    "company_name": "アルビス株式会社",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5c90\u961c\u770c",
+    "prefecture": "岐阜県",
     "company_url": "http://www.valor.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30d0\u30ed\u30fc",
+    "company_name": "株式会社バロー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6ecb\u8cc0\u770c",
+    "prefecture": "滋賀県",
     "company_url": "http://www.heiwado.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u5e73\u548c\u5802",
+    "company_name": "株式会社平和堂",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u4eac\u90fd\u5e9c",
+    "prefecture": "京都府",
     "company_url": "http://www.mg-shop.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30a8\u30e0\u30b8\u30fc",
+    "company_name": "株式会社エムジー",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5927\u962a\u5e9c",
+    "prefecture": "大阪府",
     "company_url": "https://www.keihan-the-store.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u4eac\u962a\u30b6\u30fb\u30b9\u30c8\u30a2",
+    "company_name": "株式会社京阪ザ・ストア",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u548c\u6b4c\u5c71\u770c",
+    "prefecture": "和歌山県",
     "company_url": "http://www.okuwa.net/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30aa\u30fc\u30af\u30ef",
+    "company_name": "株式会社オークワ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5175\u5eab\u770c",
+    "prefecture": "兵庫県",
     "company_url": "http://www.kansaisuper.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u95a2\u897f\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8",
+    "company_name": "株式会社関西スーパーマーケット",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9ce5\u53d6\u770c",
+    "prefecture": "鳥取県",
     "company_url": "https://www.marugo.or.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u4e38\u5408",
+    "company_name": "株式会社丸合",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5ca1\u5c71\u770c",
+    "prefecture": "岡山県",
     "company_url": "http://www.nishina.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u4ec1\u79d1\u767e\u8ca8\u5e97",
+    "company_name": "株式会社仁科百貨店",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5e83\u5cf6\u770c",
+    "prefecture": "広島県",
     "company_url": "http://www.izumi.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30a4\u30ba\u30df",
+    "company_name": "株式会社イズミ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5c71\u53e3\u770c",
+    "prefecture": "山口県",
     "company_url": "http://www.mrk09.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u4e38\u4e45",
+    "company_name": "株式会社丸久",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u611b\u5a9b\u770c",
+    "prefecture": "愛媛県",
     "company_url": "http://www.imadepa.com",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u4eca\u6cbb\u30c7\u30d1\u30fc\u30c8",
+    "company_name": "株式会社今治デパート",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9999\u5ddd\u770c",
+    "prefecture": "香川県",
     "company_url": "http://ww2.maruyoshi-center.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30de\u30eb\u30e8\u30b7\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "株式会社マルヨシセンター",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u9ad8\u77e5\u770c",
+    "prefecture": "高知県",
     "company_url": "http://www.sunnymart.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30b5\u30cb\u30fc\u30de\u30fc\u30c8",
+    "company_name": "株式会社サニーマート",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u798f\u5ca1\u770c",
+    "prefecture": "福岡県",
     "company_url": "http://www.sunlive.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30b5\u30f3\u30ea\u30d6",
+    "company_name": "株式会社サンリブ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5927\u5206\u770c",
+    "prefecture": "大分県",
     "company_url": "http://www.marumiya-st.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30de\u30eb\u30df\u30e4\u30b9\u30c8\u30a2",
+    "company_name": "株式会社マルミヤストア",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u5bae\u5d0e\u770c",
+    "prefecture": "宮崎県",
     "company_url": "http://www.super-maruichi.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30de\u30eb\u30a4\u30c1",
+    "company_name": "株式会社マルイチ",
     "supermarket_names": []
   },
   {
-    "prefecture": "\u6c96\u7e04\u770c",
+    "prefecture": "沖縄県",
     "company_url": "http://www.san-a.co.jp",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30b5\u30f3\u30a8\u30fc",
+    "company_name": "株式会社サンエー",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.daiichi-d.co.jp/",
-    "company_name": "\u3231\u30c0\u30a4\u30a4\u30c1\uff08\u5317\u6d77\u9053\uff09",
+    "company_name": "㈱ダイイチ（北海道）",
     "supermarket_names": []
   },
   {
     "company_url": "https://marue-super.jp/",
-    "company_name": "\u3231\u4e38\u6c5f\uff08\u5ca9\u624b\uff09",
+    "company_name": "㈱丸江（岩手）",
     "supermarket_names": []
   },
   {
     "company_url": "https://marudai-akita.jp/",
-    "company_name": "\u3231\u30de\u30eb\u30c0\u30a4\uff08\u79cb\u7530\uff09",
+    "company_name": "㈱マルダイ（秋田）",
     "supermarket_names": []
   },
   {
     "company_url": "https://yamazawa.co.jp/",
-    "company_name": "\u3231\u30e4\u30de\u30b6\u30ef\uff08\u5c71\u5f62\uff09",
+    "company_name": "㈱ヤマザワ（山形）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.beny.co.jp/",
-    "company_name": "\u7d05\u5c4b\u5546\u4e8b\u3231\uff08\u9752\u68ee\uff09",
+    "company_name": "紅屋商事㈱（青森）",
     "supermarket_names": []
   },
   {
     "company_url": "https://bifure.com/",
-    "company_name": "\u3232\u4e2d\u592e\u5e02\u5834\uff08\u79cb\u7530\uff09",
+    "company_name": "㈲中央市場（秋田）",
     "supermarket_names": []
   },
   {
     "company_url": "https://dailyport.jp/",
-    "company_name": "\u3231\u30de\u30eb\u30cb\uff08\u5bae\u57ce\uff09",
+    "company_name": "㈱マルニ（宮城）",
     "supermarket_names": []
   },
   {
     "company_url": "https://kikuko-store.com/",
-    "company_name": "\u3231\u30ad\u30af\u30b3\u30a6\u30b9\u30c8\u30a2\uff08\u5ca9\u624b\uff09",
+    "company_name": "㈱キクコウストア（岩手）",
     "supermarket_names": []
   },
   {
     "company_url": "http://terata.jp/",
-    "company_name": "\u3231\u30c6\u30e9\u30bf\uff08\u79cb\u7530\uff09",
+    "company_name": "㈱テラタ（秋田）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.pink-kuzira.com/",
-    "company_name": "\u3231\u305f\u304b\u304d\uff08\u5c71\u5f62\uff09",
+    "company_name": "㈱たかき（山形）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.super-seimiya.co.jp/",
-    "company_name": "\u3231\u30bb\u30a4\u30df\u30e4\uff08\u8328\u57ce\uff09",
+    "company_name": "㈱セイミヤ（茨城）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yacs.jp/",
-    "company_name": "\u3231\u5343\u8449\u85ac\u54c1\uff08\u5343\u8449\uff09",
+    "company_name": "㈱千葉薬品（千葉）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.zchain.co.jp/",
-    "company_name": "\u5168\u65e5\u672c\u98df\u54c1\u3231\uff08\u6771\u4eac\uff09",
+    "company_name": "全日本食品㈱（東京）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.yoshiya.co.jp/",
-    "company_name": "\u3231\u3088\u3057\u3084\uff08\u6771\u4eac\uff09",
+    "company_name": "㈱よしや（東京）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.kamashin.co.jp/",
-    "company_name": "\u3231\u304b\u307e\u3057\u3093\uff08\u6803\u6728\uff09",
+    "company_name": "㈱かましん（栃木）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.summitstore.co.jp/",
-    "company_name": "\u30b5\u30df\u30c3\u30c8\u3231\uff08\u6771\u4eac\uff09",
+    "company_name": "サミット㈱（東京）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.bunkado.com/",
-    "company_name": "\u3231\u6587\u5316\u5802\uff08\u6771\u4eac\uff09",
+    "company_name": "㈱文化堂（東京）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.torisen.co.jp/",
-    "company_name": "\u3231\u3068\u308a\u305b\u3093\uff08\u7fa4\u99ac\uff09",
+    "company_name": "㈱とりせん（群馬）",
     "supermarket_names": []
   },
   {
     "company_url": "https://superalps.info/",
-    "company_name": "\u3231\u30b9\u30fc\u30d1\u30fc\u30a2\u30eb\u30d7\u30b9\uff08\u6771\u4eac\uff09",
+    "company_name": "㈱スーパーアルプス（東京）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.marumanstore.co.jp/",
-    "company_name": "\u3231\u30de\u30eb\u30de\u30f3\u30b9\u30c8\u30a2\uff08\u6771\u4eac\uff09",
+    "company_name": "㈱マルマンストア（東京）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.spotgroup.co.jp/",
-    "company_name": "\u3231\u30b9\u30dd\u30c3\u30c8\uff08\u65b0\u6f5f\uff09",
+    "company_name": "㈱スポット（新潟）",
     "supermarket_names": []
   },
   {
     "company_url": "https://ichiyamamart.com/",
-    "company_name": "\u3231\u3044\u3061\u3084\u307e\u30de\u30fc\u30c8\uff08\u5c71\u68a8\uff09",
+    "company_name": "㈱いちやまマート（山梨）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.tagoju.co.jp/",
-    "company_name": "\u3231\u7530\u5b50\u91cd\uff08\u9759\u5ca1\uff09",
+    "company_name": "㈱田子重（静岡）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.super-yamanaka.co.jp/",
-    "company_name": "\u3231\u30e4\u30de\u30ca\u30ab\uff08\u611b\u77e5\uff09",
+    "company_name": "㈱ヤマナカ（愛知）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.albis.co.jp/",
-    "company_name": "\u30a2\u30eb\u30d3\u30b9\u3231\uff08\u5bcc\u5c71\uff09",
+    "company_name": "アルビス㈱（富山）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.delicia-web.co.jp/",
-    "company_name": "\u3231\u30c7\u30ea\u30b7\u30a2\uff08\u9577\u91ce\uff09",
+    "company_name": "㈱デリシア（長野）",
     "supermarket_names": []
   },
   {
     "company_url": "https://ito-nagaya.co.jp/",
-    "company_name": "\u30ca\u30ac\u30e4\u3231\uff08\u9759\u5ca1\uff09",
+    "company_name": "ナガヤ㈱（静岡）",
     "supermarket_names": []
   },
   {
     "company_url": "https://mama-store.jp/",
-    "company_name": "\u3231\u30de\u30de\u30fc\u30b9\u30c8\u30a2\u30fc\uff08\u798f\u4e95\uff09",
+    "company_name": "㈱ママーストアー（福井）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.manpow.co.jp/",
-    "company_name": "\u3231\u672a\u6765\u5802\u9ad8\u5c71\uff08\u5c90\u961c\uff09",
+    "company_name": "㈱未来堂高山（岐阜）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.bigfuji.co.jp/",
-    "company_name": "\u3231\u30d3\u30c3\u30b0\u5bcc\u58eb\uff08\u9759\u5ca1\uff09",
+    "company_name": "㈱ビッグ富士（静岡）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.pariya.co.jp/",
-    "company_name": "\u3231\u30d1\u30ea\u30e4\uff08\u6ecb\u8cc0\uff09",
+    "company_name": "㈱パリヤ（滋賀）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.h2o-foods.co.jp/company.html",
-    "company_name": "\u30a4\u30ba\u30df\u30e4\u30fb\u962a\u6025\u30aa\u30a2\u30b7\u30b9\u3231\uff08\u5927\u962a\uff09",
+    "company_name": "イズミヤ・阪急オアシス㈱（大阪）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.super-sunplaza.com/",
-    "company_name": "\u3231\u30b5\u30f3\u30d7\u30e9\u30b6\uff08\u5927\u962a\uff09",
+    "company_name": "㈱サンプラザ（大阪）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.kansaisuper.co.jp/",
-    "company_name": "\u3231\u95a2\u897f\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\uff08\u5175\u5eab\uff09",
+    "company_name": "㈱関西スーパーマーケット（兵庫）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.super-matsumoto.co.jp/",
-    "company_name": "\u3231\u30de\u30c4\u30e2\u30c8\uff08\u4eac\u90fd\uff09",
+    "company_name": "㈱マツモト（京都）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.kinshostore.co.jp/",
-    "company_name": "\u3231\u8fd1\u5546\u30b9\u30c8\u30a2\uff08\u5927\u962a\uff09",
+    "company_name": "㈱近商ストア（大阪）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.supernational.co.jp/",
-    "company_name": "\u3231\u30b9\u30fc\u30d1\u30fc\u30ca\u30b7\u30e7\u30ca\u30eb\uff08\u5927\u962a\uff09",
+    "company_name": "㈱スーパーナショナル（大阪）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.matsuyasuper.co.jp/",
-    "company_name": "\u3231\u30de\u30c4\u30e4\u30b9\u30fc\u30d1\u30fc\uff08\u4eac\u90fd\uff09",
+    "company_name": "㈱マツヤスーパー（京都）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.keihan-the-store.jp/",
-    "company_name": "\u3231\u4eac\u962a\u30b6\u30fb\u30b9\u30c8\u30a2\uff08\u5927\u962a\uff09",
+    "company_name": "㈱京阪ザ・ストア（大阪）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.pantry-lucky.jp/",
-    "company_name": "\u3231\u5927\u8fd1\uff08\u5927\u962a\uff09",
+    "company_name": "㈱大近（大阪）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.marugo.or.jp/",
-    "company_name": "\u3231\u4e38\u5408\uff08\u9ce5\u53d6\uff09",
+    "company_name": "㈱丸合（鳥取）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.smilekitchen.co.jp/",
-    "company_name": "\u3231\u30e2\u30ea\u30e4\u30de\uff08\u5e83\u5cf6\uff09",
+    "company_name": "㈱モリヤマ（広島）",
     "supermarket_names": []
   },
   {
     "company_url": "http://ww2.maruyoshi-center.co.jp/",
-    "company_name": "\u3231\u30de\u30eb\u30e8\u30b7\u30bb\u30f3\u30bf\u30fc\uff08\u9999\u5ddd\uff09",
+    "company_name": "㈱マルヨシセンター（香川）",
     "supermarket_names": []
   },
   {
     "company_url": "https://ja-shimane.jp/izumo/",
-    "company_name": "JA\u3057\u307e\u306d\u30e9\u30d4\u30bf\uff08\u5cf6\u6839\uff09",
+    "company_name": "JAしまねラピタ（島根）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.mrk09.co.jp/",
-    "company_name": "\u3231\u4e38\u4e45\uff08\u5c71\u53e3\uff09",
+    "company_name": "㈱丸久（山口）",
     "supermarket_names": []
   },
   {
     "company_url": "https://sevenstar.jp.net/",
-    "company_name": "\u3231\u30bb\u30d6\u30f3\u30b9\u30bf\u30fc\uff08\u611b\u5a9b\uff09",
+    "company_name": "㈱セブンスター（愛媛）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.tenmaya-store.co.jp/",
-    "company_name": "\u3231\u5929\u6e80\u5c4b\u30b9\u30c8\u30a2\uff08\u5ca1\u5c71\uff09",
+    "company_name": "㈱天満屋ストア（岡山）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.kyoei-group.co.jp/",
-    "company_name": "\u3231\u30ad\u30e7\u30fc\u30a8\u30a4\uff08\u5fb3\u5cf6\uff09",
+    "company_name": "㈱キョーエイ（徳島）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.nankokusuper.net/",
-    "company_name": "\u3231\u30ca\u30f3\u30b3\u30af\u30b9\u30fc\u30d1\u30fc\uff08\u9ad8\u77e5\uff09",
+    "company_name": "㈱ナンコクスーパー（高知）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.100shunkan.com/",
-    "company_name": "\u3231\u3075\u304f\u3084\uff08\u798f\u5ca1\uff09",
+    "company_name": "㈱ふくや（福岡）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.frein.co.jp/",
-    "company_name": "\u3231\u30d5\u30ec\u30a4\u30f3\uff08\u5927\u5206\uff09",
+    "company_name": "㈱フレイン（大分）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.marumiya-st.jp/",
-    "company_name": "\u3231\u30de\u30eb\u30df\u30e4\u30b9\u30c8\u30a2\uff08\u5927\u5206\uff09",
+    "company_name": "㈱マルミヤストア（大分）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.ellena.co.jp/",
-    "company_name": "\u3231\u30a8\u30ec\u30ca\uff08\u9577\u5d0e\uff09",
+    "company_name": "㈱エレナ（長崎）",
     "supermarket_names": []
   },
   {
     "company_url": "https://supermaruichi.com/",
-    "company_name": "\u3231\u30de\u30eb\u30a4\u30c1\uff08\u5bae\ufa11\uff09",
+    "company_name": "㈱マルイチ（宮﨑）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.tokiwa-industry.co.jp/",
-    "company_name": "\u3231\u30c8\u30ad\u30cf\u30a4\u30f3\u30c0\u30b9\u30c8\u30ea\u30fc\uff08\u5927\u5206\uff09",
+    "company_name": "㈱トキハインダストリー（大分）",
     "supermarket_names": []
   },
   {
     "company_url": "https://foodoasis-halta.com/",
-    "company_name": "\u3231\u30cf\u30eb\u30bf\uff08\u9e7f\u5150\u5cf6\uff09",
+    "company_name": "㈱ハルタ（鹿児島）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.pxmart.com.tw/",
-    "company_name": "\u5168\u806f\u5be6\u696d\u6709\u9650\u516c\u53f8\uff08\u53f0\u6e7e\uff09",
+    "company_name": "全聯實業有限公司（台湾）",
     "supermarket_names": []
   },
   {
     "company_url": "https://fujimart.vn/",
-    "company_name": "FUJIMART VIETNAM RETAIL CO., LTD\uff08\u30d9\u30c8\u30ca\u30e0\uff09",
+    "company_name": "FUJIMART VIETNAM RETAIL CO., LTD（ベトナム）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.dfiretailgroup.com/en",
-    "company_name": "DFI Retail Group (The Dairy Farm Company Ltd.\uff09\uff08\u9999\u6e2f\uff09",
+    "company_name": "DFI Retail Group (The Dairy Farm Company Ltd.）（香港）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.ababakafudado.co.jp/",
-    "company_name": "(\u682a)\u30a2\u30d6\u30a2\u30d6\u8d64\u672d\u5802",
+    "company_name": "(株)アブアブ赤札堂",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.albis.co.jp",
-    "company_name": "\u30a2\u30eb\u30d3\u30b9(\u682a)",
+    "company_name": "アルビス(株)",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.aeonretail.jp/",
-    "company_name": "\u30a4\u30aa\u30f3\u30ea\u30c6\u30fc\u30eb(\u682a)",
+    "company_name": "イオンリテール(株)",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.izumi.co.jp/",
-    "company_name": "(\u682a)\u30a4\u30ba\u30df",
+    "company_name": "(株)イズミ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.kansai-foodmarket.co.jp/company/group.html",
-    "company_name": "\u30a4\u30ba\u30df\u30e4\u30fb\u962a\u6025\u30aa\u30a2\u30b7\u30b9(\u682a)",
+    "company_name": "イズミヤ・阪急オアシス(株)",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.itoyokado.co.jp/corporate/index.html",
-    "company_name": "(\u682a)\u30a4\u30c8\u30fc\u30e8\u30fc\u30ab\u5802",
+    "company_name": "(株)イトーヨーカ堂",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.eco-s.co.jp/",
-    "company_name": "(\u682a)\u30a8\u30b3\u30b9",
+    "company_name": "(株)エコス",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.odakyu-ox.net/",
-    "company_name": "\u5c0f\u7530\u6025\u5546\u4e8b(\u682a)",
+    "company_name": "小田急商事(株)",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.okuwa.net/",
-    "company_name": "(\u682a)\u30aa\u30fc\u30af\u30ef",
+    "company_name": "(株)オークワ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.kinshostore.co.jp/",
-    "company_name": "(\u682a)\u8fd1\u5546\u30b9\u30c8\u30a2",
+    "company_name": "(株)近商ストア",
     "supermarket_names": []
   },
   {
     "company_url": "https://bon-maru.com/",
-    "company_name": "(\u682a)\u9280\u30d3\u30eb\u30b9\u30c8\u30a2\u30fc",
+    "company_name": "(株)銀ビルストアー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.keiostore.co.jp/",
-    "company_name": "(\u682a)\u4eac\u738b\u30b9\u30c8\u30a2",
+    "company_name": "(株)京王ストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.keikyu-store.co.jp/",
-    "company_name": "(\u682a)\u4eac\u6025\u30b9\u30c8\u30a2",
+    "company_name": "(株)京急ストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.keiseistore.co.jp/",
-    "company_name": "(\u682a)\u4eac\u6210\u30b9\u30c8\u30a2",
+    "company_name": "(株)京成ストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.keihan-the-store.jp/",
-    "company_name": "(\u682a)\u4eac\u962a\u30b6\u30fb\u30b9\u30c8\u30a2",
+    "company_name": "(株)京阪ザ・ストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://mirai.coopnet.or.jp/",
-    "company_name": "\u751f\u6d3b\u5354\u540c\u7d44\u5408\u30b3\u30fc\u30d7\u307f\u3089\u3044",
+    "company_name": "生活協同組合コープみらい",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.summitstore.co.jp/",
-    "company_name": "\u30b5\u30df\u30c3\u30c8(\u682a)",
+    "company_name": "サミット(株)",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sunlive.co.jp/",
-    "company_name": "(\u682a)\u30b5\u30f3\u30ea\u30d6",
+    "company_name": "(株)サンリブ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.maruya-group.co.jp/",
-    "company_name": "(\u682a)\u30b8\u30e7\u30a4\u30de\u30fc\u30c8",
+    "company_name": "(株)ジョイマート",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-yamazaki.co.jp/",
-    "company_name": "(\u682a)\u30b9\u30fc\u30d1\u30fc\u30e4\u30de\u30b6\u30ad",
+    "company_name": "(株)スーパーヤマザキ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.xebio.co.jp/",
-    "company_name": "\u30bc\u30d3\u30aa\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9(\u682a\uff09",
+    "company_name": "ゼビオホールディングス(株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.zensho.co.jp",
-    "company_name": "(\u682a)\u30bc\u30f3\u30b7\u30e7\u30fc\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9",
+    "company_name": "(株)ゼンショーホールディングス",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sotetsu.rosen.co.jp/",
-    "company_name": "\u76f8\u9244\u30ed\u30fc\u30bc\u30f3(\u682a)",
+    "company_name": "相鉄ローゼン(株)",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.daiso-sangyo.co.jp/",
-    "company_name": "(\u682a)\u5927\u5275\u7523\u696d",
+    "company_name": "(株)大創産業",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.tenmaya-store.co.jp/",
-    "company_name": "(\u682a)\u5929\u6e80\u5c4b\u30b9\u30c8\u30a2",
+    "company_name": "(株)天満屋ストア",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.dcm-nicot.co.jp/",
-    "company_name": "DCM\u30cb\u30b3\u30c3\u30c8\u3231",
+    "company_name": "DCMニコット㈱",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.tokyu-store.co.jp/",
-    "company_name": "(\u682a)\u6771\u6025\u30b9\u30c8\u30a2",
+    "company_name": "(株)東急ストア",
     "supermarket_names": []
   },
   {
     "company_url": "https://tk.freshsaeki.co.jp/",
-    "company_name": "(\u682a)\u6771\u4eac\u3055\u3048\u304d",
+    "company_name": "(株)東京さえき",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.tobustore.co.jp/",
-    "company_name": "(\u682a)\u6771\u6b66\u30b9\u30c8\u30a2",
+    "company_name": "(株)東武ストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.torisen.co.jp/",
-    "company_name": "(\u682a)\u3068\u308a\u305b\u3093",
+    "company_name": "(株)とりせん",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.nitorihd.co.jp/",
-    "company_name": "(\u682a)\u30cb\u30c8\u30ea\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9",
+    "company_name": "(株)ニトリホールディングス",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.fukudaya.net/cgi-bin/index.cgi",
-    "company_name": "(\u682a)\u798f\u7530\u5c4b\u767e\u8ca8\u5e97",
+    "company_name": "(株)福田屋百貨店",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.the-fuji.com/",
-    "company_name": "(\u682a)\u30d5\u30b8",
+    "company_name": "(株)フジ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.heiwado.jp/",
-    "company_name": "(\u682a)\u5e73\u548c\u5802",
+    "company_name": "(株)平和堂",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.beisia.co.jp/",
-    "company_name": "(\u682a)\u30d9\u30a4\u30b7\u30a2",
+    "company_name": "(株)ベイシア",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.belc.jp/",
-    "company_name": "(\u682a)\u30d9\u30eb\u30af",
+    "company_name": "(株)ベルク",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.0101.co.jp/",
-    "company_name": "(\u682a)\u4e38\u4e95\u30b0\u30eb\u30fc\u30d7",
+    "company_name": "(株)丸井グループ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.mrk09.co.jp/",
-    "company_name": "(\u682a)\u4e38\u4e45",
+    "company_name": "(株)丸久",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.marugo.or.jp/",
-    "company_name": "(\u682a)\u4e38\u5408",
+    "company_name": "(株)丸合",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.marumiya-st.jp/",
-    "company_name": "(\u682a)\u30de\u30eb\u30df\u30e4\u30b9\u30c8\u30a2",
+    "company_name": "(株)マルミヤストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yaoko-net.com/",
-    "company_name": "(\u682a)\u30e4\u30aa\u30b3\u30fc",
+    "company_name": "(株)ヤオコー",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.uny.co.jp/corporate/index.html",
-    "company_name": "\u30e6\u30cb\u30fc(\u682a)",
+    "company_name": "ユニー(株)",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.usmh.co.jp/",
-    "company_name": "\u30e6\u30ca\u30a4\u30c6\u30c3\u30c9\u30fb\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u30fb\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9(\u682a)",
+    "company_name": "ユナイテッド・スーパーマーケット・ホールディングス(株)",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yoshizuya.com/",
-    "company_name": "(\u682a)\u7fa9\u6d25\u5c4b",
+    "company_name": "(株)義津屋",
     "supermarket_names": []
   },
   {
     "company_url": "https://yorkbenimaru.com/",
-    "company_name": "(\u682a)\u30e8\u30fc\u30af\u30d9\u30cb\u30de\u30eb",
+    "company_name": "(株)ヨークベニマル",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.lifecorp.jp/",
-    "company_name": "(\u682a)\u30e9\u30a4\u30d5\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
+    "company_name": "(株)ライフコーポレーション",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.ralse.co.jp",
-    "company_name": "\uff08\u682a\uff09\u30e9\u30eb\u30ba",
+    "company_name": "（株）ラルズ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.dounan-ralse.co.jp",
-    "company_name": "\uff08\u682a\uff09\u9053\u5357\u30e9\u30eb\u30ba",
+    "company_name": "（株）道南ラルズ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.fukuhara-arcs.co.jp",
-    "company_name": "\uff08\u682a\uff09\u798f\u539f",
+    "company_name": "（株）福原",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.hokuyu-lucky.co.jp/",
-    "company_name": "\u5317\u96c4\u30e9\u30c3\u30ad\u30fc\uff08\u682a\uff09",
+    "company_name": "北雄ラッキー（株）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.douhoku-arcs.co.jp",
-    "company_name": "\uff08\u682a\uff09\u9053\u5317\u30a2\u30fc\u30af\u30b9",
+    "company_name": "（株）道北アークス",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.hokuno.com/",
-    "company_name": "\uff08\u682a\uff09\u30db\u30af\u30ce\u30fc",
+    "company_name": "（株）ホクノー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.food-d.jp/",
-    "company_name": "\uff08\u682a\uff09\u8c4a\u6708",
+    "company_name": "（株）豊月",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.doutou-arcs.co.jp",
-    "company_name": "\uff08\u682a\uff09\u9053\u6771\u30a2\u30fc\u30af\u30b9",
+    "company_name": "（株）道東アークス",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.tokou-store.co.jp",
-    "company_name": "\uff08\u682a\uff09\u6771\u5149\u30b9\u30c8\u30a2",
+    "company_name": "（株）東光ストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.universe.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30e6\u30cb\u30d0\u30fc\u30b9",
+    "company_name": "（株）ユニバース",
     "supermarket_names": []
   },
   {
     "company_url": "https://i-maeda.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30a8\u30c0",
+    "company_name": "（株）マエダ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.maiya.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30a4\u30e4",
+    "company_name": "（株）マイヤ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.beljois.co.jp",
-    "company_name": "\uff08\u682a\uff09\u30d9\u30eb\u30b8\u30e7\u30a4\u30b9",
+    "company_name": "（株）ベルジョイス",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-maruichi.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30a4\u30c1",
+    "company_name": "（株）マルイチ",
     "supermarket_names": []
   },
   {
     "company_url": "http://yamadabihan.jp/",
-    "company_name": "\u3073\u306f\u3093\uff08\u682a\uff09",
+    "company_name": "びはん（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.ujiesuper.com/",
-    "company_name": "\uff08\u682a\uff09\u30a6\u30b8\u30a8\u30b9\u30fc\u30d1\u30fc",
+    "company_name": "（株）ウジエスーパー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.itochain.com/",
-    "company_name": "\uff08\u682a\uff09\u4f0a\u85e4\u30c1\u30a7\u30fc\u30f3",
+    "company_name": "（株）伊藤チェーン",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.wako-web.com/",
-    "company_name": "\uff08\u682a\uff09\u548c\u8208",
+    "company_name": "（株）和興",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.e-takayanagi.com/",
-    "company_name": "\uff08\u682a\uff09\u30bf\u30ab\u30e4\u30ca\u30ae",
+    "company_name": "（株）タカヤナギ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.itoku.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u4f0a\u5fb3",
+    "company_name": "（株）伊徳",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.toichiya.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30c8\u4e00\u5c4b",
+    "company_name": "（株）ト一屋",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.fu-sha.com/",
-    "company_name": "\uff08\u682a\uff09\u4e3b\u5a66\u306e\u5e97\u3000\u9db4\u5ca1\u5e97",
+    "company_name": "（株）主婦の店　鶴岡店",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.oh-ban.com/",
-    "company_name": "\uff08\u682a\uff09\u304a\u30fc\u3070\u3093",
+    "company_name": "（株）おーばん",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.liondor.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u30ea\u30aa\u30f3\u30fb\u30c9\u30fc\u30eb \u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
+    "company_name": "（株）リオン・ドール コーポレーション",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.maruto-gp.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30c8\u5546\u4e8b",
+    "company_name": "（株）マルト商事",
     "supermarket_names": []
   },
   {
     "company_url": "http://fresco-k.com/",
-    "company_name": "\u30d5\u30ec\u30b9\u30b3\uff08\u682a\uff09",
+    "company_name": "フレスコ（株）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.refanz.com/",
-    "company_name": "\uff08\u682a\uff09\u904b\u559c",
+    "company_name": "（株）運喜",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.harashinnarus.jp/",
-    "company_name": "\uff08\u682a\uff09\u539f\u4fe1",
+    "company_name": "（株）原信",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-marui.com/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30a4\uff08\u65b0\u6f5f\uff09",
+    "company_name": "（株）マルイ（新潟）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.uoroku.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30a6\u30aa\u30ed\u30af",
+    "company_name": "（株）ウオロク",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.ichiko-joetsu.com/",
-    "company_name": "\uff08\u682a\uff09\u4e00\u5c0f\u30a4\u30c1\u30b3",
+    "company_name": "（株）一小イチコ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.harashinnarus.jp/",
-    "company_name": "\uff08\u682a\uff09\u30ca\u30eb\u30b9",
+    "company_name": "（株）ナルス",
     "supermarket_names": []
   },
   {
     "company_url": "http://tamakifood.iinaa.net/",
-    "company_name": "\uff08\u682a\uff09\u7389\u6728\u30d5\u30fc\u30c9\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "（株）玉木フードセンター",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.albis.co.jp/",
-    "company_name": "\u30a2\u30eb\u30d3\u30b9\uff08\u682a\uff09",
+    "company_name": "アルビス（株）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.ohsakaya-shop.jp/",
-    "company_name": "\uff08\u682a\uff09\u5927\u962a\u5c4b\u30b7\u30e7\u30c3\u30d7",
+    "company_name": "（株）大阪屋ショップ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.maruen.co.jp/",
-    "company_name": "\u65b0\u9bae\u5e02\u5834\u30aa\u30cd\u30b9\u30c8\uff08\u682a\uff09",
+    "company_name": "新鮮市場オネスト（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.newsankyu.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30cb\u30e5\u30fc\u4e09\u4e45",
+    "company_name": "（株）ニュー三久",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.s-marue.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30a8\u30fc",
+    "company_name": "（株）マルエー",
     "supermarket_names": []
   },
   {
     "company_url": "http://adachistore.com/",
-    "company_name": "\uff08\u682a\uff09\u5b89\u9054",
+    "company_name": "（株）安達",
     "supermarket_names": []
   },
   {
     "company_url": "https://rocky1.jp/",
-    "company_name": "\uff08\u682a\uff09\u30ed\u30c3\u30ad\u30fc\uff08\u77f3\u5ddd\uff09",
+    "company_name": "（株）ロッキー（石川）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.honey.jp/index.html",
-    "company_name": "\uff08\u5354\uff09\u30cf\u30cb\u30fc",
+    "company_name": "（協）ハニー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.kajiso.com/",
-    "company_name": "\uff08\u682a\uff09\u304b\u3058\u60e3",
+    "company_name": "（株）かじ惣",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.nagasugi.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u306a\u304c\u3059\u304e",
+    "company_name": "（株）ながすぎ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.yasusaki.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30e4\u30b9\u30b5\u30ad",
+    "company_name": "（株）ヤスサキ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.ogino.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30aa\u30ae\u30ce",
+    "company_name": "（株）オギノ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.tsuruya-corp.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30c4\u30eb\u30e4",
+    "company_name": "（株）ツルヤ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.nishizawa.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30cb\u30b7\u30b6\u30ef",
+    "company_name": "（株）ニシザワ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.kiraya.jp/",
-    "company_name": "\uff08\u682a\uff09\u30ad\u30e9\u30e4",
+    "company_name": "（株）キラヤ",
     "supermarket_names": []
   },
   {
     "company_url": "https://daiichi-super.com/",
-    "company_name": "\uff08\u682a\uff09\u7b2c\u4e00\u30b9\u30fc\u30d1\u30fc",
+    "company_name": "（株）第一スーパー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-seimiya.co.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u30bb\u30a4\u30df\u30e4",
+    "company_name": "（株）セイミヤ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.super-taiyo.com/",
-    "company_name": "\uff08\u682a\uff09\u30bf\u30a4\u30e8\u30fc",
+    "company_name": "（株）タイヨー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sanyu-store.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b5\u30f3\u30e6\u30fc\u30b9\u30c8\u30a2\u30fc",
+    "company_name": "（株）サンユーストアー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.kawaneya.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u304b\u308f\u306d\u3084",
+    "company_name": "（株）かわねや",
     "supermarket_names": []
   },
   {
     "company_url": "https://harigae.jp/",
-    "company_name": "\uff08\u682a\uff09\u30cf\u30ea\u30ac\u30a8",
+    "company_name": "（株）ハリガエ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.fukudaya.net/index.php",
-    "company_name": "\uff08\u682a\uff09\u798f\u7530\u5c4b\u767e\u8ca8\u5e97",
+    "company_name": "（株）福田屋百貨店",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yaohan.jp/",
-    "company_name": "\uff08\u682a\uff09\u516b\u767e\u534a\u30d5\u30fc\u30c9\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "（株）八百半フードセンター",
     "supermarket_names": []
   },
   {
     "company_url": "http://daiyu-super.jp/",
-    "company_name": "\uff08\u682a\uff09\u30c0\u30a4\u30e6\u30fc",
+    "company_name": "（株）ダイユー",
     "supermarket_names": []
   },
   {
     "company_url": "https://sp-otani.com/",
-    "company_name": "\uff08\u682a\uff09\u30aa\u30fc\u30bf\u30cb",
+    "company_name": "（株）オータニ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.fressay.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30d5\u30ec\u30c3\u30bb\u30a4",
+    "company_name": "（株）フレッセイ",
     "supermarket_names": []
   },
   {
     "company_url": "http://mami-mart.com/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30df\u30fc\u30de\u30fc\u30c8",
+    "company_name": "（株）マミーマート",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.marutakenet.co.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u4e38\u6b66",
+    "company_name": "（株）丸武",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.joymart.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b8\u30e7\u30a4\u30de\u30fc\u30c8",
+    "company_name": "（株）ジョイマート",
     "supermarket_names": []
   },
   {
     "company_url": "http://superkenzo.s171.coreserver.jp/wp/",
-    "company_name": "\uff08\u682a\uff09\u30b1\u30f3\u30be\u30fc",
+    "company_name": "（株）ケンゾー",
     "supermarket_names": []
   },
   {
     "company_url": "http://s-kawaguchi.jp/",
-    "company_name": "\uff08\u682a\uff09\u30ab\u30ef\u30b0\u30c1",
+    "company_name": "（株）カワグチ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.odoya.com/",
-    "company_name": "\uff08\u682a\uff09\u304a\u3069\u3084",
+    "company_name": "（株）おどや",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.landrome.jp/",
-    "company_name": "\uff08\u682a\uff09\u30e9\u30f3\u30c9\u30ed\u30fc\u30e0\u30b8\u30e3\u30d1\u30f3",
+    "company_name": "（株）ランドロームジャパン",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.naritaya-net.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30ca\u30ea\u30bf\u30e4",
+    "company_name": "（株）ナリタヤ",
     "supermarket_names": []
   },
   {
     "company_url": "http://foods-selection.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30bb\u30ec\u30af\u30b7\u30e7\u30f3",
+    "company_name": "（株）セレクション",
     "supermarket_names": []
   },
   {
     "company_url": "https://carneys.co.jp/",
-    "company_name": "\u5b8d\u5009\uff08\u682a\uff09",
+    "company_name": "宍倉（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://ootaya-sl.com/index.html",
-    "company_name": "\uff08\u682a\uff09\u304a\u304a\u305f\u3084",
+    "company_name": "（株）おおたや",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.shokusenkan-hifumi.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u6839\u5cb8\u5546\u5e97",
+    "company_name": "（株）根岸商店",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.santoku.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u4e09\u5fb3",
+    "company_name": "（株）三徳",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.olympic-corp.co.jp/",
-    "company_name": "\uff08\u682a\uff09Olympic\u30b0\u30eb\u30fc\u30d7",
+    "company_name": "（株）Olympicグループ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-yamazaki.co.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30fc\u30d1\u30fc\u30e4\u30de\u30b6\u30ad",
+    "company_name": "（株）スーパーヤマザキ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.marufuji.net/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30d5\u30b8",
+    "company_name": "（株）マルフジ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-yamaichi.com/",
-    "company_name": "\uff08\u682a\uff09\u30e4\u30de\u30a4\u30c1",
+    "company_name": "（株）ヤマイチ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.supertops.com/",
-    "company_name": "\uff08\u682a\uff09\u30c8\u30c3\u30d7",
+    "company_name": "（株）トップ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.shinanoya.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u4fe1\u6fc3\u5c4b\u98df\u54c1",
+    "company_name": "（株）信濃屋食品",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.comodi-iida.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b3\u30e2\u30c7\u30a3\u30a4\u30a4\u30c0",
+    "company_name": "（株）コモディイイダ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.hban-yu.jp/",
-    "company_name": "\u516b\u4e08\u4e07\u6709\uff08\u682a\uff09",
+    "company_name": "八丈万有（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-shimadaya.com/",
-    "company_name": "\uff08\u682a\uff09\u5cf6\u7530\u5c4b",
+    "company_name": "（株）島田屋",
     "supermarket_names": []
   },
   {
     "company_url": "https://hiruma-marketplace.jp/",
-    "company_name": "\uff08\u682a\uff09\u30a8\u30d5\u30fb\u30af\u30e9\u30a4\u30df\u30f3\u30b0",
+    "company_name": "（株）エフ・クライミング",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.ozam.jp/html/01.htm",
-    "company_name": "\uff08\u682a\uff09\u30aa\u30b6\u30e0",
+    "company_name": "（株）オザム",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.ryuseido.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u9f8d\u751f\u5802\u672c\u5e97",
+    "company_name": "（株）龍生堂本店",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.heartful-sanwa.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u4e09\u548c",
+    "company_name": "（株）三和",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yaomasa.com/",
-    "company_name": "\u30e4\u30aa\u30de\u30b5\uff08\u682a\uff09",
+    "company_name": "ヤオマサ（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yuristore.co.jp/",
-    "company_name": "\u767e\u5408\u30f6\u4e18\u7523\u696d\uff08\u682a\uff09",
+    "company_name": "百合ヶ丘産業（株）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.suzukiya-inc.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30ba\u30ad\u30e4",
+    "company_name": "（株）スズキヤ",
     "supermarket_names": []
   },
   {
     "company_url": "http://fresh-tamaya.jp/",
-    "company_name": "\uff08\u682a\uff09\u305f\u307e\u3084",
+    "company_name": "（株）たまや",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.odawara100.com/",
-    "company_name": "\uff08\u682a\uff09\u5c0f\u7530\u539f\u767e\u8ca8\u5e97",
+    "company_name": "（株）小田原百貨店",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.smyamaka.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u3084\u307e\u304b",
+    "company_name": "（株）やまか",
     "supermarket_names": []
   },
   {
     "company_url": "https://super-maruyama.com/",
-    "company_name": "\uff08\u682a\uff09\u4e38\u5c71\u767e\u8ca8\u5e97",
+    "company_name": "（株）丸山百貨店",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.ave.gr.jp/",
-    "company_name": "\uff08\u682a\uff09\u30a8\u30a4\u30f4\u30a4",
+    "company_name": "（株）エイヴイ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yokohamaya.co.jp//",
-    "company_name": "\uff08\u682a\uff09\u6a2a\u6ff1\u5c4b",
+    "company_name": "（株）横濱屋",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.shimamura-store.com/",
-    "company_name": "\uff08\u682a\uff09\u3057\u307e\u3080\u3089",
+    "company_name": "（株）しまむら",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.bicrise.com/",
-    "company_name": "\uff08\u682a\uff09\u30d3\u30c3\u30af\u30fb\u30e9\u30a4\u30ba",
+    "company_name": "（株）ビック・ライズ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.seijoishii.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u6210\u57ce\u77f3\u4e95",
+    "company_name": "（株）成城石井",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.nakatsugawa-smile.com/",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30fc\u30d1\u30fc\u30c1\u30a7\u30f3\u4e3b\u5a66\u306e\u5e97\u4e2d\u6d25\u5ddd\u5e97",
+    "company_name": "（株）スーパーチェン主婦の店中津川店",
     "supermarket_names": []
   },
   {
     "company_url": "https://tamanoyacorp.jp/",
-    "company_name": "\uff08\u682a\uff09\u7389\u91ce\u5c4b",
+    "company_name": "（株）玉野屋",
     "supermarket_names": []
   },
   {
     "company_url": "http://e-sanshin.net/index.php",
-    "company_name": "\uff08\u682a\uff09\u4e09\u5fc3",
+    "company_name": "（株）三心",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.tokutokusatou.com/",
-    "company_name": "\uff08\u682a\uff09\u30d5\u30a1\u30df\u30ea\u30fc\u30b9\u30c8\u30a2\u3055\u3068\u3046",
+    "company_name": "（株）ファミリーストアさとう",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-ando.com/",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30fc\u30d1\u30fc\u5b89\u85e4",
+    "company_name": "（株）スーパー安藤",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.luckgroup.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30fc\u30d1\u30fc\u30e9\u30c3\u30af",
+    "company_name": "（株）スーパーラック",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.s-kanehachi.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30ab\u30cd\u30cf\u30c1",
+    "company_name": "（株）カネハチ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.s-store.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u9759\u9244\u30b9\u30c8\u30a2",
+    "company_name": "（株）静鉄ストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://kadoike.com/",
-    "company_name": "\uff08\u682a\uff09\u30ab\u30c9\u30a4\u30b1",
+    "company_name": "（株）カドイケ",
     "supermarket_names": []
   },
   {
     "company_url": "http://s-sanzen.com/",
-    "company_name": "\uff08\u682a\uff09\u4e09\u5584",
+    "company_name": "（株）三善",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.makiya-group.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30ad\u30e4",
+    "company_name": "（株）マキヤ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.4919228.com/",
-    "company_name": "\uff08\u682a\uff09\u5bcc\u58eb\u5c4b",
+    "company_name": "（株）富士屋",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.entstore.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u9060\u9244\u30b9\u30c8\u30a2",
+    "company_name": "（株）遠鉄ストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://hibari-ya.co.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u30d2\u30d0\u30ea\u30e4",
+    "company_name": "（株）ヒバリヤ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.konomiya.jp/",
-    "company_name": "\u30b5\u30f3\u30d3\u30ec\u30c3\u30b8\u30d5\u30fc\u30ba\uff08\u682a\uff09",
+    "company_name": "サンビレッジフーズ（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.kanesue.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30ab\u30cd\u30b9\u30a8",
+    "company_name": "（株）カネスエ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.newlife-fuji.jp/",
-    "company_name": "\uff08\u682a\uff09\u30cb\u30e5\u30fc\u30e9\u30a4\u30d5\u30d5\u30b8",
+    "company_name": "（株）ニューライフフジ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.powersnet.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b7\u30d0\u30bf",
+    "company_name": "（株）シバタ",
     "supermarket_names": []
   },
   {
     "company_url": "http://epron.co.jp/",
-    "company_name": "\u3048\u3077\u308d\u3093\u30d5\u30fc\u30ba\uff08\u682a\uff09",
+    "company_name": "えぷろんフーズ（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yaosuzu.co.jp/",
-    "company_name": "\u30b9\u30fc\u30d1\u30fc\u30e4\u30aa\u30b9\u30ba\uff08\u682a\uff09",
+    "company_name": "スーパーヤオスズ（株）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.yoshizuya.com/",
-    "company_name": "\uff08\u682a\uff09\u7fa9\u6d25\u5c4b",
+    "company_name": "（株）義津屋",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.nafuco-fujiya.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u4e0d\u4e8c\u5c4b",
+    "company_name": "（株）不二屋",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sunace.jp.net/",
-    "company_name": "\uff08\u682a\uff09\u30b5\u30f3\u30a8\u30fc\u30b9",
+    "company_name": "（株）サンエース",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.foodoasis.jp/",
-    "company_name": "\uff08\u682a\uff09\u6e25\u7f8e\u30d5\u30fc\u30ba",
+    "company_name": "（株）渥美フーズ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yamanobu.co.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u5c71\u4fe1\u5546\u5e97",
+    "company_name": "（株）山信商店",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.sapore-nagoya.com/",
-    "company_name": "\uff08\u682a\uff09\u30b5\u30dd\u30fc\u30ec",
+    "company_name": "（株）サポーレ",
     "supermarket_names": []
   },
   {
     "company_url": "http://shoptokai.jp",
-    "company_name": "\uff08\u682a\uff09\u30b7\u30b8\u30b7\u30fc\u30fb\u30b7\u30e7\u30c3\u30d7\u6771\u6d77",
+    "company_name": "（株）シジシー・ショップ東海",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.powersnet.co.jp/",
-    "company_name": "\u305f\u3064\u307f\u30b9\u30c8\u30a2\u30fc\uff08\u682a\uff09",
+    "company_name": "たつみストアー（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sapore.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30e4\u30b9\uff08\u4e09\u91cd\uff09",
+    "company_name": "（株）マルヤス（三重）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.shufunomise.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u4e3b\u5a66\u306e\u5e97\uff08\u5c3e\u9df2\uff09",
+    "company_name": "（株）主婦の店（尾鷲）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.gyutora.com/",
-    "company_name": "\uff08\u682a\uff09\u304e\u3085\u30fc\u3068\u3089",
+    "company_name": "（株）ぎゅーとら",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.ichigokan.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u4e00\u53f7\u8218",
+    "company_name": "（株）一号舘",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.gooday-tamaki.com/",
-    "company_name": "\uff08\u682a\uff09\u7389\u57ce",
+    "company_name": "（株）玉城",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.288.jp/",
-    "company_name": "\uff08\u682a\uff09\u30d5\u30bf\u30d0\u30e4",
+    "company_name": "（株）フタバヤ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.sstar.co.jp/",
-    "company_name": "\u30b9\u30bf\u30fc\uff08\u682a\uff09",
+    "company_name": "スター（株）",
     "supermarket_names": []
   },
   {
     "company_url": "https://seisenkan-nakamura.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u306a\u304b\u3080\u3089",
+    "company_name": "（株）なかむら",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-nishigaki.jp/",
-    "company_name": "\uff08\u682a\uff09\u306b\u3057\u304c\u304d",
+    "company_name": "（株）にしがき",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.mg-shop.co.jp/index.php",
-    "company_name": "\uff08\u682a\uff09\u30a8\u30e0\u30b8\u30fc",
+    "company_name": "（株）エムジー",
     "supermarket_names": []
   },
   {
     "company_url": "http://super-cosmocorp.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b3\u30b9\u30e2\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
+    "company_name": "（株）コスモコーポレーション",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.kanzakiya.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u795e\ufa11\u5c4b",
+    "company_name": "（株）神﨑屋",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-san-ei.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30fc\u30d1\u30fc\u30b5\u30f3\u30a8\u30fc",
+    "company_name": "（株）スーパーサンエー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.maruyasu-net.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30e4\u30b9\uff08\u5927\u962a\uff09",
+    "company_name": "（株）マルヤス（大阪）",
     "supermarket_names": []
   },
   {
     "company_url": "https://n-food.com/",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30fc\u30d1\u30fc\u30b9\u30c8\u30a2\u30ca\u30ab\u30ac\u30ef",
+    "company_name": "（株）スーパーストアナカガワ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.topworld.jp/index.cgi",
-    "company_name": "\u4e0d\u4e8c\u5546\u4e8b\uff08\u682a\uff09",
+    "company_name": "不二商事（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.konomiya.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b3\u30ce\u30df\u30e4",
+    "company_name": "（株）コノミヤ",
     "supermarket_names": []
   },
   {
     "company_url": "http://takahashi-meat.co.jp/",
-    "company_name": "\u9ad8\u6a4b\u30df\u30fc\u30c8\uff08\u682a\uff09",
+    "company_name": "高橋ミート（株）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.marushige.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30b7\u30b2",
+    "company_name": "（株）マルシゲ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.akoshufu.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u4e3b\u5a66\u306e\u5e97\u3000\u8d64\u7a42\u5e97",
+    "company_name": "（株）主婦の店　赤穂店",
     "supermarket_names": []
   },
   {
     "company_url": "https://bon-maru.com/",
-    "company_name": "\uff08\u682a\uff09\u9280\u30d3\u30eb\u30b9\u30c8\u30a2\u30fc",
+    "company_name": "（株）銀ビルストアー",
     "supermarket_names": []
   },
   {
     "company_url": "https://palyamato.jp/",
-    "company_name": "\uff08\u682a\uff09\u30d1\u30eb\u30fb\u30e4\u30de\u30c8",
+    "company_name": "（株）パル・ヤマト",
     "supermarket_names": []
   },
   {
     "company_url": "http://shintetsu-ep.co.jp/top.html",
-    "company_name": "\uff08\u682a\uff09\u795e\u9244\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba",
+    "company_name": "（株）神鉄エンタープライズ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.maruai-super.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30a2\u30a4",
+    "company_name": "（株）マルアイ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yoshinostore.com/",
-    "company_name": "\u5409\u91ce\u30b9\u30c8\u30a2\uff08\u682a\uff09",
+    "company_name": "吉野ストア（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.ik-isokawa.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u3044\u305d\u304b\u308f",
+    "company_name": "（株）いそかわ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.39sankyo.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b5\u30f3\u30ad\u30e7\u30fc",
+    "company_name": "（株）サンキョー",
     "supermarket_names": []
   },
   {
     "company_url": "https://matugen.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u677e\u6e90",
+    "company_name": "（株）松源",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.tohokigyo.com/",
-    "company_name": "\u6771\u5b9d\u4f01\u696d\uff08\u682a\uff09",
+    "company_name": "東宝企業（株）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.smart-ds.com/",
-    "company_name": "\uff08\u682a\uff09\u30a8\u30b9\u30de\u30fc\u30c8",
+    "company_name": "（株）エスマート",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.kinuya.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30ad\u30cc\u30e4",
+    "company_name": "（株）キヌヤ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.mishimaya.com/",
-    "company_name": "\uff08\u682a\uff09\u307f\u3057\u307e\u3084",
+    "company_name": "（株）みしまや",
     "supermarket_names": []
   },
   {
     "company_url": "http://goodday-ushio.com/",
-    "company_name": "\uff08\u682a\uff09\u30a6\u30b7\u30aa",
+    "company_name": "（株）ウシオ",
     "supermarket_names": []
   },
   {
     "company_url": "https://e-yamadaya.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30e4\u30de\u30c0\u30e4",
+    "company_name": "（株）ヤマダヤ",
     "supermarket_names": []
   },
   {
     "company_url": "https://dapps.jp/",
-    "company_name": "\uff08\u682a\uff09\u6cb9\u5c4b",
+    "company_name": "（株）油屋",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.cmrc.or.jp/",
-    "company_name": "\uff08\u5354\uff09\u30b7\u30fc\u30a8\u30e0\u30b7\u30fc",
+    "company_name": "（協）シーエムシー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.maruilife.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30a4\uff08\u5ca1\u5c71\uff09",
+    "company_name": "（株）マルイ（岡山）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.kyoeigp.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u5171\u6804\u5546\u4e8b",
+    "company_name": "（株）共栄商事",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.grandmart.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b0\u30e9\u30f3\u30c9\u30de\u30fc\u30c8",
+    "company_name": "（株）グランドマート",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.watanabeseisenkan.com/",
-    "company_name": "\uff08\u682a\uff09\u308f\u305f\u306a\u3079\u751f\u9bae\u9928",
+    "company_name": "（株）わたなべ生鮮館",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.fresta.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30d5\u30ec\u30b9\u30bf",
+    "company_name": "（株）フレスタ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.k-fujisan.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u85e4\u4e09",
+    "company_name": "（株）藤三",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.spark-net.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30d1\u30fc\u30af",
+    "company_name": "（株）スパーク",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.saijo-shoji.co.jp/",
-    "company_name": "\u897f\u689d\u5546\u4e8b\uff08\u682a\uff09",
+    "company_name": "西條商事（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yours-value.jp/",
-    "company_name": "\uff08\u682a\uff09\u30e6\u30a2\u30fc\u30ba\u30fb\u30d0\u30ea\u30e5\u30fc",
+    "company_name": "（株）ユアーズ・バリュー",
     "supermarket_names": []
   },
   {
     "company_url": "http://ff-ookita.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u30aa\u30aa\u30ad\u30bf",
+    "company_name": "（株）オオキタ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.daiya-grp.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u5927\u5c4b",
+    "company_name": "（株）大屋",
     "supermarket_names": []
   },
   {
     "company_url": "http://imadepa.net/",
-    "company_name": "\uff08\u682a\uff09\u4eca\u6cbb\u30c7\u30d1\u30fc\u30c8",
+    "company_name": "（株）今治デパート",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.ozmesse21.net/",
-    "company_name": "\uff08\u682a\uff09\u30aa\u30ba\u30e1\u30c3\u30bb",
+    "company_name": "（株）オズメッセ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sogoh-mart.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u305d\u3054\u3046\u30de\u30fc\u30c8",
+    "company_name": "（株）そごうマート",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.funtable-kitchen.com/",
-    "company_name": "\uff08\u682a\uff09FunTable\u3000Kitchen",
+    "company_name": "（株）FunTable　Kitchen",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sunplaza-kochi.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b5\u30f3\u30d7\u30e9\u30b6",
+    "company_name": "（株）サンプラザ",
     "supermarket_names": []
   },
   {
     "company_url": "http://value-tsc.jp/",
-    "company_name": "\uff08\u682a\uff09\u571f\u4f50\u5c71\u7530\u30b7\u30e7\u30c3\u30d4\u30f3\u30b0\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "（株）土佐山田ショッピングセンター",
     "supermarket_names": []
   },
   {
     "company_url": "http://sunshinechain.com/",
-    "company_name": "\uff08\u682a\uff09\u30b5\u30f3\u30b7\u30e3\u30a4\u30f3\u30c1\u30a7\u30fc\u30f3\u672c\u90e8",
+    "company_name": "（株）サンシャインチェーン本部",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.suehiloya.jp/",
-    "company_name": "\uff08\u682a\uff09\u672b\u5e83",
+    "company_name": "（株）末広",
     "supermarket_names": []
   },
   {
     "company_url": "https://nishitetsu-store.jp/",
-    "company_name": "\uff08\u682a\uff09\u897f\u9244\u30b9\u30c8\u30a2",
+    "company_name": "（株）西鉄ストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sv-kyushu.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u4e5d\u5dde\u30b9\u30fc\u30d1\u30fc\u30de\u30fc\u30b1\u30c3\u30c8\u30b0\u30eb\u30fc\u30d7",
+    "company_name": "（株）九州スーパーマーケットグループ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.satoshokusenkan.co.jp/",
-    "company_name": "\u4f50\u85e4\uff08\u682a\uff09",
+    "company_name": "佐藤（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.hastala.co.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u30a2\u30b9\u30bf\u30e9\u30d3\u30b9\u30bf",
+    "company_name": "（株）アスタラビスタ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.meijiya-jumbo.jp/",
-    "company_name": "\uff08\u682a\uff09\u660e\u6cbb\u5c4b\u98df\u54c1",
+    "company_name": "（株）明治屋食品",
     "supermarket_names": []
   },
   {
     "company_url": "http://daikyo-plaza.co.jp/index.html",
-    "company_name": "\uff08\u682a\uff09\u30c0\u30a4\u30ad\u30e7\u30fc\u30d7\u30e9\u30b6",
+    "company_name": "（株）ダイキョープラザ",
     "supermarket_names": []
   },
   {
     "company_url": "http://market-link.jp/",
-    "company_name": "\uff08\u6709\uff09\u30ea\u30f3\u30af",
+    "company_name": "（有）リンク",
     "supermarket_names": []
   },
   {
     "company_url": "https://yakuinvalue.com/",
-    "company_name": "\uff08\u682a\uff09\u30a4\u30fc\u30de\u30fc\u30c8",
+    "company_name": "（株）イーマート",
     "supermarket_names": []
   },
   {
     "company_url": "http://maizuru.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u307e\u3044\u3065\u308b\u767e\u8ca8\u5e97",
+    "company_name": "（株）まいづる百貨店",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-morinaga.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30fc\u30d1\u30fc\u30e2\u30ea\u30ca\u30ac",
+    "company_name": "（株）スーパーモリナガ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.s-tobi.com/",
-    "company_name": "\uff08\u682a\uff09\u6771\u7f8e",
+    "company_name": "（株）東美",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.saikinet.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30b5\u30a4\u30ad",
+    "company_name": "（株）サイキ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.takesue.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30bf\u30b1\u30b9\u30a8",
+    "company_name": "（株）タケスエ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.value-ichiyama.com/index.html",
-    "company_name": "\uff08\u682a\uff09\u30a4\u30c1\u30e4\u30de",
+    "company_name": "（株）イチヤマ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sunlife-co.jp/",
-    "company_name": "\u30b5\u30f3\u30e9\u30a4\u30d5\uff08\u682a\uff09",
+    "company_name": "サンライフ（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.hirai-wa.com/",
-    "company_name": "\uff08\u682a\uff09\u30d2\u30e9\u30a4",
+    "company_name": "（株）ヒライ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.e-rocky.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30ed\u30c3\u30ad\u30fc\uff08\u718a\u672c\uff09",
+    "company_name": "（株）ロッキー（熊本）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.maruei-net.com/",
-    "company_name": "\uff08\u682a\uff09\u30de\u30eb\u30a8\u30a4",
+    "company_name": "（株）マルエイ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.isumi-s.co.jp/index.html",
-    "company_name": "\u30a4\u30b9\u30df\u5546\u4e8b\uff08\u682a\uff09",
+    "company_name": "イスミ商事（株）",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.youmart-tokunaga.com/",
-    "company_name": "\uff08\u682a\uff09\u30e6\u30fc\u30de\u30fc\u30c8\u30c8\u30af\u30ca\u30ac",
+    "company_name": "（株）ユーマートトクナガ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.dainobu.com/",
-    "company_name": "\uff08\u682a\uff09\u53f0\u4fe1\u5546\u5e97",
+    "company_name": "（株）台信商店",
     "supermarket_names": []
   },
   {
     "company_url": "https://s-miyahara.com/index.html",
-    "company_name": "\uff08\u682a\uff09\u307f\u3084\u306f\u3089",
+    "company_name": "（株）みやはら",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.arisa-super.com/",
-    "company_name": "\uff08\u682a\uff09\u6709\u4f50\u30b9\u30fc\u30d1\u30fc",
+    "company_name": "（株）有佐スーパー",
     "supermarket_names": []
   },
   {
     "company_url": "https://angelus.jp/",
-    "company_name": "\uff08\u6709\uff09\u9b5a\u5f18",
+    "company_name": "（有）魚弘",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-hosokawa.com/",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30fc\u30d1\u30fc\u7d30\u5ddd",
+    "company_name": "（株）スーパー細川",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.hihirose.com/",
-    "company_name": "\uff08\u682a\uff09\u30db\u30fc\u30e0\u30a4\u30f3\u30d7\u30eb\u30fc\u30d6\u30e1\u30f3\u30c8\u3072\u308d\u305b",
+    "company_name": "（株）ホームインプルーブメントひろせ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.oita-maruya.com/",
-    "company_name": "\uff08\u6709\uff09\u307e\u308b\u3084",
+    "company_name": "（有）まるや",
     "supermarket_names": []
   },
   {
     "company_url": "http://aokisuper.com/",
-    "company_name": "\uff08\u6709\uff09\u30b9\u30fc\u30d1\u30fc\u9752\u6728",
+    "company_name": "（有）スーパー青木",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.value-tuiteru.com/",
-    "company_name": "\uff08\u6709\uff09\u5c0f\u4e32\u5546\u5e97",
+    "company_name": "（有）小串商店",
     "supermarket_names": []
   },
   {
     "company_url": "https://pantryksuke.com/",
-    "company_name": "\uff08\u6709\uff09\u6176\u52a9",
+    "company_name": "（有）慶助",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.yamakataya-store.jp/ ",
-    "company_name": "\uff08\u682a\uff09\u5c71\u5f62\u5c4b\u30b9\u30c8\u30a2",
+    "company_name": "（株）山形屋ストア",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.i-daiwa.com/",
-    "company_name": "\uff08\u682a\uff09\u5927\u548c\uff08\u9e7f\u5150\u5cf6\uff09",
+    "company_name": "（株）大和（鹿児島）",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.narizawa.jp/",
-    "company_name": "\uff08\u6709\uff09\u306a\u308a\u3056\u308f",
+    "company_name": "（有）なりざわ",
     "supermarket_names": []
   },
   {
     "company_url": "https://cgcmkc.jp",
-    "company_name": "\uff08\u682a\uff09\u30b7\u30fc\u30b8\u30fc\u30b7\u30fc\u5357\u4e5d\u5dde\u30bb\u30f3\u30bf\u30fc",
+    "company_name": "（株）シージーシー南九州センター",
     "supermarket_names": []
   },
   {
     "company_url": "http://nishimuta.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u30cb\u30b7\u30e0\u30bf",
+    "company_name": "（株）ニシムタ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.super-yoshida.com/",
-    "company_name": "\uff08\u682a\uff09\u30b9\u30fc\u30d1\u30fc\u3088\u3057\u3060",
+    "company_name": "（株）スーパーよしだ",
     "supermarket_names": []
   },
   {
     "company_url": "https://sun-grp.jp/pages/30/",
-    "company_name": "\uff08\u682a\uff09\u3046\u3057\u3058\u307e\u30b9\u30c8\u30a2\u30fc",
+    "company_name": "（株）うしじまストアー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.homecenter-takami.com/",
-    "company_name": "\uff08\u682a\uff09\u30bf\u30ab\u30df",
+    "company_name": "（株）タカミ",
     "supermarket_names": []
   },
   {
     "company_url": "http://kktaihei.com/",
-    "company_name": "\uff08\u682a\uff09\u30bf\u30a4\u30d8\u30a4",
+    "company_name": "（株）タイヘイ",
     "supermarket_names": []
   },
   {
     "company_url": "http://xn--cck1a1a1d6i2b4c.com/company.html",
-    "company_name": "\uff08\u682a\uff09\u30b0\u30ea\u30fc\u30f3\u30b9\u30c8\u30a2",
+    "company_name": "（株）グリーンストア",
     "supermarket_names": []
   },
   {
     "company_url": "https://daimaru-group.com/",
-    "company_name": "\uff08\u682a\uff09\u7fa9\u6751\u5546\u5e97",
+    "company_name": "（株）義村商店",
     "supermarket_names": []
   },
   {
     "company_url": "http://kanehideshj.com/",
-    "company_name": "\u91d1\u79c0\u5546\u4e8b\uff08\u682a\uff09",
+    "company_name": "金秀商事（株）",
     "supermarket_names": []
   },
   {
     "company_url": "http://ryubostore.jp/",
-    "company_name": "\uff08\u682a\uff09\u30ea\u30a6\u30dc\u30a6\u30b9\u30c8\u30a2",
+    "company_name": "（株）リウボウストア",
     "supermarket_names": []
   },
   {
     "company_url": "https://okinawa-marudai.co.jp/",
-    "company_name": "\uff08\u682a\uff09\u4e38\u5927\uff08\u6c96\u7e04\uff09",
+    "company_name": "（株）丸大（沖縄）",
     "supermarket_names": []
   },
   {
     "company_url": "https://izumi.co.jp/corp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30a4\u30ba\u30df",
+    "company_name": "株式会社イズミ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.sunnymart.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30b5\u30cb\u30fc\u30de\u30fc\u30c8",
+    "company_name": "株式会社サニーマート",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.eco-s.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30a8\u30b3\u30b9",
+    "company_name": "株式会社エコス",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.san-a.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30b5\u30f3\u30a8\u30fc",
+    "company_name": "株式会社サンエー",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.okuwa.net/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30aa\u30fc\u30af\u30ef",
+    "company_name": "株式会社オークワ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.zennoh.or.jp/",
-    "company_name": "\u5168\u56fd\u8fb2\u696d\u5354\u540c\u7d44\u5408\u9023\u5408\u4f1a",
+    "company_name": "全国農業協同組合連合会",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.kinshostore.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u8fd1\u5546\u30b9\u30c8\u30a2",
+    "company_name": "株式会社近商ストア",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.nishina.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u4ec1\u79d1\u767e\u8ca8\u5e97",
+    "company_name": "株式会社仁科百貨店",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.create-sd.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30af\u30ea\u30a8\u30a4\u30c8",
+    "company_name": "株式会社クリエイト",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.fujicitio.com/",
-    "company_name": "\u5bcc\u58eb\u30b7\u30c6\u30a3\u30aa\u682a\u5f0f\u4f1a\u793e",
+    "company_name": "富士シティオ株式会社",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.kobe.coop.or.jp/",
-    "company_name": "\u751f\u6d3b\u5354\u540c\u7d44\u5408\u30b3\u30fc\u30d7\u3053\u3046\u3079",
+    "company_name": "生活協同組合コープこうべ",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.heiwado.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u5e73\u548c\u5802",
+    "company_name": "株式会社平和堂",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sapporo.coop/",
-    "company_name": "\u751f\u6d3b\u5354\u540c\u7d44\u5408\u30b3\u30fc\u30d7\u3055\u3063\u307d\u308d",
+    "company_name": "生活協同組合コープさっぽろ",
     "supermarket_names": []
   },
   {
     "company_url": "http://yamazawa.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30e4\u30de\u30b6\u30ef",
+    "company_name": "株式会社ヤマザワ",
     "supermarket_names": []
   },
   {
     "company_url": "https://www.freshsaeki.co.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u3055\u3048\u304d\u30bb\u30eb\u30d0\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9",
+    "company_name": "株式会社さえきセルバホールディングス",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.ucoop.or.jp/",
-    "company_name": "\u751f\u6d3b\u5354\u540c\u7d44\u5408",
+    "company_name": "生活協同組合",
     "supermarket_names": []
   },
   {
     "company_url": "https://satudora.jp/",
-    "company_name": "\u30b5\u30c4\u30c9\u30e9\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9\u682a\u5f0f\u4f1a\u793e",
+    "company_name": "サツドラホールディングス株式会社",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.lifecorp.jp/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u30e9\u30a4\u30d5\u30b3\u30fc\u30dd\u30ec\u30fc\u30b7\u30e7\u30f3",
+    "company_name": "株式会社ライフコーポレーション",
     "supermarket_names": []
   },
   {
     "company_url": "http://www.sato-kyoto.com/",
-    "company_name": "\u682a\u5f0f\u4f1a\u793e\u3055\u3068\u3046",
+    "company_name": "株式会社さとう",
     "supermarket_names": []
   },
   {
     "company_url": "http://ryobi-store.jp/",
-    "company_name": "\u4e21\u5099\u30db\u30fc\u30eb\u30c7\u30a3\u30f3\u30b0\u30b9\u682a\u5f0f\u4f1a\u793e",
+    "company_name": "両備ホールディングス株式会社",
     "supermarket_names": []
   }
 ]

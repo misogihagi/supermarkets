@@ -369,4 +369,4 @@ rows.extend(cgc())
 rows.extend(nichiryu())
 rows.extend(selco())
 with open("data.json", "w") as f:
-    json.dump(rows, f, indent=2)
+    json.dump(rows, f, indent=2, ensure_ascii=False)

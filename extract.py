@@ -73,7 +73,7 @@ def main():
         target_name = item.get("target_name", "")
         results = item.get("results", [])
 
-        print(f"=== 対象: {target_name} ({item.get('prefecture', '')}) ===")
+        print(f"=== 対象: {target_name} ===")
 
         for result in results:
             title = result.get("title")

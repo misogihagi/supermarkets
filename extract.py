@@ -38,22 +38,34 @@ def fetch_page_text(url: str) -> str:
         print(f"  [エラー] {url} の取得に失敗しました: {e}")
         return ""
 
-def analyze_with_ollama(target_name: str, url: str, text_content: str):
-    """Ollamaを使用してテキストの中からテーマソング情報を分析・抽出する"""
+def fetch_html(url: str) -> str:
+    """URLからHTMLをそのまま取得する（URL探索用。トークン節約のため先頭のみ保持）"""
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        response.raise_for_status()
+        response.encoding = response.apparent_encoding
+        return response.text[:30000]
+    except Exception as e:
+        print(f"  [エラー] {url} のHTML取得に失敗しました: {e}")
+        return ""
+
+def find_song_name(target_name: str, url: str, text_content: str):
+    """Ollamaに曲名の有無だけを判定させる。見つかれば曲名、なければNoneを返す"""
     prompt = f"""
-以下のWebページテキストから、「{target_name}」のテーマソング（イメージソング、BGM、曲）の名前を探してください。
+以下は「{target_name}」に関するWebページのテキストです。
+この中に{target_name}のテーマソング・イメージソング・BGM・店内で流れる曲などの「曲名」が記載されていますか？
 
 【対象URL】: {url}
 【ページテキスト】:
 {text_content}
 
 【指示】:
-1. テーマソング・イメージソングなどの曲名が見つかった場合は、その「曲名」と「曲の音源が格納されたURL」を出力してください。
-2. 見つからなかった場合は「該当なし」と回答してください。
-3. 余計な解説は不要です。以下のフォーマットのみで回答してください。
-
-曲名: <見つかった曲名、または該当なし>
-曲の音源が格納されたURL: 
+- 曲名が見つかった場合: 「曲名: <曲名>」とだけ1行で出力してください。
+- 見つからない場合: 「該当なし」とだけ出力してください。
+- 余計な解説・改行は不要です。
 """
 
     response = ollama.chat(
@@ -63,7 +75,39 @@ def analyze_with_ollama(target_name: str, url: str, text_content: str):
             {"role": "user", "content": prompt}
         ]
     )
-    return response['message']['content']
+    content = response['message']['content'].strip()
+    if "該当なし" in content:
+        return None
+    if "曲名:" in content:
+        return content.split("曲名:", 1)[1].strip().splitlines()[0].strip()
+    return content
+
+def find_song_url(target_name: str, song_name: str, html_content: str):
+    """OllamaにHTMLを食わせ、曲の音源・動画が格納されたURLを探させる"""
+    prompt = f"""
+以下は「{target_name}」のWebページのHTMLです。
+{target_name}のテーマソング「{song_name}」の音源・動画が格納されたURL（オーディオファイル、YouTube、配信サイト、画像化された歌詞ページなど）を探してください。
+
+【HTML】:
+{html_content}
+
+【指示】:
+- 該当するURLが見つかった場合: 「URL: <url>」とだけ1行で出力してください。
+- 見つからない場合: 「該当なし」とだけ出力してください。
+- 余計な解説・改行は不要です。
+"""
+
+    response = ollama.chat(
+        model=OLLAMA_MODEL,
+        messages=[
+            {"role": "system", "content": "あなたは与えられたHTMLから正確にURLを抽出するアシスタントです。"},
+            {"role": "user", "content": prompt}
+        ]
+    )
+    content = response['message']['content'].strip()
+    if "URL:" in content:
+        return content.split("URL:", 1)[1].strip().splitlines()[0].strip()
+    return content
 
 def main():
     # YAMLのパース
@@ -88,11 +132,26 @@ def main():
                 print("  -> テキストを取得できなかったためスキップします。")
                 continue
 
-            # 2. Ollamaによる解析
-            analysis_result = analyze_with_ollama(target_name, url, page_text)
+            # 2. 曲名の有無を判定
+            song_name = find_song_name(target_name, url, page_text)
 
-            print("--- Ollamaの抽出結果 ---")
-            print(analysis_result)
+            if not song_name:
+                print("  -> 曲名が見つかりませんでした。")
+                continue
+
+            print(f"  -> 曲名ヒット: {song_name}")
+
+            # 3. ヒットした場合のみHTMLを取得してURLを探索
+            html = fetch_html(url)
+
+            if not html:
+                print("  -> HTMLを取得できなかったためスキップします。")
+                continue
+
+            url_result = find_song_url(target_name, song_name, html)
+
+            print("--- URL抽出結果 ---")
+            print(url_result)
 
 if __name__ == "__main__":
     main()

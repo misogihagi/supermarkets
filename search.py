@@ -49,7 +49,17 @@ def fetch_search_results(page, query):
 
 def main():
     data = json.loads(json_data)
-    final_results = []
+    output_filename = "supermarket_songs.yaml"
+
+    # 既存の結果を読み込み、結果が空でないものはスキップ対象にする
+    existing = {}
+    try:
+        with open(output_filename, "r", encoding="utf-8") as f:
+            for entry in yaml.safe_load(f) or []:
+                existing[entry["target_name"]] = entry
+    except FileNotFoundError:
+        pass
+    final_results = list(existing.values())
 
     with sync_playwright() as p:
         # ==========================================
@@ -73,12 +83,24 @@ def main():
             else:
                 target_name = clean_company_name(item["company_name"])
 
+            # 既に結果がある場合はスキップ
+            if existing.get(target_name) and existing[target_name].get("results"):
+                print(f"[スキップ] {target_name}")
+                continue
+
             # 検索クエリの作成
             query = f'{target_name} テーマソング OR イメージソング OR 曲 OR BGM'
 
             try:
                 # 使い回している「page」を渡してURL遷移を実行
-                search_results = fetch_search_results(page, query)
+                search_results = []
+                max_retries = 3
+                for attempt in range(1, max_retries + 1):
+                    search_results = fetch_search_results(page, query)
+                    if search_results:
+                        break
+                    print(f"  結果が空のためリトライ ({attempt}/{max_retries})")
+                    time.sleep(random.uniform(5.0, 10.0))
 
                 final_results.append({
                     "target_name": target_name,
@@ -98,7 +120,6 @@ def main():
         browser.close()
 
     # 結果をYAMLファイルに保存
-    output_filename = "supermarket_songs.yaml"
     with open(output_filename, "w", encoding="utf-8") as f:
         yaml.dump(final_results, f, allow_unicode=True, sort_keys=False)
 

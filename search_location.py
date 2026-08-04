@@ -35,7 +35,7 @@ def search_location(page, company_name, prefecture):
         print(f"  結果なし: {query} ({prefecture})")
         return None
 
-    # 先頭結果を基本としつつ、商号名が一致する行を探す
+    # 先頭結果を基本としつつ、商号名と都道府県が一致する行を探す
     for i in range(count):
         tds = rows.nth(i).locator("td")
         if tds.count() < 2:
@@ -46,11 +46,17 @@ def search_location(page, company_name, prefecture):
         if not normalized:
             continue
         if query in normalized or normalized in query:
-            return address
+            if address.startswith(prefecture):
+                return address
+            print(f"  都道府県不一致: {query} → {address}")
 
     # 名前が一致しなければ先頭の結果を採用
     tds = rows.nth(0).locator("td")
-    return tds.nth(1).inner_text().strip()
+    address = tds.nth(1).inner_text().strip()
+    if address.startswith(prefecture):
+        return address
+    print(f"  都道府県不一致（先頭結果）: {address}")
+    return None
 
 
 def main():

@@ -1,3 +1,4 @@
+import html
 import json
 import os
 import re
@@ -359,8 +360,19 @@ def jcsa():
         for e in elements:
             company_name = e.get_text()
             href = e.get("href")
+            # title属性に〒から始まる本社住所が入っている
+            title = html.unescape(e.get("title") or "")
+            m = re.search(r"〒[\d\-]+\s*(.+)", title)
+            prefecture = None
+            if m is not None:
+                address = re.sub(r"^[\s\u3000]+", "", m.group(1))
+                for pref in ALL_PREFECTURES:
+                    if address.startswith(pref):
+                        prefecture = pref
+                        break
             supermarket_names = []
             row = {
+                "prefecture": prefecture,
                 "company_url": href,
                 "company_name": company_name,
                 "supermarket_names": supermarket_names,

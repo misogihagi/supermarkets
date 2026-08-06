@@ -531,16 +531,30 @@ def selco():
     response.encoding = response.apparent_encoding
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
-    elements = soup.select("#main > div.indent > table > tr > td")
+    table = soup.select_one("#main > div.indent > table")
+    if table is None:
+        return rows
 
-    for e in elements:
-        if e.get_text().strip() != "" and any(
-            k in e.get_text().strip() for k in sum(region.values(), [])
-        ):
-            company_name = e.get_text().strip()
-            href = e.find("a").get("href") if e.find("a") is not None else ""
+    # 各行の先頭セルに都道府県名（rowspan継続行にはなし）が入っている
+    prefecture = None
+    for tr in table.select("tr"):
+        tds = tr.select("td")
+        if not tds:
+            continue
+        first = tds[0].get_text().strip()
+        if first in PREFECTURE_MAP:
+            prefecture = PREFECTURE_MAP[first]
+            company_cells = tds[1:]
+        else:
+            company_cells = tds
+        for cell in company_cells:
+            company_name = cell.get_text().strip()
+            if not company_name:
+                continue
+            href = cell.find("a").get("href") if cell.find("a") is not None else ""
             supermarket_names = []
             row = {
+                "prefecture": prefecture,
                 "company_url": href,
                 "company_name": company_name,
                 "supermarket_names": supermarket_names,

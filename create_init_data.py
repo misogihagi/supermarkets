@@ -187,6 +187,78 @@ ALL_PREFECTURES = [
 PREFECTURE_MAP = {p[:-1]: p for p in ALL_PREFECTURES}
 PREFECTURE_MAP["北海道"] = "北海道"
 
+# 住所が県名ではなく都市名始まりの場合の逆引きマップ（県庁所在地・政令指定都市）
+CITY_PREFECTURE_MAP = {
+    "札幌市": "北海道",
+    "青森市": "青森県",
+    "盛岡市": "岩手県",
+    "仙台市": "宮城県",
+    "秋田市": "秋田県",
+    "山形市": "山形県",
+    "福島市": "福島県",
+    "水戸市": "茨城県",
+    "宇都宮市": "栃木県",
+    "前橋市": "群馬県",
+    "さいたま市": "埼玉県",
+    "千葉市": "千葉県",
+    "横浜市": "神奈川県",
+    "川崎市": "神奈川県",
+    "相模原市": "神奈川県",
+    "新潟市": "新潟県",
+    "富山市": "富山県",
+    "金沢市": "石川県",
+    "福井市": "福井県",
+    "甲府市": "山梨県",
+    "長野市": "長野県",
+    "岐阜市": "岐阜県",
+    "静岡市": "静岡県",
+    "浜松市": "静岡県",
+    "名古屋市": "愛知県",
+    "津市": "三重県",
+    "大津市": "滋賀県",
+    "京都市": "京都府",
+    "大阪市": "大阪府",
+    "堺市": "大阪府",
+    "神戸市": "兵庫県",
+    "奈良市": "奈良県",
+    "和歌山市": "和歌山県",
+    "鳥取市": "鳥取県",
+    "松江市": "島根県",
+    "岡山市": "岡山県",
+    "広島市": "広島県",
+    "山口市": "山口県",
+    "徳島市": "徳島県",
+    "高松市": "香川県",
+    "松山市": "愛媛県",
+    "高知市": "高知県",
+    "北九州市": "福岡県",
+    "福岡市": "福岡県",
+    "佐賀市": "佐賀県",
+    "長崎市": "長崎県",
+    "熊本市": "熊本県",
+    "大分市": "大分県",
+    "宮崎市": "宮崎県",
+    "鹿児島市": "鹿児島県",
+    "那覇市": "沖縄県",
+}
+
+
+def prefecture_from_address(address):
+    """県名を含む住所から都道府県を返す（最初に現れる県名を優先、都市名始まりは逆引き）"""
+    matches = [
+        (address.find(pref), pref) for pref in ALL_PREFECTURES if pref in address
+    ]
+    if matches:
+        return min(matches)[1]
+    city_matches = [
+        (address.find(city), pref)
+        for city, pref in CITY_PREFECTURE_MAP.items()
+        if city in address
+    ]
+    if city_matches:
+        return min(city_matches)[1]
+    return None
+
 
 # 一般社団法人全国スーパーマーケット協会 (NSAJ) 正会員
 
@@ -435,10 +507,13 @@ def nichiryu():
     )
 
     for e in elements:
-        company_name = e.find("img").get("alt").split(" ")[0]
+        # alt属性は「商号 本社住所」の形式
+        alt = e.find("img").get("alt")
+        company_name = alt.split(" ")[0]
         href = e.get("href")
         supermarket_names = []
         row = {
+            "prefecture": prefecture_from_address(alt),
             "company_url": href,
             "company_name": company_name,
             "supermarket_names": supermarket_names,

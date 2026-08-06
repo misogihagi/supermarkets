@@ -11,8 +11,9 @@ HEADERS_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 
 
 def clean_company_name(name):
-    """(株)や(有)などの法人格表記と末尾の()を除いて検索用の商号を返す"""
-    cleaned = re.sub(r"[（(](株|有|名|合|財|社)[）)]", "", name)
+    """㈱㈲や(株)(有)などの法人格表記と末尾の()を除いて検索用の商号を返す"""
+    cleaned = re.sub(r"[㈱㈲]", "", name)
+    cleaned = re.sub(r"[（(](株|有|名|合|財|社)[）)]", "", cleaned)
     cleaned = re.sub(r"[（(][^）)]*[）)]$", "", cleaned)
     return cleaned.strip()
 

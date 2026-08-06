@@ -120,6 +120,7 @@ Prefecture = Literal[
     "宮崎県",
     "鹿児島県",
     "沖縄県",
+    "海外",
 ]
 
 
@@ -130,6 +131,60 @@ class SuperMarket:
     belong_to: str  # 加盟企業もしくはグループ企業
     supermarket_names: list[str]
     songs: list[str]
+
+
+ALL_PREFECTURES = [
+    "北海道",
+    "青森県",
+    "岩手県",
+    "宮城県",
+    "秋田県",
+    "山形県",
+    "福島県",
+    "茨城県",
+    "栃木県",
+    "群馬県",
+    "埼玉県",
+    "千葉県",
+    "東京都",
+    "神奈川県",
+    "新潟県",
+    "富山県",
+    "石川県",
+    "福井県",
+    "山梨県",
+    "長野県",
+    "岐阜県",
+    "静岡県",
+    "愛知県",
+    "三重県",
+    "滋賀県",
+    "京都府",
+    "大阪府",
+    "兵庫県",
+    "奈良県",
+    "和歌山県",
+    "鳥取県",
+    "島根県",
+    "岡山県",
+    "広島県",
+    "山口県",
+    "徳島県",
+    "香川県",
+    "愛媛県",
+    "高知県",
+    "福岡県",
+    "佐賀県",
+    "長崎県",
+    "熊本県",
+    "大分県",
+    "宮崎県",
+    "鹿児島県",
+    "沖縄県",
+]
+
+PREFECTURE_MAP = {p[:-1]: p for p in ALL_PREFECTURES}
+PREFECTURE_MAP["北海道"] = "北海道"
 
 
 # 一般社団法人全国スーパーマーケット協会 (NSAJ) 正会員
@@ -220,32 +275,72 @@ def jsa():
 
 # オール日本スーパーマーケット協会 (AJS) 会員
 
+AJS_MEMBER_PDF = (
+    "https://www.ajs.gr.jp/main/wp-content/imgs/2021/04/listKAIIN_20260401.pdf"
+)
+
 
 def ajs():
     rows = []
-    url = "https://www.ajs.gr.jp/main/wp-content/imgs/2025/10/listKAIIN_20251001.pdf"
+    # 協会概要ページから最新の会員一覧PDFを探す
+    url = AJS_MEMBER_PDF
+    try:
+        response = requests.get("https://www.ajs.gr.jp/contents/")
+        response.raise_for_status()
+        soup = BeautifulSoup(response.text, "html.parser")
+        link = soup.find("a", href=re.compile(r"listKAIIN.*\.pdf"))
+        if link is not None:
+            url = link["href"]
+    except requests.exceptions.RequestException:
+        pass
+
     response = requests.get(url)
+    response.raise_for_status()
 
     with open("kaiin.pdf", "wb") as f:
         f.write(response.content)
 
     doc = pymupdf.open("kaiin.pdf")
     for page in doc:
-        texts = list(
-            filter(
-                lambda s: not any(k in s for k in region.keys()),
-                page.get_text().split("\n")[5:-1],
-            )
-        )
-        links = [l["uri"] for l in page.get_links()]
-        for i in range(len(texts)):
+        lines = []
+        for block in page.get_text("dict")["blocks"]:
+            if "lines" not in block:
+                continue
+            for line in block["lines"]:
+                text = "".join(span["text"] for span in line["spans"]).strip()
+                if text:
+                    lines.append({"bbox": line["bbox"], "text": text})
+
+        # リンク矩形の座標から対応する商号行を特定して社名・都道府県を取得
+        for link in page.get_links():
+            uri = link.get("uri")
+            if uri is None:
+                continue
+            from_rect = link["from"]
+            matched = None
+            for entry in lines:
+                x0, y0, x1, y1 = entry["bbox"]
+                if (
+                    y0 - 1 <= from_rect.y0 <= y1 + 1
+                    and x0 - 1 <= from_rect.x0 <= x1 + 1
+                ):
+                    matched = entry["text"]
+                    break
+            if matched is None:
+                continue
+            m = re.match(r"^(?P<name>.+?)[（(](?P<pref>[^）)]+)[）)]$", matched)
+            if m is None:
+                continue
+            prefecture = PREFECTURE_MAP.get(m.group("pref"), "海外")
             row = {
-                "company_url": links[i],
-                "company_name": texts[i],
+                "prefecture": prefecture,
+                "company_url": uri,
+                "company_name": m.group("name"),
                 "supermarket_names": [],
             }
             rows.append(row)
 
+    doc.close()
     os.remove("kaiin.pdf")
     return rows
 

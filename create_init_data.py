@@ -399,19 +399,26 @@ def cgc():
         response = requests.get("https://www.cgcjapan.co.jp" + url.get("href"))
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
-        elements = soup.select(
-            "body > main > section > div.inner > div.corp-block > ul > li > p > a"
-        )
-        for e in elements:
-            company_name = e.get_text()
-            href = e.get("href")
-            supermarket_names = []
-            row = {
-                "company_url": href,
-                "company_name": company_name,
-                "supermarket_names": supermarket_names,
-            }
-            rows.append(row)
+        # h4.sub-ttlのspanに都道府県名、直後のcorp-blockに企業リストが入っている
+        for h4 in soup.select("main h4.sub-ttl"):
+            prefecture = PREFECTURE_MAP.get(
+                h4.select_one("span").get_text(strip=True), "海外"
+            )
+            corp_block = h4.find_next_sibling("div", class_="corp-block")
+            if corp_block is None:
+                continue
+            elements = corp_block.select("ul > li > p > a")
+            for e in elements:
+                company_name = e.get_text()
+                href = e.get("href")
+                supermarket_names = []
+                row = {
+                    "prefecture": prefecture,
+                    "company_url": href,
+                    "company_name": company_name,
+                    "supermarket_names": supermarket_names,
+                }
+                rows.append(row)
     return rows
 
 

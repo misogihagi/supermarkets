@@ -2,6 +2,7 @@ import json
 import re
 import time
 import random
+import unicodedata
 from playwright.sync_api import sync_playwright
 
 DATA_FILE = "data.json"
@@ -10,17 +11,23 @@ BASE_URL = "https://www.houjin-bangou.nta.go.jp/"
 HEADERS_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 
-def clean_company_name(name):
-    """㈱㈲や(株)(有)などの法人格表記と末尾の()を除いて検索用の商号を返す"""
-    cleaned = re.sub(r"[㈱㈲]", "", name)
+def normalize_name(name):
+    """㈱㈲や(株)(有)、株式会社等の法人格表記と空白を除去し、全角英数字も正規化して商号を返す"""
+    cleaned = unicodedata.normalize("NFKC", name)
     cleaned = re.sub(r"[（(](株|有|名|合|財|社)[）)]", "", cleaned)
+    cleaned = re.sub(
+        r"株式会社|有限会社|合同会社|合資会社|合名会社|社団法人|財団法人|医療法人|相互会社|学校法人",
+        "",
+        cleaned,
+    )
     cleaned = re.sub(r"[（(][^）)]*[）)]$", "", cleaned)
-    return cleaned.strip()
+    cleaned = re.sub(r"[\s\u3000]", "", cleaned)
+    return cleaned
 
 
 def search_location(page, company_name, prefecture):
-    """法人番号公表サイトで検索し、所在地を返す（見つからなければNone）"""
-    query = clean_company_name(company_name)
+    """法人番号公表サイトで検索し、正規化後の商号と都道府県が完全一致する所在地の一覧を返す"""
+    query = normalize_name(company_name)
 
     # ホーム画面に戻って検索（トークンを毎回取得）
     page.goto(BASE_URL, wait_until="domcontentloaded")
@@ -31,33 +38,16 @@ def search_location(page, company_name, prefecture):
     page.wait_for_timeout(1000)
 
     rows = page.locator("table tr:has(td)")
-    count = rows.count()
-    if count == 0:
-        print(f"  結果なし: {query} ({prefecture})")
-        return None
-
-    # 先頭結果を基本としつつ、商号名と都道府県が一致する行を探す
-    for i in range(count):
+    matches = []
+    for i in range(rows.count()):
         tds = rows.nth(i).locator("td")
         if tds.count() < 2:
             continue
         name_cell = tds.nth(0).inner_text()
         address = tds.nth(1).inner_text().strip()
-        normalized = re.sub(r"\s+", "", name_cell)
-        if not normalized:
-            continue
-        if query in normalized or normalized in query:
-            if address.startswith(prefecture):
-                return address
-            print(f"  都道府県不一致: {query} → {address}")
-
-    # 名前が一致しなければ先頭の結果を採用
-    tds = rows.nth(0).locator("td")
-    address = tds.nth(1).inner_text().strip()
-    if address.startswith(prefecture):
-        return address
-    print(f"  都道府県不一致（先頭結果）: {address}")
-    return None
+        if normalize_name(name_cell) == query and address.startswith(prefecture):
+            matches.append(address)
+    return matches
 
 
 def main():
@@ -69,6 +59,9 @@ def main():
         context = browser.new_context(user_agent=HEADERS_UA)
         page = context.new_page()
 
+        no_result = []
+        multiple_matches = []
+        errors = []
         done = 0
         for item in data:
             company_name = item.get("company_name", "")
@@ -82,13 +75,20 @@ def main():
 
             print(f"=== {company_name} ({prefecture}) ===")
             try:
-                address = search_location(page, company_name, prefecture)
-                item["location"] = address
-                if address:
-                    print(f"  所在地: {address}")
+                matches = search_location(page, company_name, prefecture)
+                if len(matches) == 1:
+                    item["location"] = matches[0]
+                    print(f"  所在地: {matches[0]}")
+                elif len(matches) == 0:
+                    item["location"] = None
+                    no_result.append((company_name, prefecture))
+                else:
+                    item["location"] = None
+                    multiple_matches.append((company_name, prefecture, matches))
             except Exception as e:
                 print(f"  エラー: {e}")
                 item["location"] = None
+                errors.append((company_name, prefecture, str(e)))
 
             done += 1
             # 連続アクセスを避けるため待機
@@ -100,6 +100,21 @@ def main():
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     print(f"\n完了: {done} 件を処理しました。")
+
+    print("\n=== 結果なし（0件） ===")
+    for company_name, prefecture in no_result:
+        print(f"  {company_name} ({prefecture})")
+
+    print("\n=== 複数件マッチ ===")
+    for company_name, prefecture, matches in multiple_matches:
+        print(f"  {company_name} ({prefecture})")
+        for address in matches:
+            print(f"    {address}")
+
+    if errors:
+        print("\n=== エラー ===")
+        for company_name, prefecture, message in errors:
+            print(f"  {company_name} ({prefecture}): {message}")
 
 
 if __name__ == "__main__":

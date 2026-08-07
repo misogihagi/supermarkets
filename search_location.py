@@ -1,8 +1,9 @@
 import json
+import random
 import re
 import time
-import random
 import unicodedata
+
 from playwright.sync_api import sync_playwright
 
 DATA_FILE = "data.json"
@@ -66,7 +67,7 @@ def main():
         for item in data:
             company_name = item.get("company_name", "")
             prefecture = item.get("prefecture", "")
-            if "location" in item:
+            if item.get("location"):
                 print(f"[スキップ] {company_name}")
                 continue
             if not company_name or not prefecture:

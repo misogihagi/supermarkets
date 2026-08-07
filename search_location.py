@@ -26,6 +26,13 @@ def normalize_name(name):
     return cleaned
 
 
+def get_name_text(cell):
+    """td要素からフリガナ(div.furigana)を除いた商号テキストを返す"""
+    return cell.evaluate(
+        "el => { const c = el.cloneNode(true); const f = c.querySelector('.furigana'); if (f) f.remove(); return c.innerText; }"
+    )
+
+
 def search_location(page, company_name, prefecture):
     """法人番号公表サイトで検索し、正規化後の商号と都道府県が完全一致する所在地の一覧を返す"""
     query = normalize_name(company_name)
@@ -44,9 +51,9 @@ def search_location(page, company_name, prefecture):
         tds = rows.nth(i).locator("td")
         if tds.count() < 2:
             continue
-        name_cell = tds.nth(0).inner_text()
+        name_cell = tds.nth(0)
         address = tds.nth(1).inner_text().strip()
-        if normalize_name(name_cell) == query and address.startswith(prefecture):
+        if normalize_name(get_name_text(name_cell)) == query and address.startswith(prefecture):
             matches.append(address)
     return matches
 

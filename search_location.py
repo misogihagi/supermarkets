@@ -86,19 +86,26 @@ def search_location(page, company_name, prefecture):
     page.wait_for_url("**/kensaku-kekka.html*", timeout=30000)
     page.wait_for_timeout(1000)
 
-    rows = page.locator("table tr:has(td)")
     matches = []
-    for i in range(rows.count()):
-        tds = rows.nth(i).locator("td")
-        if tds.count() < 2:
-            continue
-        name_cell = tds.nth(0)
-        address = tds.nth(1).inner_text().strip()
-        if (
-            normalize_name_with_entity(get_name_text(name_cell)) == query_with_entity
-            and address.startswith(prefecture)
-        ):
-            matches.append(address)
+    while True:
+        rows = page.locator("table tr:has(td)")
+        for i in range(rows.count()):
+            tds = rows.nth(i).locator("td")
+            if tds.count() < 2:
+                continue
+            name_cell = tds.nth(0)
+            address = tds.nth(1).inner_text().strip()
+            if (
+                normalize_name_with_entity(get_name_text(name_cell)) == query_with_entity
+                and address.startswith(prefecture)
+            ):
+                matches.append(address)
+
+        next_link = page.locator(".paginate li.next a")
+        if next_link.count() == 0:
+            break
+        next_link.click()
+        page.wait_for_timeout(1000)
     return matches
 
 

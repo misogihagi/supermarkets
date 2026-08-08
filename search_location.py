@@ -54,18 +54,14 @@ def normalize_name(name):
 
 
 def normalize_name_with_entity(name):
-    """法人格を正式表記に揃えて末尾に置き、空白・全角文字も正規化して商号を返す（比較用）
+    """法人格を正式表記に揃えつつ、前置・後置の位置を保持して商号を返す（比較用）
 
-    株式会社福原と福原株式会社は同一視されるが、
-    福原株式会社と福原有限会社は区別される。
+    株式会社福原と福原株式会社は区別される。
     """
     cleaned = _base_name(name)
     for short, full in ENTITY_MAP.items():
         cleaned = cleaned.replace(short, full)
     cleaned = re.sub(r"\([^)]*\)$", "", cleaned)
-    for suffix in ENTITY_SUFFIXES:
-        if cleaned.startswith(suffix):
-            cleaned = cleaned[len(suffix) :] + suffix
     return cleaned
 
 

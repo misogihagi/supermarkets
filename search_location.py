@@ -81,6 +81,7 @@ def search_location(page, company_name, prefecture):
     page.goto(BASE_URL, wait_until="domcontentloaded")
     page.fill("#corp_name", query)
     page.select_option("#addr_pref", label=prefecture)
+    page.check("input[name='houzinNmShTypeRbtn'][value='1']")
     page.click("#search_condition")
     page.wait_for_url("**/kensaku-kekka.html*", timeout=30000)
     page.wait_for_timeout(1000)

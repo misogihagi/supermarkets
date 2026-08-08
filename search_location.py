@@ -12,17 +12,60 @@ BASE_URL = "https://www.houjin-bangou.nta.go.jp/"
 HEADERS_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 
-def normalize_name(name):
-    """㈱㈲や(株)(有)、株式会社等の法人格表記と空白を除去し、全角英数字も正規化して商号を返す"""
+ENTITY_MAP = {
+    "(株)": "株式会社",
+    "(有)": "有限会社",
+    "(名)": "合名会社",
+    "(合)": "合資会社",
+    "(財)": "財団法人",
+    "(社)": "社団法人",
+    "(学)": "学校法人",
+}
+
+ENTITY_SUFFIXES = [
+    "株式会社",
+    "有限会社",
+    "合同会社",
+    "合資会社",
+    "合名会社",
+    "社団法人",
+    "財団法人",
+    "医療法人",
+    "相互会社",
+    "学校法人",
+]
+
+
+def _base_name(name):
+    """全角文字をNFKC正規化し、空白を除去して商号を返す"""
     cleaned = unicodedata.normalize("NFKC", name)
-    cleaned = re.sub(r"[（(](株|有|名|合|財|社)[）)]", "", cleaned)
-    cleaned = re.sub(
-        r"株式会社|有限会社|合同会社|合資会社|合名会社|社団法人|財団法人|医療法人|相互会社|学校法人",
-        "",
-        cleaned,
-    )
-    cleaned = re.sub(r"[（(][^）)]*[）)]$", "", cleaned)
     cleaned = re.sub(r"[\s\u3000]", "", cleaned)
+    return cleaned
+
+
+def normalize_name(name):
+    """法人格表記(㈱㈲や(株)(有)、株式会社等)と末尾の括弧書きを除去し、商号を返す（検索用）"""
+    cleaned = _base_name(name)
+    cleaned = re.sub(r"[（(](株|有|名|合|財|社|学)[）)]", "", cleaned)
+    for suffix in ENTITY_SUFFIXES:
+        cleaned = cleaned.replace(suffix, "")
+    cleaned = re.sub(r"\([^)]*\)$", "", cleaned)
+    return cleaned
+
+
+def normalize_name_with_entity(name):
+    """法人格を正式表記に揃えて末尾に置き、空白・全角文字も正規化して商号を返す（比較用）
+
+    株式会社福原と福原株式会社は同一視されるが、
+    福原株式会社と福原有限会社は区別される。
+    """
+    cleaned = _base_name(name)
+    for short, full in ENTITY_MAP.items():
+        cleaned = cleaned.replace(short, full)
+    cleaned = re.sub(r"\([^)]*\)$", "", cleaned)
+    for suffix in ENTITY_SUFFIXES:
+        if cleaned.startswith(suffix):
+            cleaned = cleaned[len(suffix) :] + suffix
     return cleaned
 
 
@@ -36,6 +79,7 @@ def get_name_text(cell):
 def search_location(page, company_name, prefecture):
     """法人番号公表サイトで検索し、正規化後の商号と都道府県が完全一致する所在地の一覧を返す"""
     query = normalize_name(company_name)
+    query_with_entity = normalize_name_with_entity(company_name)
 
     # ホーム画面に戻って検索（トークンを毎回取得）
     page.goto(BASE_URL, wait_until="domcontentloaded")
@@ -53,7 +97,10 @@ def search_location(page, company_name, prefecture):
             continue
         name_cell = tds.nth(0)
         address = tds.nth(1).inner_text().strip()
-        if normalize_name(get_name_text(name_cell)) == query and address.startswith(prefecture):
+        if (
+            normalize_name_with_entity(get_name_text(name_cell)) == query_with_entity
+            and address.startswith(prefecture)
+        ):
             matches.append(address)
     return matches
 

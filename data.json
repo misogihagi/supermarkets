@@ -3,7 +3,8 @@
     "prefecture": "北海道",
     "company_url": "https://www.aizawafood.com/",
     "company_name": "(株)相沢食料百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "北海道",
@@ -13,7 +14,8 @@
       "西條",
       "BESTOM",
       "Qマート"
-    ]
+    ],
+    "location": "北海道名寄市西三条南６丁目２５番地１"
   },
   {
     "prefecture": "北海道",
@@ -21,13 +23,15 @@
     "company_name": "JR北海道フレッシュキヨスク(株)",
     "supermarket_names": [
       "ジェイ・アール生鮮市場"
-    ]
+    ],
+    "location": "北海道札幌市中央区北二条西１丁目１番地１"
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.tokou-store.co.jp/",
     "company_name": "(株)東光ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道札幌市豊平区平岸一条１丁目９番６号"
   },
   {
     "prefecture": "北海道",
@@ -38,7 +42,8 @@
       "BASIC",
       "ラルズマート",
       "ビッグハウス"
-    ]
+    ],
+    "location": "北海道北見市卸町３丁目７番地２"
   },
   {
     "prefecture": "北海道",
@@ -48,7 +53,8 @@
       "スーパーアークス",
       "ラルズマート",
       "ビッグハウス"
-    ]
+    ],
+    "location": "北海道函館市港町１丁目２番１号"
   },
   {
     "prefecture": "北海道",
@@ -58,7 +64,8 @@
       "ふじ",
       "ベストプライス",
       "ビッグハウス"
-    ]
+    ],
+    "location": "北海道旭川市流通団地一条１丁目３３番地の１"
   },
   {
     "prefecture": "北海道",
@@ -66,13 +73,15 @@
     "company_name": "(株)福原",
     "supermarket_names": [
       "フクハラ"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "北海道",
     "company_url": null,
     "company_name": "(株)ブンテン（フードセンターブンテン）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道磯谷郡蘭越町蘭越町１０７番地２"
   },
   {
     "prefecture": "北海道",
@@ -80,7 +89,8 @@
     "company_name": "(株)Bae",
     "supermarket_names": [
       "ビッグフーズヒロセ睦店"
-    ]
+    ],
+    "location": "北海道釧路郡釧路町睦３丁目１番地６"
   },
   {
     "prefecture": "北海道",
@@ -89,13 +99,15 @@
     "supermarket_names": [
       "フードD",
       "365"
-    ]
+    ],
+    "location": "北海道室蘭市日の出町２丁目２４番２０号"
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.hokuno.com/",
     "company_name": "(株)ホクノー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "北海道",
@@ -104,7 +116,8 @@
     "supermarket_names": [
       "ラッキー",
       "シティ"
-    ]
+    ],
+    "location": "北海道札幌市手稲区星置一条２丁目１番１号"
   },
   {
     "prefecture": "北海道",
@@ -112,7 +125,8 @@
     "company_name": "(株)モリワキ",
     "supermarket_names": [
       "北海市場"
-    ]
+    ],
+    "location": "北海道札幌市西区西町南７丁目４番１５号"
   },
   {
     "prefecture": "北海道",
@@ -122,13 +136,15 @@
       "ラルズマート",
       "ビッグハウス",
       "スーパーアークス"
-    ]
+    ],
+    "location": "北海道札幌市中央区南十三条西１１丁目２番３２号"
   },
   {
     "prefecture": "青森県",
     "company_url": "http://www.kakemo.com/",
     "company_name": "(株)スーパーカケモ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県十和田市穂並町１５番１０号"
   },
   {
     "prefecture": "青森県",
@@ -136,13 +152,15 @@
     "company_name": "(株)つがる屋",
     "supermarket_names": [
       "パレットショップ"
-    ]
+    ],
+    "location": "青森県弘前市大字末広３丁目１番地４"
   },
   {
     "prefecture": "青森県",
     "company_url": "http://www.supertoei.co.jp/",
     "company_name": "(有)トーエー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県青森市堤町２丁目７番１３号"
   },
   {
     "prefecture": "青森県",
@@ -151,43 +169,50 @@
     "supermarket_names": [
       "ベニーマート",
       "カブセンター"
-    ]
+    ],
+    "location": "青森県青森市大字石江字三好１３０番１カブセンター西青森店２階"
   },
   {
     "prefecture": "青森県",
     "company_url": "https://i-maeda.jp",
     "company_name": "(株)マエダ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県むつ市小川町２丁目４番８号"
   },
   {
     "prefecture": "青森県",
     "company_url": "https://www.yamaharu-web.jp/",
     "company_name": "(有)やまはる",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県八戸市旭ケ丘１丁目１番地２０"
   },
   {
     "prefecture": "青森県",
     "company_url": "https://www.universe.co.jp/",
     "company_name": "(株)ユニバース",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県八戸市大字長苗代字前田８３番地１"
   },
   {
     "prefecture": "青森県",
     "company_url": "https://yokomachi.com",
     "company_name": "(株)よこまち",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県八戸市大字尻内町字八百刈３９番地３"
   },
   {
     "prefecture": "岩手県",
     "company_url": "https://www.kanbun-store.jp/",
     "company_name": "(株)神文ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県一関市萩荘字下モ下釜５５番１"
   },
   {
     "prefecture": "岩手県",
     "company_url": "https://tamori.co.jp/",
     "company_name": "(株)たもり",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県紫波郡紫波町紫波中央駅前１丁目３７番地１"
   },
   {
     "prefecture": "岩手県",
@@ -195,7 +220,8 @@
     "company_name": "びはん(株)",
     "supermarket_names": [
       "びはんストア"
-    ]
+    ],
+    "location": "岩手県下閉伊郡山田町中央町５番６号"
   },
   {
     "prefecture": "岩手県",
@@ -206,25 +232,29 @@
       "ベルプラス",
       "ビッグハウス",
       "スーパーアークス"
-    ]
+    ],
+    "location": "岩手県盛岡市東安庭２丁目１番３０号"
   },
   {
     "prefecture": "岩手県",
     "company_url": "https://www.maiya.co.jp/",
     "company_name": "(株)マイヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県大船渡市盛町字木町１４番地５"
   },
   {
     "prefecture": "岩手県",
     "company_url": "https://marue-super.jp/",
     "company_name": "(株)丸江",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県一関市萩荘字高梨東１番地５"
   },
   {
     "prefecture": "岩手県",
     "company_url": "https://michinoku-rs.co.jp/",
     "company_name": "(株)みちのく流通システム",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県盛岡市津志田西２丁目２番３３号"
   },
   {
     "prefecture": "宮城県",
@@ -232,13 +262,15 @@
     "company_name": "(株)伊藤チェーン",
     "supermarket_names": [
       "イトーチェーン"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "宮城県",
     "company_url": "http://www.ujiesuper.com/",
     "company_name": "(株)ウジエスーパー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "宮城県登米市迫町佐沼字中江１丁目７番地の１"
   },
   {
     "prefecture": "宮城県",
@@ -246,7 +278,8 @@
     "company_name": "カメイ(株)",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "宮城県登米市豊里町浦軒５４番地"
   },
   {
     "prefecture": "宮城県",
@@ -254,7 +287,8 @@
     "company_name": "JR東日本東北総合サービス(株)",
     "supermarket_names": [
       "ピボット"
-    ]
+    ],
+    "location": "宮城県仙台市青葉区中央４丁目１０番３号"
   },
   {
     "prefecture": "宮城県",
@@ -262,7 +296,8 @@
     "company_name": "(株)和興",
     "supermarket_names": [
       "ワコー"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "秋田県",
@@ -270,7 +305,8 @@
     "company_name": "(株)伊徳",
     "supermarket_names": [
       "ITOKU"
-    ]
+    ],
+    "location": "秋田県大館市清水４丁目４番１５号"
   },
   {
     "prefecture": "秋田県",
@@ -278,7 +314,8 @@
     "company_name": "(株)タカヤナギ",
     "supermarket_names": [
       "グランマート"
-    ]
+    ],
+    "location": "秋田県大仙市川目字町東３３番地"
   },
   {
     "prefecture": "秋田県",
@@ -286,7 +323,8 @@
     "company_name": "(株)マルシメ",
     "supermarket_names": [
       "ラッキー"
-    ]
+    ],
+    "location": "秋田県横手市十文字町仁井田字東２２番地１"
   },
   {
     "prefecture": "秋田県",
@@ -294,31 +332,36 @@
     "company_name": "(有)ミサトフーズ",
     "supermarket_names": [
       "AX"
-    ]
+    ],
+    "location": "秋田県仙北郡美郷町六郷字安楽寺２９８番地１"
   },
   {
     "prefecture": "山形県",
     "company_url": "https://www.oh-ban.com/",
     "company_name": "(株)おーばん",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "山形県",
     "company_url": "http://www.fu-sha.com/",
     "company_name": "(株)主婦の店鶴岡店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山形県鶴岡市本町１丁目６番２号"
   },
   {
     "prefecture": "山形県",
     "company_url": "http://www.toichiya.co.jp/",
     "company_name": "(株)ト一屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山形県酒田市東町２丁目２番１号"
   },
   {
     "prefecture": "福島県",
     "company_url": "https://ouchi-y.com",
     "company_name": "大内安男商店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福島県",
@@ -326,7 +369,8 @@
     "company_name": "(株)清水商店",
     "supermarket_names": [
       "シミズストア"
-    ]
+    ],
+    "location": "福島県田村市船引町船引字畑添５４番地"
   },
   {
     "prefecture": "福島県",
@@ -334,7 +378,8 @@
     "company_name": "(株)ブイシージー",
     "supermarket_names": [
       "ブイチェーン"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "福島県",
@@ -342,79 +387,92 @@
     "company_name": "フレスコ(株)",
     "supermarket_names": [
       "フレスコキクチ"
-    ]
+    ],
+    "location": "福島県相馬市中村字宇多川町１７番地"
   },
   {
     "prefecture": "福島県",
     "company_url": "https://www.maruto-gp.co.jp/",
     "company_name": "(株)マルト",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福島県",
     "company_url": "https://www.liondor.jp/",
     "company_name": "(株)リオン・ドールコーポレーション",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県会津若松市栄町２番１４号"
   },
   {
     "prefecture": "茨城県",
     "company_url": "http://www.kawaneya.co.jp/",
     "company_name": "(株)かわねや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "茨城県常陸太田市木崎二町８７４番地"
   },
   {
     "prefecture": "茨城県",
     "company_url": "http://www.sanyu-store.jp/",
     "company_name": "(株)サンユーストアー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "茨城県北茨城市磯原町磯原１丁目１２７番地"
   },
   {
     "prefecture": "茨城県",
     "company_url": "https://super-hiroseya.jp/",
     "company_name": "(株)スーパーヒロセヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "茨城県那珂市飯田２７０８番地の２"
   },
   {
     "prefecture": "茨城県",
     "company_url": "http://www.super-seimiya.co.jp/",
     "company_name": "(株)セイミヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "茨城県潮来市潮来６１７番地・６１８番地"
   },
   {
     "prefecture": "茨城県",
     "company_url": "https://www.super-taiyo.com/",
     "company_name": "(株)タイヨー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "栃木県",
     "company_url": "https://www.yaohan.jp",
     "company_name": "(株)八百半フードセンター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "栃木県鹿沼市上田町２３４１番地"
   },
   {
     "prefecture": "群馬県",
     "company_url": "https://www.fressay.co.jp/",
     "company_name": "(株)フレッセイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "群馬県前橋市力丸町４９１番地１"
   },
   {
     "prefecture": "群馬県",
     "company_url": "https://www.beisia.co.jp/",
     "company_name": "(株)ベイシア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "群馬県前橋市亀里町９００番地"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "https://mirai.coopnet.or.jp/",
     "company_name": "(生協)コープみらい",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "埼玉県",
     "company_url": "https://ha-z.jp/",
     "company_name": "(株)ハーズ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "埼玉県深谷市荒川８５０番地１"
   },
   {
     "prefecture": "埼玉県",
@@ -422,7 +480,8 @@
     "company_name": "(株)パドマ",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "埼玉県三郷市半田２６３"
   },
   {
     "prefecture": "埼玉県",
@@ -430,19 +489,22 @@
     "company_name": "北辰商事(株)",
     "supermarket_names": [
       "ロヂャース"
-    ]
+    ],
+    "location": "埼玉県北足立郡伊奈町大字小室２２８１番地１"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "https://mami-mart.com",
     "company_name": "(株)マミーマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "埼玉県東松山市本町２丁目２番４７号"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "https://www.worldlinks.co.jp/",
     "company_name": "(有)ワールドリンクス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "埼玉県坂戸市浅羽野１丁目９番地４"
   },
   {
     "prefecture": "千葉県",
@@ -450,7 +512,8 @@
     "company_name": "(株)葵商事",
     "supermarket_names": [
       "アオイストアー"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "千葉県",
@@ -458,13 +521,15 @@
     "company_name": "(株)石原",
     "supermarket_names": [
       "エコ・ピア"
-    ]
+    ],
+    "location": "千葉県市川市八幡６丁目３番２１号"
   },
   {
     "prefecture": "千葉県",
     "company_url": "https://www.odoya.com/",
     "company_name": "(株)おどや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県館山市北条２６１７番地"
   },
   {
     "prefecture": "千葉県",
@@ -472,7 +537,8 @@
     "company_name": "(株)かわた",
     "supermarket_names": [
       "クランデール"
-    ]
+    ],
+    "location": "千葉県野田市大殿井１５０番地の２１０"
   },
   {
     "prefecture": "千葉県",
@@ -480,7 +546,8 @@
     "company_name": "(株)京成ストア",
     "supermarket_names": [
       "リブレ京成"
-    ]
+    ],
+    "location": "千葉県市川市八幡３丁目３番１号"
   },
   {
     "prefecture": "千葉県",
@@ -488,13 +555,15 @@
     "company_name": "(株)京北スーパー",
     "supermarket_names": [
       "KEIHOKU"
-    ]
+    ],
+    "location": "千葉県柏市柏１丁目４番３号"
   },
   {
     "prefecture": "千葉県",
     "company_url": "https://www.foods-selection.co.jp/",
     "company_name": "(株)セレクション",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "千葉県",
@@ -502,19 +571,22 @@
     "company_name": "(株)高橋商店",
     "supermarket_names": [
       "T・マート"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "千葉県",
     "company_url": "https://e-tous.com/",
     "company_name": "(株)トウズ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県佐倉市宮前３丁目６番１１号"
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://www.naritaya-net.co.jp/",
     "company_name": "(株)ナリタヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県印旛郡栄町安食２１７０番地１"
   },
   {
     "prefecture": "千葉県",
@@ -522,13 +594,15 @@
     "company_name": "(有)マルトモ商店(フレッシュマルトモ)",
     "supermarket_names": [
       "フレッシュマルトモ"
-    ]
+    ],
+    "location": "千葉県銚子市諸持町１８番地の３"
   },
   {
     "prefecture": "千葉県",
     "company_url": "https://landrome.jp/",
     "company_name": "(株)ランドロームジャパン",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県船橋市三咲５丁目９番７号"
   },
   {
     "prefecture": "東京都",
@@ -536,13 +610,15 @@
     "company_name": "(株)アドバンスクリヤマ",
     "supermarket_names": [
       "シミズヤ"
-    ]
+    ],
+    "location": "東京都世田谷区南烏山５丁目１４番３号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.ababakafudado.co.jp/",
     "company_name": "(株)アブアブ赤札堂",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都台東区池之端１丁目５番２号"
   },
   {
     "prefecture": "東京都",
@@ -550,25 +626,29 @@
     "company_name": "(株)イトーヨーカ堂",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "東京都千代田区二番町８番地８"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.inageya.co.jp/",
     "company_name": "(株)いなげや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都立川市栄町６丁目１番地の１"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://escamare.co.jp/",
     "company_name": "エスカマーレ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都新宿区岩戸町１８日交神楽坂ビル７階"
   },
   {
     "prefecture": "東京都",
     "company_url": null,
     "company_name": "(株)エヌ・マート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都北区東田端２丁目８番１５号"
   },
   {
     "prefecture": "東京都",
@@ -576,43 +656,50 @@
     "company_name": "(株)エムアイフードスタイル",
     "supermarket_names": [
       "クイーンズ伊勢丹"
-    ]
+    ],
+    "location": "東京都新宿区西落合２丁目１８番２０号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://kimuraya-enet.jimdofree.com",
     "company_name": "神楽坂KIMURAYA(橋爪商店)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.sake-kawachi.co.jp/",
     "company_name": "河内屋酒販(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都江戸川区中葛西５丁目４０番１５号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.e-kinokuniya.com/",
     "company_name": "(株)紀ノ國屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都港区北青山３丁目１１番７号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.kyusyuya.co.jp/",
     "company_name": "(株)九州屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://ginza-sembikiya.jp/",
     "company_name": "(株)銀座千疋屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都中央区銀座５丁目５番１号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.keiostore.co.jp/",
     "company_name": "(株)京王ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都多摩市関戸１丁目１１番地１"
   },
   {
     "prefecture": "東京都",
@@ -620,19 +707,22 @@
     "company_name": "(株)コイズミ産業",
     "supermarket_names": [
       "ベニースーパー西蒲田"
-    ]
+    ],
+    "location": "東京都大田区西蒲田４丁目３１番１８号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.sakagami-cl.co.jp/",
     "company_name": "(株)サカガミ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都練馬区富士見台２丁目２３番１２号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.santoku.co.jp/",
     "company_name": "(株)三德",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
@@ -640,7 +730,8 @@
     "company_name": "(株)サンベルクス",
     "supermarket_names": [
       "Belx"
-    ]
+    ],
+    "location": "東京都千代田区四番町７番５号"
   },
   {
     "prefecture": "東京都",
@@ -649,7 +740,8 @@
     "supermarket_names": [
       "三和",
       "フードワン"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "東京都",
@@ -658,7 +750,8 @@
     "supermarket_names": [
       "リカーキング",
       "業務スーパー"
-    ]
+    ],
+    "location": "東京都八王子市田町２番５号"
   },
   {
     "prefecture": "東京都",
@@ -666,7 +759,8 @@
     "company_name": "(株)シェルガーデン",
     "supermarket_names": [
       "ザ・ガーデン自由が丘"
-    ]
+    ],
+    "location": "東京都千代田区二番町８番地８"
   },
   {
     "prefecture": "東京都",
@@ -674,7 +768,8 @@
     "company_name": "City Star(株)",
     "supermarket_names": [
       "MM-MART"
-    ]
+    ],
+    "location": "東京都豊島区北大塚３丁目３２－３－２０１豊島屋ビル"
   },
   {
     "prefecture": "東京都",
@@ -682,7 +777,8 @@
     "company_name": "(株)信濃屋食品",
     "supermarket_names": [
       "信濃屋"
-    ]
+    ],
+    "location": "東京都世田谷区代田１丁目３４番１３号"
   },
   {
     "prefecture": "東京都",
@@ -690,25 +786,29 @@
     "company_name": "(株)島田屋",
     "supermarket_names": [
       "シマダヤ"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.jalux.com/",
     "company_name": "(株)JALUX",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都港区港南１丁目２番７０号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://marusho-honten.co.jp/",
     "company_name": "(株)ショッピングセンター丸正総本店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都新宿区四谷３丁目１２番地"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://market.kita-grp.co.jp/",
     "company_name": "(株)スーパーキタムラ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
@@ -716,25 +816,29 @@
     "company_name": "鈴木青果(有)",
     "supermarket_names": [
       "ヤオシチ"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.tobustore.co.jp/",
     "company_name": "(株)東武ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都板橋区上板橋３丁目１番１号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://super-tops.com/",
     "company_name": "(株)トップ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.national-azabu.com/",
     "company_name": "ナショナル麻布(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都港区南麻布４丁目５番２号"
   },
   {
     "prefecture": "東京都",
@@ -742,7 +846,8 @@
     "company_name": "日進畜産工業(株)",
     "supermarket_names": [
       "日進ワールドデリカデッセン"
-    ]
+    ],
+    "location": "東京都港区東麻布２丁目３２番１３号"
   },
   {
     "prefecture": "東京都",
@@ -750,7 +855,8 @@
     "company_name": "日東燃料工業(株)",
     "supermarket_names": [
       "ベニースーパー"
-    ]
+    ],
+    "location": "東京都足立区六木１丁目１９番１３号"
   },
   {
     "prefecture": "東京都",
@@ -758,7 +864,8 @@
     "company_name": "八丈万有(株)",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "東京都八丈島八丈町三根２３３番地３"
   },
   {
     "prefecture": "東京都",
@@ -766,25 +873,29 @@
     "company_name": "(株)花正",
     "supermarket_names": [
       "ハナマサ"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.jreast.co.jp/",
     "company_name": "東日本旅客鉄道(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都渋谷区代々木２丁目２番２号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.fu-suipj.com/home",
     "company_name": "(株)風水プロジェクト",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.bunkado.com/",
     "company_name": "(株)文化堂",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都葛飾区東立石３丁目２４番９号"
   },
   {
     "prefecture": "東京都",
@@ -792,25 +903,29 @@
     "company_name": "ホブゴブリンジャパン(株)",
     "supermarket_names": [
       "The British Shop"
-    ]
+    ],
+    "location": "東京都港区南青山１丁目１０番２号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.meidi-ya.co.jp/",
     "company_name": "(株)明治屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.super-yamaichi.com/",
     "company_name": "(株)ヤマイチ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.yoshiike-group.co.jp/",
     "company_name": "(株)吉池",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
@@ -818,13 +933,15 @@
     "company_name": "(株)よしや",
     "supermarket_names": [
       "SainE"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.lifecorp.jp/",
     "company_name": "(株)ライフコーポレーション",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "神奈川県",
@@ -832,7 +949,8 @@
     "company_name": "(株)アイスコ",
     "supermarket_names": [
       "スーパー生鮮館TAIGA"
-    ]
+    ],
+    "location": "神奈川県横浜市泉区新橋町１２１２番地"
   },
   {
     "prefecture": "神奈川県",
@@ -840,7 +958,8 @@
     "company_name": "荒井商事(株)",
     "supermarket_names": [
       "アルズ"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "神奈川県",
@@ -848,25 +967,29 @@
     "company_name": "小田急商事(株)",
     "supermarket_names": [
       "OdakyuOX"
-    ]
+    ],
+    "location": "神奈川県川崎市麻生区万福寺３丁目１番２号"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://www.odawara100.com/",
     "company_name": "(株)小田原百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県小田原市栄町２丁目７番８号"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://www.keikyu-store.co.jp/",
     "company_name": "(株)京急ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市西区高島１丁目２番８号"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://coop-suisan.com/",
     "company_name": "(株)コープ水産",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市中区桜木町１丁目１番地８"
   },
   {
     "prefecture": "神奈川県",
@@ -874,7 +997,8 @@
     "company_name": "(株)しまむら",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "神奈川県平塚市長持５０８番地"
   },
   {
     "prefecture": "神奈川県",
@@ -883,19 +1007,22 @@
     "supermarket_names": [
       "スズキヤ",
       "エスパティオ"
-    ]
+    ],
+    "location": "神奈川県逗子市逗子５丁目３番２８号"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://seijoishii.com",
     "company_name": "(株)成城石井",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.fresh-tamaya.jp/",
     "company_name": "(株)たまや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "神奈川県",
@@ -903,7 +1030,8 @@
     "company_name": "(株)仲屋商事",
     "supermarket_names": [
       "なかや"
-    ]
+    ],
+    "location": "神奈川県海老名市中新田３丁目８番９号"
   },
   {
     "prefecture": "神奈川県",
@@ -911,109 +1039,127 @@
     "company_name": "富士シティオ(株)",
     "supermarket_names": [
       "Fuji"
-    ]
+    ],
+    "location": "神奈川県横浜市中区日本大通１７番地"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.yaomasa.com/",
     "company_name": "ヤオマサ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県小田原市前川１８３番地の１３"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.smyamaka.co.jp/",
     "company_name": "(株)やまか",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県藤沢市稲荷５２０番地"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://www.eyusei.com",
     "company_name": "友盛貿易(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市中区太田町２丁目３１番地１友盛ビル２階"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://www.yokohamaya.co.jp/",
     "company_name": "(株)横濱屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市南区宮元町４丁目９３番地"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://royalyotsuya.com/",
     "company_name": "(株)ローヤルよつや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市港北区新吉田東４丁目１番７号"
   },
   {
     "prefecture": "新潟県",
     "company_url": "http://www.ichiko-joetsu.com/",
     "company_name": "(株)イチコ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://www.uoroku.co.jp/",
     "company_name": "(株)ウオロク",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県新潟市中央区鐙２丁目１４番１３号"
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://jenic.jp/",
     "company_name": "JR東日本新潟シティクリエイト(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県新潟市中央区笹口１丁目９番１"
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://www.imagawaya.jp/",
     "company_name": "(株)スーパーいまがわ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県新発田市稲荷岡２１１９番地"
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://www.harashinnarus.jp/",
     "company_name": "(株)ナルス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県上越市大字石沢字外新田１４２３番地１"
   },
   {
     "prefecture": "新潟県",
     "company_url": "http://www.s-noguchi.co.jp/",
     "company_name": "(株)のぐち",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://www.harashinnarus.jp/",
     "company_name": "(株)原信",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県長岡市中之島１９９３番地１７"
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://www.instagram.com/masuya_ajikata/",
     "company_name": "(株)マスヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県新潟市西蒲区巻甲２９０８番地３"
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://www.super-marui.com/",
     "company_name": "(株)マルイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県上越市春日野２丁目８番１９号"
   },
   {
     "prefecture": "富山県",
     "company_url": "http://www.apple-sansho.co.jp/",
     "company_name": "(株)アップルサンショウ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "富山県富山市新根塚町３丁目２番２"
   },
   {
     "prefecture": "富山県",
     "company_url": "https://www.albis.co.jp/",
     "company_name": "アルビス(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "富山県射水市流通センター水戸田３丁目４番地"
   },
   {
     "prefecture": "富山県",
     "company_url": "https://www.ohsakaya-shop.jp/",
     "company_name": "(株)大阪屋ショップ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "富山県富山市赤田４８７番地１"
   },
   {
     "prefecture": "富山県",
@@ -1021,7 +1167,8 @@
     "company_name": "(株)黒崎鮮魚",
     "supermarket_names": [
       "黒崎屋"
-    ]
+    ],
+    "location": "富山県富山市寺島６２４番地３"
   },
   {
     "prefecture": "富山県",
@@ -1029,7 +1176,8 @@
     "company_name": "(株)ティー・ツリー・コミュニケーションズ",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "富山県中新川郡上市町広野２４８８番地"
   },
   {
     "prefecture": "富山県",
@@ -1037,7 +1185,8 @@
     "company_name": "(株)丸圓商店",
     "supermarket_names": [
       "ヴァローレ"
-    ]
+    ],
+    "location": "富山県砺波市栄町３番４号"
   },
   {
     "prefecture": "石川県",
@@ -1045,7 +1194,8 @@
     "company_name": "(株)安達",
     "supermarket_names": [
       "あだちストア"
-    ]
+    ],
+    "location": "石川県羽咋市中央町フ１６８番地１"
   },
   {
     "prefecture": "石川県",
@@ -1053,7 +1203,8 @@
     "company_name": "(株)鍜治商店",
     "supermarket_names": [
       "カジマート"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "石川県",
@@ -1061,67 +1212,78 @@
     "company_name": "(株)大丸(DAIMARU)",
     "supermarket_names": [
       "DAIMARU"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "石川県",
     "company_url": "https://www.dontaku.co.jp/",
     "company_name": "(株)どんたく",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "石川県七尾市作事町８０番地"
   },
   {
     "prefecture": "石川県",
     "company_url": "https://www.newsankyu.co.jp/",
     "company_name": "(株)ニュー三久",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "石川県金沢市城南２丁目３６番１号"
   },
   {
     "prefecture": "石川県",
     "company_url": "https://s-marue.co.jp/",
     "company_name": "(株)マルエー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "石川県白山市鶴来本町１丁目ワ１１１番地"
   },
   {
     "prefecture": "福井県",
     "company_url": "https://www.nagasugi.co.jp/store-izumoya.php",
     "company_name": "(株)いずもや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県鯖江市小黒町１丁目１５番２３号"
   },
   {
     "prefecture": "福井県",
     "company_url": "http://www.efure.co.jp/",
     "company_name": "(株)エフレ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県敦賀市清水町２丁目１８番１７号"
   },
   {
     "prefecture": "福井県",
     "company_url": "https://kimura-group48.jp/",
     "company_name": "(株)片町フードセンター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県福井市大宮６丁目５番５号"
   },
   {
     "prefecture": "福井県",
     "company_url": "https://ashimiya.jp/",
     "company_name": "(株)新鮮館おくえつ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県大野市友江１３号１０番地"
   },
   {
     "prefecture": "福井県",
     "company_url": "http://ashimiya.jp/",
     "company_name": "(株)新鮮館ふくい",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県大野市友江１３号１０番地"
   },
   {
     "prefecture": "福井県",
     "company_url": "https://kimura-group48.jp/",
     "company_name": "(株)東部プラザ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県福井市成和１丁目３２１０番地"
   },
   {
     "prefecture": "福井県",
     "company_url": null,
     "company_name": "(株)中吉商店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県勝山市本町１丁目３番３０号"
   },
   {
     "prefecture": "福井県",
@@ -1129,7 +1291,8 @@
     "company_name": "(株)ながすぎ",
     "supermarket_names": [
       "ビッグマート"
-    ]
+    ],
+    "location": "福井県鯖江市小黒町１丁目１５番２３号"
   },
   {
     "prefecture": "福井県",
@@ -1137,7 +1300,8 @@
     "company_name": "(協)ハニー",
     "supermarket_names": [
       "*印は加盟企業"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "福井県",
@@ -1145,31 +1309,36 @@
     "company_name": "(株)フード福井",
     "supermarket_names": [
       "Aコープ"
-    ]
+    ],
+    "location": "福井県福井市渕２丁目１７１１番地"
   },
   {
     "prefecture": "福井県",
     "company_url": "https://fujiya-honey.co.jp/",
     "company_name": "(株)富士屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県鯖江市本町２丁目２番２４号"
   },
   {
     "prefecture": "福井県",
     "company_url": "https://kimura-group48.jp/",
     "company_name": "(株)松本フードセンター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県福井市北四ツ居１丁目９番１号"
   },
   {
     "prefecture": "山梨県",
     "company_url": "https://ichiyamamart.com/",
     "company_name": "(株)いちやまマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山梨県中央市若宮５０番地１"
   },
   {
     "prefecture": "山梨県",
     "company_url": "https://www.ogino.co.jp/",
     "company_name": "(株)オギノ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山梨県甲府市徳行１丁目２番１８号"
   },
   {
     "prefecture": "山梨県",
@@ -1177,19 +1346,22 @@
     "company_name": "JA南アルプス市",
     "supermarket_names": [
       "Aコープ"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "長野県",
     "company_url": "http://www.kiraya.jp/",
     "company_name": "(株)キラヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長野県飯田市松尾上溝３０９０番地１"
   },
   {
     "prefecture": "長野県",
     "company_url": "https://daiichi-super.com",
     "company_name": "(株)第一スーパー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長野県上水内郡信濃町大字柏原２５５２番地"
   },
   {
     "prefecture": "長野県",
@@ -1197,13 +1369,15 @@
     "company_name": "(株)タケダストアー(ビッグ１)",
     "supermarket_names": [
       "ビッグ１"
-    ]
+    ],
+    "location": "長野県諏訪市清水１丁目３番２１号"
   },
   {
     "prefecture": "長野県",
     "company_url": "https://www.tsuruya-corp.co.jp/",
     "company_name": "(株)ツルヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長野県小諸市御幸町２丁目１番２０号"
   },
   {
     "prefecture": "長野県",
@@ -1212,7 +1386,8 @@
     "supermarket_names": [
       "デリシア",
       "ユーパレット"
-    ]
+    ],
+    "location": "長野県松本市大字今井７１５５番地２８"
   },
   {
     "prefecture": "長野県",
@@ -1221,7 +1396,8 @@
     "supermarket_names": [
       "食彩館",
       "ベルシャイン"
-    ]
+    ],
+    "location": "長野県長野市大字安茂里１１０７番地"
   },
   {
     "prefecture": "岐阜県",
@@ -1229,7 +1405,8 @@
     "company_name": "(株)未来堂高山",
     "supermarket_names": [
       "BOSS FOODS MARKET"
-    ]
+    ],
+    "location": "岐阜県高山市岡本町１丁目１０１番地"
   },
   {
     "prefecture": "静岡県",
@@ -1237,13 +1414,15 @@
     "company_name": "(株)アイ・ビー・カンパニー",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "静岡県磐田市岩井１９０７番地の１７３５"
   },
   {
     "prefecture": "静岡県",
     "company_url": "https://www.superaoki.com/",
     "company_name": "(株)あおき",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "静岡県",
@@ -1252,7 +1431,8 @@
     "supermarket_names": [
       "遠鉄ストア",
       "フードワン"
-    ]
+    ],
+    "location": "静岡県浜松市中央区佐鳴台４丁目１６番１０号"
   },
   {
     "prefecture": "静岡県",
@@ -1260,13 +1440,15 @@
     "company_name": "(株)三善",
     "supermarket_names": [
       "サンゼン"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "静岡県",
     "company_url": "https://www.s-store.co.jp/",
     "company_name": "(株)静鉄ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県静岡市葵区末広町９５番地"
   },
   {
     "prefecture": "静岡県",
@@ -1275,13 +1457,15 @@
     "supermarket_names": [
       "フードマーケットマム",
       "リベロ"
-    ]
+    ],
+    "location": "静岡県静岡市駿河区小鹿３丁目１番５８号"
   },
   {
     "prefecture": "静岡県",
     "company_url": "https://ito-nagaya.co.jp/",
     "company_name": "ナガヤ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県伊東市竹の内２丁目７番３５号"
   },
   {
     "prefecture": "静岡県",
@@ -1289,7 +1473,8 @@
     "company_name": "(株)ビッグ富士",
     "supermarket_names": [
       "エブリィビッグデー"
-    ]
+    ],
+    "location": "静岡県浜松市中央区天王町６１１番地の２"
   },
   {
     "prefecture": "愛知県",
@@ -1297,13 +1482,15 @@
     "company_name": "(株)渥美フーズ",
     "supermarket_names": [
       "フードオアシスあつみ"
-    ]
+    ],
+    "location": "愛知県田原市福江町中羽根７９番地１"
   },
   {
     "prefecture": "愛知県",
     "company_url": "https://www.jr-plus.co.jp/",
     "company_name": "(株)JR東海リテイリング・プラス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県名古屋市中村区名駅３丁目２２番８号"
   },
   {
     "prefecture": "愛知県",
@@ -1312,25 +1499,29 @@
     "supermarket_names": [
       "パワーズ",
       "たつみストアー"
-    ]
+    ],
+    "location": "愛知県瀬戸市池田町９８番地の４"
   },
   {
     "prefecture": "愛知県",
     "company_url": "https://www.yaosuzu.co.jp/",
     "company_name": "スーパーヤオスズ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県刈谷市高津波町４丁目５０４番地"
   },
   {
     "prefecture": "愛知県",
     "company_url": "https://www.super-yamadai.co.jp/",
     "company_name": "(株)スーパーヤマダイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県名古屋市緑区六田１丁目１６０番地"
   },
   {
     "prefecture": "愛知県",
     "company_url": "https://newlife-fuji.jp/",
     "company_name": "(株)ニューライフフジ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県豊橋市東岩田３丁目１０番地の５"
   },
   {
     "prefecture": "愛知県",
@@ -1338,7 +1529,8 @@
     "company_name": "(株)山信商店",
     "supermarket_names": [
       "やまのぶ"
-    ]
+    ],
+    "location": "愛知県名古屋市中区栄１丁目７番１７号"
   },
   {
     "prefecture": "愛知県",
@@ -1347,31 +1539,36 @@
     "supermarket_names": [
       "Yストア",
       "ヨシヅヤ"
-    ]
+    ],
+    "location": "愛知県津島市新開町１丁目６番地"
   },
   {
     "prefecture": "三重県",
     "company_url": "https://www.ichigokan.co.jp/",
     "company_name": "(株)一号舘",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "三重県四日市市日永東３丁目４番１号"
   },
   {
     "prefecture": "三重県",
     "company_url": "https://www.gyutora.com/",
     "company_name": "(株)ぎゅーとら",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "三重県伊勢市西豊浜町６５５番地１８"
   },
   {
     "prefecture": "三重県",
     "company_url": "http://www.shufunomise.co.jp/",
     "company_name": "(株)主婦の店 尾鷲",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "三重県",
     "company_url": "https://supersanshi.com",
     "company_name": "スーパーサンシ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "三重県四日市市河原田町１３０１番地"
   },
   {
     "prefecture": "三重県",
@@ -1379,7 +1576,8 @@
     "company_name": "(株)玉城",
     "supermarket_names": [
       "GOODAY"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "三重県",
@@ -1388,13 +1586,15 @@
     "supermarket_names": [
       "マルヤス",
       "BASIC"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "京都府",
     "company_url": "https://www.kyoto-itoken.co.jp/",
     "company_name": "(株)伊藤軒",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "京都府京都市伏見区深草谷口町２８番地の１"
   },
   {
     "prefecture": "京都府",
@@ -1402,25 +1602,29 @@
     "company_name": "(協)亀岡ショッピングセンター",
     "supermarket_names": [
       "アミティ"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "京都府",
     "company_url": "https://www.kanzakiya.co.jp/",
     "company_name": "(株)神﨑屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "京都府",
     "company_url": "https://sun-daiko.co.jp/",
     "company_name": "サンダイコー(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "京都府船井郡京丹波町須知色紙田２３番地の１"
   },
   {
     "prefecture": "京都府",
     "company_url": "https://seisenkan-nakamura.co.jp/",
     "company_name": "(株)なかむら",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "京都府",
@@ -1428,7 +1632,8 @@
     "company_name": "(株)ハートフレンド",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "京都府京都市下京区若宮通五条下る毘沙門町３３番地１"
   },
   {
     "prefecture": "大阪府",
@@ -1436,7 +1641,8 @@
     "company_name": "(株)カノー",
     "supermarket_names": [
       "食品館アプロ"
-    ]
+    ],
+    "location": "大阪府大阪市鶴見区浜５丁目６番２９号"
   },
   {
     "prefecture": "大阪府",
@@ -1446,7 +1652,8 @@
       "イズミヤ",
       "阪急オアシス",
       "関西スーパー"
-    ]
+    ],
+    "location": "大阪府大阪市北区角田町８番７号"
   },
   {
     "prefecture": "大阪府",
@@ -1454,13 +1661,15 @@
     "company_name": "(株)コノミヤ",
     "supermarket_names": [
       "コノミヤ"
-    ]
+    ],
+    "location": "大阪府大阪市鶴見区今津南１丁目５番３２号"
   },
   {
     "prefecture": "大阪府",
     "company_url": "http://www.super-san-ei.co.jp/",
     "company_name": "(株)スーパーサンエー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府岸和田市大町４７５番地"
   },
   {
     "prefecture": "大阪府",
@@ -1470,7 +1679,8 @@
       "ダイエー",
       "KOHYO",
       "マックスバリュ"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "大阪府",
@@ -1479,7 +1689,8 @@
     "supermarket_names": [
       "ラッキー",
       "パントリー"
-    ]
+    ],
+    "location": "大阪府大阪市福島区福島６丁目１０番１１号"
   },
   {
     "prefecture": "大阪府",
@@ -1487,13 +1698,15 @@
     "company_name": "ボン商会(株)",
     "supermarket_names": [
       "the Bon inc."
-    ]
+    ],
+    "location": "大阪府大阪市中央区博労町１丁目７番２号"
   },
   {
     "prefecture": "兵庫県",
     "company_url": "https://www.ikarisuper.com/",
     "company_name": "(株)いかりスーパーマーケット",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "兵庫県尼崎市塚口町１丁目１５番地の８"
   },
   {
     "prefecture": "兵庫県",
@@ -1501,19 +1714,22 @@
     "company_name": "Smile Circle(株)",
     "supermarket_names": [
       "グランドフードホール"
-    ]
+    ],
+    "location": "兵庫県芦屋市業平町４番６号"
   },
   {
     "prefecture": "兵庫県",
     "company_url": "https://www.yamada-store.com",
     "company_name": "ヤマダストアー(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "兵庫県揖保郡太子町鵤４９５番地１"
   },
   {
     "prefecture": "奈良県",
     "company_url": "http://www.yamatoh.com/",
     "company_name": "ヤマトー商事(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "奈良県桜井市大字桜井１９６番地"
   },
   {
     "prefecture": "和歌山県",
@@ -1522,13 +1738,15 @@
     "supermarket_names": [
       "デリシャス廣岡",
       "エバグリーン"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "鳥取県",
     "company_url": "http://sunmart.co.jp/",
     "company_name": "(株)サンマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鳥取県鳥取市湖山町東２丁目１３３番地"
   },
   {
     "prefecture": "鳥取県",
@@ -1537,7 +1755,8 @@
     "supermarket_names": [
       "東宝ストア",
       "新あじそう"
-    ]
+    ],
+    "location": "鳥取県倉吉市大正町２丁目９０番地"
   },
   {
     "prefecture": "島根県",
@@ -1545,13 +1764,15 @@
     "company_name": "(株)ウシオ",
     "supermarket_names": [
       "グッディー"
-    ]
+    ],
+    "location": "島根県松江市西忌部町５２５番地１０"
   },
   {
     "prefecture": "島根県",
     "company_url": "https://www.kinuya.co.jp/",
     "company_name": "(株)キヌヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "島根県益田市常盤町４番３８号"
   },
   {
     "prefecture": "島根県",
@@ -1559,7 +1780,8 @@
     "company_name": "(株)ハートピアコーポレーション",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "島根県松江市西法吉町３６番２８号"
   },
   {
     "prefecture": "島根県",
@@ -1567,13 +1789,15 @@
     "company_name": "(株)ふくしま",
     "supermarket_names": [
       "ラパン"
-    ]
+    ],
+    "location": "島根県松江市母衣町１８０番地９"
   },
   {
     "prefecture": "島根県",
     "company_url": "https://www.mishimaya.com/",
     "company_name": "(株)みしまや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "島根県松江市雑賀町９９番地"
   },
   {
     "prefecture": "島根県",
@@ -1581,25 +1805,29 @@
     "company_name": "(株)ヤマダヤ",
     "supermarket_names": [
       "ひまり"
-    ]
+    ],
+    "location": "島根県隠岐郡隠岐の島町平４３１番地１"
   },
   {
     "prefecture": "岡山県",
     "company_url": "https://www.halows.com/",
     "company_name": "(株)ハローズ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "岡山県",
     "company_url": "https://www.maruilife.co.jp/",
     "company_name": "(株)マルイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "広島県",
     "company_url": "https://www.super-every.co.jp/",
     "company_name": "(株)エブリイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県福山市南蔵王町１丁目６番１１号"
   },
   {
     "prefecture": "広島県",
@@ -1607,7 +1835,8 @@
     "company_name": "(株)キムラ",
     "supermarket_names": [
       "リカーランド"
-    ]
+    ],
+    "location": "広島県呉市広多賀谷３丁目４番９号"
   },
   {
     "prefecture": "広島県",
@@ -1615,13 +1844,15 @@
     "company_name": "西條商事(株)",
     "supermarket_names": [
       "ショージ"
-    ]
+    ],
+    "location": "広島県東広島市西条土与丸２丁目６番４９号"
   },
   {
     "prefecture": "広島県",
     "company_url": "https://www.spark-net.co.jp/",
     "company_name": "(株)スパーク",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県広島市西区商工センター２丁目１７番３７号"
   },
   {
     "prefecture": "広島県",
@@ -1629,19 +1860,22 @@
     "company_name": "(株)大創産業",
     "supermarket_names": [
       "ダイソー"
-    ]
+    ],
+    "location": "広島県東広島市西条吉行東１丁目４番１４号"
   },
   {
     "prefecture": "広島県",
     "company_url": "http://www.kk-nichie.co.jp/",
     "company_name": "(株)ニチエー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県福山市柳津町２丁目２番２７号"
   },
   {
     "prefecture": "広島県",
     "company_url": "https://www.k-fujisan.co.jp/",
     "company_name": "(株)藤三",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県呉市広本町３丁目１５番５号"
   },
   {
     "prefecture": "広島県",
@@ -1649,13 +1883,15 @@
     "company_name": "(株)フジマート",
     "supermarket_names": [
       "ピュアークック"
-    ]
+    ],
+    "location": "広島県廿日市市阿品台３丁目２番１号"
   },
   {
     "prefecture": "広島県",
     "company_url": "https://www.fresta.co.jp/",
     "company_name": "(株)フレスタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県広島市西区横川町３丁目２番３６号"
   },
   {
     "prefecture": "広島県",
@@ -1665,7 +1901,8 @@
       "アルゾ",
       "万惣",
       "マルシェー"
-    ]
+    ],
+    "location": "広島県広島市佐伯区石内上１丁目８番１号"
   },
   {
     "prefecture": "広島県",
@@ -1674,7 +1911,8 @@
     "supermarket_names": [
       "ユアーズ",
       "アバンセ"
-    ]
+    ],
+    "location": "広島県広島市東区二葉の里３丁目３番１号"
   },
   {
     "prefecture": "山口県",
@@ -1683,31 +1921,36 @@
     "supermarket_names": [
       "アルク",
       "丸久"
-    ]
+    ],
+    "location": "山口県下関市稗田西町１９番１５号"
   },
   {
     "prefecture": "山口県",
     "company_url": "https://yours-value.jp/",
     "company_name": "(株)ユアーズ・バリュー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山口県防府市大字高井５６８番地の１"
   },
   {
     "prefecture": "徳島県",
     "company_url": "http://ff-ookita.jp/",
     "company_name": "(株)オオキタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "徳島県海部郡牟岐町大字中村字本村１５２番地１１"
   },
   {
     "prefecture": "徳島県",
     "company_url": "https://www.tokushimaru.jp/",
     "company_name": "(株)とくし丸",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "徳島県徳島市南内町１丁目６５－１リバーフロント南内町３Ｆ"
   },
   {
     "prefecture": "徳島県",
     "company_url": "https://www.foodshop-fujimura.com/",
     "company_name": "(有)フードショップふじむら",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "徳島県美馬市脇町木ノ内３８１３番地の１"
   },
   {
     "prefecture": "香川県",
@@ -1715,7 +1958,8 @@
     "company_name": "(株)厳選",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "香川県高松市木太町２７４７番地"
   },
   {
     "prefecture": "愛媛県",
@@ -1723,37 +1967,43 @@
     "company_name": "(株)フジマート四国",
     "supermarket_names": [
       "スーパーABC"
-    ]
+    ],
+    "location": "愛媛県松山市宮西１丁目２番１号"
   },
   {
     "prefecture": "高知県",
     "company_url": "http://www.ace1.co.jp/",
     "company_name": "(株)エースワン",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県高知市薊野南町２８番１２号"
   },
   {
     "prefecture": "高知県",
     "company_url": "https://sunshinechain.com/",
     "company_name": "(株)サンシャインチェーン本部",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県高知市稲荷町１１番４５号"
   },
   {
     "prefecture": "高知県",
     "company_url": "https://www.sunplaza-kochi.co.jp/",
     "company_name": "(株)サンプラザ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県土佐市高岡町乙２７番地１"
   },
   {
     "prefecture": "高知県",
     "company_url": null,
     "company_name": "四国新日本スーパーマーケット協会グループ(は加盟企業)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "高知県",
     "company_url": "https://www.suehiloya.jp/",
     "company_name": "(株)末広",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県土佐郡土佐町田井１３５３番地２"
   },
   {
     "prefecture": "高知県",
@@ -1761,7 +2011,8 @@
     "company_name": "(株)土佐山田ショッピングセンター",
     "supermarket_names": [
       "バリュー"
-    ]
+    ],
+    "location": "高知県香美市土佐山田町西本町４丁目１番２４号"
   },
   {
     "prefecture": "福岡県",
@@ -1769,19 +2020,22 @@
     "company_name": "(株)イーマート",
     "supermarket_names": [
       "薬院バリュー"
-    ]
+    ],
+    "location": "福岡県福岡市中央区薬院４丁目１番３３号"
   },
   {
     "prefecture": "福岡県",
     "company_url": "https://www.acoop-kyushu.jp/",
     "company_name": "(株)Aコープ九州",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県福岡市東区松田２丁目７番１号"
   },
   {
     "prefecture": "福岡県",
     "company_url": null,
     "company_name": "九州新日本スーパーマーケット協会グループ(はグループ企業)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福岡県",
@@ -1789,13 +2043,15 @@
     "company_name": "(株)九州スーパーマーケットグループ",
     "supermarket_names": [
       "*1は加盟企業"
-    ]
+    ],
+    "location": "福岡県福岡市南区柳瀬１丁目３３番１０号"
   },
   {
     "prefecture": "福岡県",
     "company_url": "https://sangurin.com/",
     "company_name": "(株)サングリン",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県福岡市西区下山門団地４０番２号"
   },
   {
     "prefecture": "福岡県",
@@ -1803,7 +2059,8 @@
     "company_name": "(株)サンピット(サンピットバリュー)",
     "supermarket_names": [
       "サンピットバリュー"
-    ]
+    ],
+    "location": "福岡県うきは市浮羽町朝田５８７番地１"
   },
   {
     "prefecture": "福岡県",
@@ -1811,7 +2068,8 @@
     "company_name": "(株)ダイキョープラザ",
     "supermarket_names": [
       "ダイキョーバリュー"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "福岡県",
@@ -1821,7 +2079,8 @@
       "にしてつストア",
       "レガネット",
       "スピナ"
-    ]
+    ],
+    "location": "福岡県筑紫野市針摺中央２丁目１６番１４号"
   },
   {
     "prefecture": "福岡県",
@@ -1829,7 +2088,8 @@
     "company_name": "(株)博多ステイションフード",
     "supermarket_names": [
       "博多ステーションフード"
-    ]
+    ],
+    "location": "福岡県福岡市博多区博多駅中央街５番１４号"
   },
   {
     "prefecture": "福岡県",
@@ -1837,7 +2097,8 @@
     "company_name": "(株)波佐間食料品店",
     "supermarket_names": [
       "ニューハザマ"
-    ]
+    ],
+    "location": "福岡県福岡市中央区大手門３丁目１１番３１号"
   },
   {
     "prefecture": "福岡県",
@@ -1846,7 +2107,8 @@
     "supermarket_names": [
       "ハローデイ",
       "ボンラパス"
-    ]
+    ],
+    "location": "福岡県北九州市小倉南区徳力３丁目６番１６号"
   },
   {
     "prefecture": "福岡県",
@@ -1854,7 +2116,8 @@
     "company_name": "(株)マルコー(マルコーバリュー)",
     "supermarket_names": [
       "マルコーバリュー"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "福岡県",
@@ -1862,7 +2125,8 @@
     "company_name": "(有)リンク",
     "supermarket_names": [
       "バリューリンク"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "佐賀県",
@@ -1870,25 +2134,29 @@
     "company_name": "(株)三栄(市場バリューサンエー)",
     "supermarket_names": [
       "市場バリューサンエー"
-    ]
+    ],
+    "location": "佐賀県佐賀市金立町大字千布３１１１番地１号"
   },
   {
     "prefecture": "佐賀県",
     "company_url": "https://www.super-morinaga.co.jp/",
     "company_name": "(株)スーパーモリナガ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "佐賀県佐賀市川副町大字南里７５７番地"
   },
   {
     "prefecture": "佐賀県",
     "company_url": "https://maizuru.co.jp/",
     "company_name": "(株)まいづる百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "佐賀県唐津市中原２９０５番地５"
   },
   {
     "prefecture": "長崎県",
     "company_url": "https://value-ichiyama.com/",
     "company_name": "(株)イチヤマ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長崎県壱岐市郷ノ浦町東触５６８番地１"
   },
   {
     "prefecture": "長崎県",
@@ -1896,13 +2164,15 @@
     "company_name": "(株)かとりストアー",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "長崎県大村市原口町１０５０番地"
   },
   {
     "prefecture": "長崎県",
     "company_url": "https://www.saikinet.co.jp/",
     "company_name": "(株)サイキ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "長崎県",
@@ -1910,7 +2180,8 @@
     "company_name": "サンライフ(株)",
     "supermarket_names": [
       "フーズピープル"
-    ]
+    ],
+    "location": "長崎県雲仙市千々石町丙２１９５番地３"
   },
   {
     "prefecture": "長崎県",
@@ -1918,25 +2189,29 @@
     "company_name": "(株)ショッピングプラザ紀久屋(バリュー平山店)",
     "supermarket_names": [
       "バリュー平山店"
-    ]
+    ],
+    "location": "長崎県長崎市平山町５７３番地１"
   },
   {
     "prefecture": "長崎県",
     "company_url": "http://takesue.co.jp/",
     "company_name": "(株)タケスエ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長崎県対馬市上対馬町大浦６０番地１"
   },
   {
     "prefecture": "長崎県",
     "company_url": "http://www.s-tobi.com/",
     "company_name": "(株)東美",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長崎県長崎市栄町５番５号"
   },
   {
     "prefecture": "長崎県",
     "company_url": "https://kamity.jp/",
     "company_name": "(株)中村興産(カミティ)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "長崎県",
@@ -1944,7 +2219,8 @@
     "company_name": "(株)パップ・ザ・セカンドコーポレーション",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "長崎県雲仙市国見町多比良乙４１５番地"
   },
   {
     "prefecture": "長崎県",
@@ -1952,7 +2228,8 @@
     "company_name": "(株)浜喜屋(バリューはまきや)",
     "supermarket_names": [
       "バリューはまきや"
-    ]
+    ],
+    "location": "長崎県長崎市戸石町１６７４番地"
   },
   {
     "prefecture": "長崎県",
@@ -1960,19 +2237,22 @@
     "company_name": "(株)マツモト",
     "supermarket_names": [
       "まつもとくん"
-    ]
+    ],
+    "location": "長崎県長崎市古賀町８７８番地"
   },
   {
     "prefecture": "長崎県",
     "company_url": "https://mitsui321.jimdofree.com/",
     "company_name": "(株)みつい",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長崎県島原市湊町７５番地"
   },
   {
     "prefecture": "熊本県",
     "company_url": "https://www.isumi-s.co.jp/",
     "company_name": "(株)イスミ商事",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "熊本県人吉市九日町８７番地"
   },
   {
     "prefecture": "熊本県",
@@ -1980,13 +2260,15 @@
     "company_name": "(株)インパクトワン",
     "supermarket_names": [
       "インパクトワンプラス"
-    ]
+    ],
+    "location": "熊本県玉名市岩崎７４番地１"
   },
   {
     "prefecture": "熊本県",
     "company_url": null,
     "company_name": "熊本スーパーマーケットグループ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "熊本県",
@@ -1994,13 +2276,15 @@
     "company_name": "鶴屋商事(株)",
     "supermarket_names": [
       "FOODY ONE"
-    ]
+    ],
+    "location": "熊本県熊本市中央区安政町３番３５号"
   },
   {
     "prefecture": "熊本県",
     "company_url": "https://www.youmart-tokunaga.com/",
     "company_name": "(株)ユーマートトクナガ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "熊本県玉名郡長洲町大字長洲２７２０番地"
   },
   {
     "prefecture": "大分県",
@@ -2008,13 +2292,15 @@
     "company_name": "(有)小串商店",
     "supermarket_names": [
       "バリュー"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "大分県",
     "company_url": null,
     "company_name": "(株)神田楽市",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県杵築市山香町大字内河野２５４３番地１"
   },
   {
     "prefecture": "大分県",
@@ -2022,13 +2308,15 @@
     "company_name": "(株)キチセ",
     "supermarket_names": [
       "バリュー庄内店"
-    ]
+    ],
+    "location": "大分県由布市庄内町東長宝４４８番地３６"
   },
   {
     "prefecture": "大分県",
     "company_url": null,
     "company_name": "(株)ショッピングプラザ エース",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県国東市武蔵町古市１０２番地"
   },
   {
     "prefecture": "大分県",
@@ -2036,25 +2324,29 @@
     "company_name": "(有)スーパー青木",
     "supermarket_names": [
       "スーパーあおき"
-    ]
+    ],
+    "location": "大分県国東市国東町小原１９０２番地３"
   },
   {
     "prefecture": "大分県",
     "company_url": "https://super-hosokawa.com/",
     "company_name": "(株)スーパー細川",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県中津市大字万田３９１番地の１"
   },
   {
     "prefecture": "大分県",
     "company_url": null,
     "company_name": "(有)てつや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県国東市国見町伊美２４４５番地の１"
   },
   {
     "prefecture": "大分県",
     "company_url": "http://www.oita-maruya.com/",
     "company_name": "(有)まるや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "宮崎県",
@@ -2062,25 +2354,29 @@
     "company_name": "(有)慶助",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "宮崎県児湯郡都農町大字川北４７５２番地１"
   },
   {
     "prefecture": "宮崎県",
     "company_url": "https://www.sa-tekuroshio.com/",
     "company_name": "(同)SA・Te黒潮",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "宮崎県",
     "company_url": "https://www.m-nagayama.co.jp/",
     "company_name": "(株)ながやま",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "宮崎県都城市乙房町１７１５番地４"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": null,
     "company_name": "(株)秋丸商会",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県大島郡徳之島町亀津９９８番地"
   },
   {
     "prefecture": "鹿児島県",
@@ -2088,25 +2384,29 @@
     "company_name": "(株)うしじまストアー",
     "supermarket_names": [
       "サンシード"
-    ]
+    ],
+    "location": "鹿児島県西之表市天神町３番地１２"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "https://cgcmkc.jp/",
     "company_name": "(株)シージーシー南九州センター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市谷山港１丁目２４番地"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "https://shiroyamastore.com",
     "company_name": "(株)城山ストアー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市下荒田４丁目６番１号２階"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "https://www.homecenter-takami.com/",
     "company_name": "(株)タカミ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県薩摩川内市山之口町４６７７番地１"
   },
   {
     "prefecture": "鹿児島県",
@@ -2114,31 +2414,36 @@
     "company_name": "(株)東郷スーパーマーケット(市場バリュートーゴー)",
     "supermarket_names": [
       "市場バリュートーゴー"
-    ]
+    ],
+    "location": "鹿児島県薩摩川内市東郷町斧渕８８番地"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "https://www.narizawa.jp/",
     "company_name": "(有)なりざわ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市東谷山７丁目３０番１２号"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "https://nishimuta.co.jp/",
     "company_name": "(株)ニシムタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市与次郎１丁目１０番１号"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": null,
     "company_name": "(株)万世ストアー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県南さつま市加世田唐仁原５３９３番地"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "https://www.yamakataya-store.jp/",
     "company_name": "(株)山形屋ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市中町１０番１５号"
   },
   {
     "prefecture": "沖縄県",
@@ -2146,7 +2451,8 @@
     "company_name": "(株)沖縄県物産公社",
     "supermarket_names": [
       ""
-    ]
+    ],
+    "location": "沖縄県那覇市字小禄１８３１番地１沖縄産業支援センター７階"
   },
   {
     "prefecture": "沖縄県",
@@ -2155,7 +2461,8 @@
     "supermarket_names": [
       "フレッシュプラザユニオン",
       "ユニオンスカラ"
-    ]
+    ],
+    "location": "沖縄県宜野湾市野嵩１丁目１２番１３号"
   },
   {
     "prefecture": "沖縄県",
@@ -2163,13 +2470,15 @@
     "company_name": "(株)リウボウストア",
     "supermarket_names": [
       "りうぼう"
-    ]
+    ],
+    "location": "沖縄県那覇市松尾１丁目９番４９号"
   },
   {
     "prefecture": "海外",
     "company_url": "https://www.scelgofullservice.com/",
     "company_name": "Scelgo S.p.A",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "海外",
@@ -2177,2556 +2486,2982 @@
     "company_name": "金喜美(株)",
     "supermarket_names": [
       "喜美超市"
-    ]
+    ],
+    "location": null
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.daiichi-d.co.jp/",
     "company_name": "株式会社ダイイチ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "青森県",
     "company_url": "http://www.kakemo.com",
     "company_name": "株式会社スーパーカケモ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県十和田市穂並町１５番１０号"
   },
   {
     "prefecture": "岩手県",
     "company_url": "https://www.super-maruichi.co.jp/",
     "company_name": "株式会社マルイチ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "秋田県",
     "company_url": "https://aeontohoku.co.jp/",
     "company_name": "イオン東北株式会社",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "秋田県秋田市土崎港北１丁目６番２５号"
   },
   {
     "prefecture": "山形県",
     "company_url": "https://www.yamazawa.co.jp/",
     "company_name": "株式会社ヤマザワ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山形県山形市あこや町３丁目８番９号"
   },
   {
     "prefecture": "宮城県",
     "company_url": "https://dailyport.jp/",
     "company_name": "株式会社マルニ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "宮城県柴田郡柴田町船岡中央３丁目７番２０号"
   },
   {
     "prefecture": "福島県",
     "company_url": "https://www.ichii-yume.co.jp",
     "company_name": "株式会社いちい",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県福島市さくら１丁目２番地の１"
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://www.axial-r.com/",
     "company_name": "アクシアルリテイリング株式会社",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県長岡市中之島１９９３番地１７"
   },
   {
     "prefecture": "群馬県",
     "company_url": "https://www.torisen.co.jp",
     "company_name": "株式会社とりせん",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "群馬県館林市下早川田町７００番地"
   },
   {
     "prefecture": "栃木県",
     "company_url": "https://www.eco-s.co.jp/tairaya.php",
     "company_name": "株式会社たいらや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "栃木県宇都宮市平出工業団地９番２３"
   },
   {
     "prefecture": "茨城県",
     "company_url": "https://www.kasumi.co.jp",
     "company_name": "株式会社カスミ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "茨城県かすみがうら市上志筑１０７番地"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "https://www.maruya-group.co.jp/",
     "company_name": "株式会社マルヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.inageya.co.jp",
     "company_name": "株式会社いなげや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都立川市栄町６丁目１番地の１"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://www.arai-group.co.jp",
     "company_name": "荒井商事株式会社",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "長野県",
     "company_url": "https://www.delicia-web.co.jp/",
     "company_name": "株式会社デリシア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長野県松本市大字今井７１５５番地２８"
   },
   {
     "prefecture": "静岡県",
     "company_url": "https://www.tagoju.co.jp",
     "company_name": "株式会社田子重",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県焼津市東小川２丁目１６番地の１４"
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.nafuco-fujiya.co.jp",
     "company_name": "株式会社不二屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "三重県",
     "company_url": "https://supersanshi.com",
     "company_name": "スーパーサンシ株式会社",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "三重県四日市市河原田町１３０１番地"
   },
   {
     "prefecture": "富山県",
     "company_url": "https://www.albis.co.jp/",
     "company_name": "アルビス株式会社",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "富山県射水市流通センター水戸田３丁目４番地"
   },
   {
     "prefecture": "岐阜県",
     "company_url": "https://www.valor.co.jp",
     "company_name": "株式会社バロー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岐阜県多治見市大針町６６１番地の１"
   },
   {
     "prefecture": "滋賀県",
     "company_url": "https://www.heiwado.jp/",
     "company_name": "株式会社平和堂",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "滋賀県彦根市西今町１番地"
   },
   {
     "prefecture": "京都府",
     "company_url": "https://mg-shop.co.jp/",
     "company_name": "株式会社エムジー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "京都府京都市左京区静市市原町３５７番地１"
   },
   {
     "prefecture": "大阪府",
     "company_url": "https://www.keihan-the-store.jp/",
     "company_name": "株式会社京阪ザ・ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府枚方市岡東町１９番１号"
   },
   {
     "prefecture": "和歌山県",
     "company_url": "https://www.okuwa.net/",
     "company_name": "株式会社オークワ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "和歌山県和歌山市中島１８５番地の３"
   },
   {
     "prefecture": "兵庫県",
     "company_url": "https://www.kansaisuper.co.jp/",
     "company_name": "株式会社関西スーパーマーケット",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "兵庫県伊丹市中央５丁目３番３８号"
   },
   {
     "prefecture": "鳥取県",
     "company_url": "https://www.marugo.or.jp",
     "company_name": "株式会社丸合",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鳥取県米子市東福原２丁目１９番４８号"
   },
   {
     "prefecture": "岡山県",
     "company_url": "https://www.nishina.co.jp/",
     "company_name": "株式会社仁科百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "広島県",
     "company_url": "https://www.izumi.co.jp",
     "company_name": "株式会社イズミ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "山口県",
     "company_url": "https://www.mrk09.co.jp",
     "company_name": "株式会社丸久",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山口県下関市稗田西町１９番１５号"
   },
   {
     "prefecture": "愛媛県",
     "company_url": "http://imadepa.net/",
     "company_name": "株式会社今治デパート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛媛県今治市南高下町１丁目４番３号"
   },
   {
     "prefecture": "香川県",
     "company_url": "https://ww2.maruyoshi-center.co.jp/",
     "company_name": "株式会社マルヨシセンター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "香川県高松市国分寺町国分３６７番地１"
   },
   {
     "prefecture": "高知県",
     "company_url": "https://www.sunnymart.co.jp",
     "company_name": "株式会社サニーマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県高知市山手町８１番地"
   },
   {
     "prefecture": "福岡県",
     "company_url": "https://www.sunlive.co.jp/",
     "company_name": "株式会社サンリブ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県北九州市若松区本町２丁目１７番１号ベイサイドプラザ若松２Ｆ"
   },
   {
     "prefecture": "大分県",
     "company_url": "https://marumiya-store.co.jp/",
     "company_name": "株式会社マルミヤストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県佐伯市野岡町２丁目１番１０号"
   },
   {
     "prefecture": "宮崎県",
     "company_url": "http://www.super-maruichi.jp/",
     "company_name": "株式会社マルイチ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "宮崎県日向市江良町４丁目１１０番地３"
   },
   {
     "prefecture": "沖縄県",
     "company_url": "https://www.san-a.co.jp",
     "company_name": "株式会社サンエー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "沖縄県宜野湾市大山７丁目２番１０号"
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.daiichi-d.co.jp/",
     "company_name": "㈱ダイイチ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "岩手県",
     "company_url": "https://marue-super.jp/",
     "company_name": "㈱丸江",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県一関市萩荘字高梨東１番地５"
   },
   {
     "prefecture": "秋田県",
     "company_url": "https://marudai-akita.jp/",
     "company_name": "㈱マルダイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "秋田県秋田市牛島東５丁目３番２６号"
   },
   {
     "prefecture": "山形県",
     "company_url": "https://yamazawa.co.jp/",
     "company_name": "㈱ヤマザワ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山形県山形市あこや町３丁目８番９号"
   },
   {
     "prefecture": "青森県",
     "company_url": "https://www.beny.co.jp/",
     "company_name": "紅屋商事㈱",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県青森市大字石江字三好１３０番１カブセンター西青森店２階"
   },
   {
     "prefecture": "秋田県",
     "company_url": "https://bifure.com/",
     "company_name": "㈲中央市場",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "秋田県湯沢市材木町２丁目１番１８号"
   },
   {
     "prefecture": "宮城県",
     "company_url": "https://dailyport.jp/",
     "company_name": "㈱マルニ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "宮城県柴田郡柴田町船岡中央３丁目７番２０号"
   },
   {
     "prefecture": "岩手県",
     "company_url": "https://kikuko-store.com/",
     "company_name": "㈱キクコウストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県遠野市松崎町白岩１３地割８番地１２"
   },
   {
     "prefecture": "秋田県",
     "company_url": "http://terata.jp/",
     "company_name": "㈱テラタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "秋田県能代市出戸本町１９番１０号"
   },
   {
     "prefecture": "山形県",
     "company_url": "http://www.pink-kuzira.com/",
     "company_name": "㈱たかき",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山形県西村山郡河北町大字溝延１２８番地"
   },
   {
     "prefecture": "茨城県",
     "company_url": "https://www.super-seimiya.co.jp/",
     "company_name": "㈱セイミヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "茨城県潮来市潮来６１７番地・６１８番地"
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://www.yacs.jp/",
     "company_name": "㈱千葉薬品",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県千葉市中央区問屋町１番３５号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.zchain.co.jp/",
     "company_name": "全日本食品㈱",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都足立区入谷６丁目２番２号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.yoshiya.co.jp/",
     "company_name": "㈱よしや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "栃木県",
     "company_url": "http://www.kamashin.co.jp/",
     "company_name": "㈱かましん",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "栃木県芳賀郡茂木町大字茂木５番地"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.summitstore.co.jp/",
     "company_name": "サミット㈱",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.bunkado.com/",
     "company_name": "㈱文化堂",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都葛飾区東立石３丁目２４番９号"
   },
   {
     "prefecture": "群馬県",
     "company_url": "https://www.torisen.co.jp/",
     "company_name": "㈱とりせん",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "群馬県館林市下早川田町７００番地"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://superalps.info/",
     "company_name": "㈱スーパーアルプス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都八王子市滝山町２丁目３５１番地"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.marumanstore.co.jp/",
     "company_name": "㈱マルマンストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都中野区中野１丁目６０番１１号"
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://www.spotgroup.co.jp/",
     "company_name": "㈱スポット",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県長岡市新産３丁目６番地１２"
   },
   {
     "prefecture": "山梨県",
     "company_url": "https://ichiyamamart.com/",
     "company_name": "㈱いちやまマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山梨県中央市若宮５０番地１"
   },
   {
     "prefecture": "静岡県",
     "company_url": "https://www.tagoju.co.jp/",
     "company_name": "㈱田子重",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県焼津市東小川２丁目１６番地の１４"
   },
   {
     "prefecture": "愛知県",
     "company_url": "https://www.super-yamanaka.co.jp/",
     "company_name": "㈱ヤマナカ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県名古屋市中村区岩塚町字西枝１番地の１"
   },
   {
     "prefecture": "富山県",
     "company_url": "https://www.albis.co.jp/",
     "company_name": "アルビス㈱",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "富山県射水市流通センター水戸田３丁目４番地"
   },
   {
     "prefecture": "長野県",
     "company_url": "https://www.delicia-web.co.jp/",
     "company_name": "㈱デリシア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長野県松本市大字今井７１５５番地２８"
   },
   {
     "prefecture": "静岡県",
     "company_url": "https://ito-nagaya.co.jp/",
     "company_name": "ナガヤ㈱",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県伊東市竹の内２丁目７番３５号"
   },
   {
     "prefecture": "福井県",
     "company_url": "https://mama-store.jp/",
     "company_name": "㈱ママーストアー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県小浜市四谷町７番３０号"
   },
   {
     "prefecture": "岐阜県",
     "company_url": "https://www.manpow.co.jp/",
     "company_name": "㈱未来堂高山",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岐阜県高山市岡本町１丁目１０１番地"
   },
   {
     "prefecture": "静岡県",
     "company_url": "https://www.bigfuji.co.jp/",
     "company_name": "㈱ビッグ富士",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県浜松市中央区天王町６１１番地の２"
   },
   {
     "prefecture": "滋賀県",
     "company_url": "https://www.pariya.co.jp/",
     "company_name": "㈱パリヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "滋賀県彦根市長曽根南町４７２番地の２"
   },
   {
     "prefecture": "大阪府",
     "company_url": "https://www.kansai-foodmarket.co.jp/",
     "company_name": "㈱関西フードマーケット",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府大阪市北区角田町８番７号"
   },
   {
     "prefecture": "大阪府",
     "company_url": "https://www.super-sunplaza.com/",
     "company_name": "㈱サンプラザ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "京都府",
     "company_url": "https://www.super-matsumoto.co.jp/",
     "company_name": "㈱マツモト",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "大阪府",
     "company_url": "https://www.kinshostore.co.jp/",
     "company_name": "㈱近商ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府松原市上田３丁目８番２８号"
   },
   {
     "prefecture": "大阪府",
     "company_url": "http://www.supernational.co.jp/",
     "company_name": "㈱スーパーナショナル",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府大阪市大正区千島３丁目１１番８号"
   },
   {
     "prefecture": "京都府",
     "company_url": "http://www.matsuyasuper.co.jp/",
     "company_name": "㈱マツヤスーパー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "京都府京都市山科区竹鼻地蔵寺南町９番地１"
   },
   {
     "prefecture": "大阪府",
     "company_url": "https://www.keihan-the-store.jp/",
     "company_name": "㈱京阪ザ・ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府枚方市岡東町１９番１号"
   },
   {
     "prefecture": "大阪府",
     "company_url": "https://www.pantry-lucky.jp/",
     "company_name": "㈱大近",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府大阪市福島区福島６丁目１０番１１号"
   },
   {
     "prefecture": "鳥取県",
     "company_url": "https://www.marugo.or.jp/",
     "company_name": "㈱丸合",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鳥取県米子市東福原２丁目１９番４８号"
   },
   {
     "prefecture": "岡山県",
     "company_url": "https://ryobi-store.jp/",
     "company_name": "両備ホールディングス㈱",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岡山県岡山市東区西大寺上１丁目１番５０号"
   },
   {
     "prefecture": "徳島県",
     "company_url": "https://www.kyoei-group.co.jp/",
     "company_name": "㈱キョーエイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "徳島県徳島市川内町加賀須野４６３番地１５"
   },
   {
     "prefecture": "高知県",
     "company_url": "http://www.nankokusuper.net/",
     "company_name": "㈱ナンコクスーパー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県南国市駅前町１丁目４番３４号"
   },
   {
     "prefecture": "島根県",
     "company_url": "https://ja-shimane.jp/izumo/",
     "company_name": "JAしまねラピタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "広島県",
     "company_url": "http://www.smilekitchen.co.jp/",
     "company_name": "㈱モリヤマ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県福山市多治米町１丁目１５番３号"
   },
   {
     "prefecture": "香川県",
     "company_url": "http://ww2.maruyoshi-center.co.jp/",
     "company_name": "㈱マルヨシセンター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "香川県高松市国分寺町国分３６７番地１"
   },
   {
     "prefecture": "岡山県",
     "company_url": "https://www.tenmaya-store.co.jp/",
     "company_name": "㈱天満屋ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岡山県岡山市北区岡町１３番１６号"
   },
   {
     "prefecture": "山口県",
     "company_url": "https://www.mrk09.co.jp/",
     "company_name": "㈱丸久",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山口県下関市稗田西町１９番１５号"
   },
   {
     "prefecture": "愛媛県",
     "company_url": "https://sevenstar.jp.net/",
     "company_name": "㈱セブンスター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛媛県松山市東石井１丁目７番１３号"
   },
   {
     "prefecture": "福岡県",
     "company_url": "https://www.100shunkan.com/",
     "company_name": "㈱ふくや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "大分県",
     "company_url": "http://www.frein.co.jp/",
     "company_name": "㈱フレイン",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県竹田市大字拝田原２０１番地２"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "https://foodoasis-halta.com/",
     "company_name": "㈱ハルタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市大黒町１番１号"
   },
   {
     "prefecture": "長崎県",
     "company_url": "http://www.ellena.co.jp/",
     "company_name": "㈱エレナ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長崎県佐世保市大塔町８番地２"
   },
   {
     "prefecture": "大分県",
     "company_url": "http://www.marumiya-st.jp/",
     "company_name": "㈱マルミヤストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県佐伯市野岡町２丁目１番１０号"
   },
   {
     "prefecture": "沖縄県",
     "company_url": "https://union-okinawa.com/",
     "company_name": "㈱野嵩商会",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "沖縄県宜野湾市野嵩１丁目１２番１３号"
   },
   {
     "prefecture": "大分県",
     "company_url": "https://www.tokiwa-industry.co.jp/",
     "company_name": "㈱トキハインダストリー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県大分市明野東１丁目１番１号"
   },
   {
     "prefecture": "宮崎県",
     "company_url": "https://supermaruichi.com/",
     "company_name": "㈱マルイチ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "宮崎県日向市江良町４丁目１１０番地３"
   },
   {
     "prefecture": "海外",
     "company_url": "https://www.pxmart.com.tw/",
     "company_name": "全聯實業股份有限公司",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "海外",
     "company_url": "https://fujimart.vn/",
     "company_name": "FUJIMART VIETNAM RETAIL CO., LTD",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "海外",
     "company_url": "https://www.dfiretailgroup.com/en",
     "company_name": "DFI Retail Group (The Dairy Farm Company Ltd.）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.ababakafudado.co.jp/",
     "company_name": "(株)アブアブ赤札堂",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都台東区池之端１丁目５番２号"
   },
   {
     "prefecture": "富山県",
     "company_url": "http://www.albis.co.jp",
     "company_name": "アルビス(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "富山県射水市流通センター水戸田３丁目４番地"
   },
   {
     "prefecture": "千葉県",
     "company_url": "https://www.aeonretail.jp/",
     "company_name": "イオンリテール(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県千葉市美浜区中瀬１丁目５番地１"
   },
   {
     "prefecture": "広島県",
     "company_url": "http://www.izumi.co.jp/",
     "company_name": "(株)イズミ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.itoyokado.co.jp/corporate/index.html",
     "company_name": "(株)イトーヨーカ堂",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都千代田区二番町８番地８"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.eco-s.co.jp/",
     "company_name": "(株)エコス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.odakyu-ox.net/",
     "company_name": "小田急商事(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県川崎市麻生区万福寺３丁目１番２号"
   },
   {
     "prefecture": "和歌山県",
     "company_url": "http://www.okuwa.net/",
     "company_name": "(株)オークワ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "和歌山県和歌山市中島１８５番地の３"
   },
   {
     "prefecture": "大阪府",
     "company_url": "https://www.kansai-foodmarket.co.jp/company/group.html",
     "company_name": "(株)関西フードマーケット",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府大阪市北区角田町８番７号"
   },
   {
     "prefecture": "大阪府",
     "company_url": "http://www.kinshostore.co.jp/",
     "company_name": "(株)近商ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府松原市上田３丁目８番２８号"
   },
   {
     "prefecture": "兵庫県",
     "company_url": "https://bon-maru.com/",
     "company_name": "(株)銀ビルストアー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "兵庫県姫路市南町３１番地"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.keiostore.co.jp/",
     "company_name": "(株)京王ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都多摩市関戸１丁目１１番地１"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.keikyu-store.co.jp/",
     "company_name": "(株)京急ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市西区高島１丁目２番８号"
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://www.keiseistore.co.jp/",
     "company_name": "(株)京成ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県市川市八幡３丁目３番１号"
   },
   {
     "prefecture": "大阪府",
     "company_url": "http://www.keihan-the-store.jp/",
     "company_name": "(株)京阪ザ・ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府枚方市岡東町１９番１号"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "http://mirai.coopnet.or.jp/",
     "company_name": "生活協同組合コープみらい",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "埼玉県さいたま市南区根岸１丁目５番５号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.summitstore.co.jp/",
     "company_name": "サミット(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福岡県",
     "company_url": "http://www.sunlive.co.jp/",
     "company_name": "(株)サンリブ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県北九州市若松区本町２丁目１７番１号ベイサイドプラザ若松２Ｆ"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "http://www.maruya-group.co.jp/",
     "company_name": "(株)ジョイマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "埼玉県春日部市小渕２４３番地"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.super-yamazaki.co.jp/",
     "company_name": "(株)スーパーヤマザキ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都府中市寿町１丁目６番３号"
   },
   {
     "prefecture": "福島県",
     "company_url": "http://www.xebio.co.jp/",
     "company_name": "ゼビオホールディングス(株）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県郡山市朝日３丁目７番３５号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.zensho.co.jp",
     "company_name": "(株)ゼンショーホールディングス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都港区港南２丁目１８番１号"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.sotetsu.rosen.co.jp/",
     "company_name": "相鉄ローゼン(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市西区北幸２丁目９番１４号"
   },
   {
     "prefecture": "広島県",
     "company_url": "http://www.daiso-sangyo.co.jp/",
     "company_name": "(株)大創産業",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県東広島市西条吉行東１丁目４番１４号"
   },
   {
     "prefecture": "岡山県",
     "company_url": "http://www.tenmaya-store.co.jp/",
     "company_name": "(株)天満屋ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岡山県岡山市北区岡町１３番１６号"
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.dcm-nicot.co.jp/",
     "company_name": "ＤＣＭニコット㈱",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道札幌市厚別区厚別中央三条２丁目１番１号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.tokyu-store.co.jp/",
     "company_name": "(株)東急ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都目黒区上目黒１丁目２１番１２号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://tk.freshsaeki.co.jp/",
     "company_name": "(株)東京さえき",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都国立市富士見台４丁目７番地の１１"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.tobustore.co.jp/",
     "company_name": "(株)東武ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都板橋区上板橋３丁目１番１号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.nitorihd.co.jp/",
     "company_name": "(株)ニトリホールディングス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "栃木県",
     "company_url": "http://www.fukudaya.net/cgi-bin/index.cgi",
     "company_name": "(株)福田屋百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "栃木県宇都宮市戸祭元町２番８号"
   },
   {
     "prefecture": "広島県",
     "company_url": "http://www.the-fuji.com/",
     "company_name": "(株)フジ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "滋賀県",
     "company_url": "http://www.heiwado.jp/",
     "company_name": "(株)平和堂",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "滋賀県彦根市西今町１番地"
   },
   {
     "prefecture": "群馬県",
     "company_url": "http://www.beisia.co.jp/",
     "company_name": "(株)ベイシア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "群馬県前橋市亀里町９００番地"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "https://www.belc.jp/",
     "company_name": "(株)ベルク",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "埼玉県富士見市大字水子１５１０番地"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.0101.co.jp/",
     "company_name": "(株)丸井グループ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都中野区中野４丁目３番２号"
   },
   {
     "prefecture": "山口県",
     "company_url": "http://www.mrk09.co.jp/",
     "company_name": "(株)丸久",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山口県下関市稗田西町１９番１５号"
   },
   {
     "prefecture": "鳥取県",
     "company_url": "https://www.marugo.or.jp/",
     "company_name": "(株)丸合",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鳥取県米子市東福原２丁目１９番４８号"
   },
   {
     "prefecture": "大分県",
     "company_url": "http://www.marumiya-st.jp/",
     "company_name": "(株)マルミヤストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県佐伯市野岡町２丁目１番１０号"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "http://www.yaoko-net.com/",
     "company_name": "(株)ヤオコー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "愛知県",
     "company_url": "https://www.uny.co.jp/corporate/index.html",
     "company_name": "ユニー(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.usmh.co.jp/",
     "company_name": "ユナイテッド・スーパーマーケット・ホールディングス(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都千代田区神田相生町１番地"
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.yoshizuya.com/",
     "company_name": "(株)義津屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県津島市新開町１丁目６番地"
   },
   {
     "prefecture": "福島県",
     "company_url": "https://yorkbenimaru.com/",
     "company_name": "(株)ヨークベニマル",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県郡山市谷島町５番４２号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.lifecorp.jp/",
     "company_name": "(株)ライフコーポレーション",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.ralse.co.jp",
     "company_name": "(株)ラルズ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道札幌市中央区南十三条西１１丁目２番３２号"
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.dounan-ralse.co.jp",
     "company_name": "(株)道南ラルズ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道函館市港町１丁目２番１号"
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.fukuhara-arcs.co.jp",
     "company_name": "(株)福原",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "北海道",
     "company_url": "http://www.hokuyu-lucky.co.jp/",
     "company_name": "北雄ラッキー(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道札幌市手稲区星置一条２丁目１番１号"
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.douhoku-arcs.co.jp",
     "company_name": "(株)道北アークス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道旭川市流通団地一条１丁目３３番地の１"
   },
   {
     "prefecture": "北海道",
     "company_url": "http://www.hokuno.com/",
     "company_name": "(株)ホクノー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "北海道",
     "company_url": "http://www.food-d.jp/",
     "company_name": "(株)豊月",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道室蘭市日の出町２丁目２４番２０号"
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.doutou-arcs.co.jp",
     "company_name": "(株)道東アークス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道北見市卸町３丁目７番地２"
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.tokou-store.co.jp",
     "company_name": "(株)東光ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道札幌市豊平区平岸一条１丁目９番６号"
   },
   {
     "prefecture": "青森県",
     "company_url": "http://www.universe.co.jp/",
     "company_name": "(株)ユニバ－ス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "青森県",
     "company_url": "https://i-maeda.jp/",
     "company_name": "(株)マエダ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県むつ市小川町２丁目４番８号"
   },
   {
     "prefecture": "岩手県",
     "company_url": "http://www.maiya.co.jp/",
     "company_name": "(株)マイヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県大船渡市盛町字木町１４番地５"
   },
   {
     "prefecture": "岩手県",
     "company_url": "https://www.beljois.co.jp",
     "company_name": "(株)ベルジョイス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県盛岡市東安庭２丁目１番３０号"
   },
   {
     "prefecture": "岩手県",
     "company_url": "http://www.super-maruichi.co.jp/",
     "company_name": "(株)マルイチ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "岩手県",
     "company_url": "http://yamadabihan.jp/",
     "company_name": "びはん(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県下閉伊郡山田町中央町５番６号"
   },
   {
     "prefecture": "宮城県",
     "company_url": "http://www.ujiesuper.com/",
     "company_name": "(株)ウジエスーパー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "宮城県登米市迫町佐沼字中江１丁目７番地の１"
   },
   {
     "prefecture": "宮城県",
     "company_url": "http://www.itochain.com/",
     "company_name": "(株)伊藤チェーン",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "宮城県",
     "company_url": "http://www.wako-web.com/",
     "company_name": "(株)和興",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "秋田県",
     "company_url": "http://www.e-takayanagi.com/",
     "company_name": "(株)タカヤナギ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "秋田県大仙市川目字町東３３番地"
   },
   {
     "prefecture": "秋田県",
     "company_url": "http://www.itoku.co.jp/",
     "company_name": "(株)伊徳",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "秋田県大館市清水４丁目４番１５号"
   },
   {
     "prefecture": "山形県",
     "company_url": "http://www.toichiya.co.jp/",
     "company_name": "(株)ト一屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山形県酒田市東町２丁目２番１号"
   },
   {
     "prefecture": "山形県",
     "company_url": "http://www.fu-sha.com/",
     "company_name": "(株)主婦の店 鶴岡店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山形県鶴岡市本町１丁目６番２号"
   },
   {
     "prefecture": "山形県",
     "company_url": "https://www.oh-ban.com/",
     "company_name": "(株)おーばん",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福島県",
     "company_url": "http://www.liondor.jp/index.html",
     "company_name": "(株)リオン･ドール コーポレーション",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県会津若松市栄町２番１４号"
   },
   {
     "prefecture": "福島県",
     "company_url": "http://www.maruto-gp.co.jp/",
     "company_name": "(株)マルト商事",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県いわき市勿来町窪田十条３番１"
   },
   {
     "prefecture": "福島県",
     "company_url": "https://www.vcg-inc.com/",
     "company_name": "(株)ブイシージー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福島県",
     "company_url": "http://fresco-k.com/",
     "company_name": "フレスコ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県相馬市中村字宇多川町１７番地"
   },
   {
     "prefecture": "福島県",
     "company_url": "https://www.valueone-web.com/",
     "company_name": "　(株)ブイワン",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県郡山市八山田４丁目３番地"
   },
   {
     "prefecture": "福島県",
     "company_url": "https://www.refanz.com/",
     "company_name": "　(株)運喜",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県伊達郡川俣町字中丁２４番地の２"
   },
   {
     "prefecture": "福島県",
     "company_url": "https://vchain-nemoto.com/",
     "company_name": "　(株)ネモト",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県いわき市平字三町目２４番地"
   },
   {
     "prefecture": "福島県",
     "company_url": "https://r.goope.jp/sr-07-072042s0024/",
     "company_name": "　(有)はたや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福島県いわき市久之浜町久之浜字北町１９番地"
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://www.harashinnarus.jp/",
     "company_name": "(株)原信",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県長岡市中之島１９９３番地１７"
   },
   {
     "prefecture": "新潟県",
     "company_url": "http://www.super-marui.com/",
     "company_name": "(株)マルイ(新潟)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県上越市春日野２丁目８番１９号"
   },
   {
     "prefecture": "新潟県",
     "company_url": "http://www.uoroku.co.jp/",
     "company_name": "(株)ウオロク",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県新潟市中央区鐙２丁目１４番１３号"
   },
   {
     "prefecture": "新潟県",
     "company_url": "http://www.ichiko-joetsu.com/",
     "company_name": "(株)一小イチコ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県上越市本町１丁目５番４号"
   },
   {
     "prefecture": "新潟県",
     "company_url": "https://www.harashinnarus.jp/",
     "company_name": "(株)ナルス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県上越市大字石沢字外新田１４２３番地１"
   },
   {
     "prefecture": "新潟県",
     "company_url": "http://tamakifood.iinaa.net/",
     "company_name": "(株)玉木フードセンター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県加茂市五番町３番２７号"
   },
   {
     "prefecture": "富山県",
     "company_url": "http://www.albis.co.jp/",
     "company_name": "アルビス(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "富山県射水市流通センター水戸田３丁目４番地"
   },
   {
     "prefecture": "富山県",
     "company_url": "https://www.ohsakaya-shop.jp/",
     "company_name": "(株)大阪屋ショップ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "富山県富山市赤田４８７番地１"
   },
   {
     "prefecture": "富山県",
     "company_url": "http://www.maruen.co.jp/",
     "company_name": "新鮮市場オネスト(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "富山県砺波市林１００３番地"
   },
   {
     "prefecture": "石川県",
     "company_url": "http://www.newsankyu.co.jp/",
     "company_name": "(株)ニュー三久",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "石川県金沢市城南２丁目３６番１号"
   },
   {
     "prefecture": "石川県",
     "company_url": "http://www.s-marue.co.jp/",
     "company_name": "(株)マルエー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "石川県白山市鶴来本町１丁目ワ１１１番地"
   },
   {
     "prefecture": "石川県",
     "company_url": "http://adachistore.com/",
     "company_name": "(株)安達",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "石川県羽咋市中央町フ１６８番地１"
   },
   {
     "prefecture": "石川県",
     "company_url": "https://rocky1.jp/",
     "company_name": "(株)ロッキー（石川）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "石川県鹿島郡中能登町能登部上ト部８１番地"
   },
   {
     "prefecture": "福井県",
     "company_url": "http://www.honey.jp/index.html",
     "company_name": "(協)ハニ－",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福井県",
     "company_url": "http://www.kajiso.com/",
     "company_name": "(株)かじ惣",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県大野市中荒井町１丁目１００１番地"
   },
   {
     "prefecture": "福井県",
     "company_url": "http://www.nagasugi.co.jp/",
     "company_name": "　(株)ながすぎ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県鯖江市小黒町１丁目１５番２３号"
   },
   {
     "prefecture": "福井県",
     "company_url": "https://www.yasusaki.co.jp/",
     "company_name": "　(株)ヤスサキ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福井県福井市松城町１２０１番地１"
   },
   {
     "prefecture": "山梨県",
     "company_url": "http://www.ogino.co.jp/",
     "company_name": "(株)オギノ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山梨県甲府市徳行１丁目２番１８号"
   },
   {
     "prefecture": "長野県",
     "company_url": "http://www.tsuruya-corp.co.jp/",
     "company_name": "(株)ツルヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長野県小諸市御幸町２丁目１番２０号"
   },
   {
     "prefecture": "長野県",
     "company_url": "http://www.nishizawa.co.jp/",
     "company_name": "(株)ニシザワ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長野県長野市大字安茂里１１０７番地"
   },
   {
     "prefecture": "長野県",
     "company_url": "http://www.kiraya.jp/",
     "company_name": "(株)キラヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長野県飯田市松尾上溝３０９０番地１"
   },
   {
     "prefecture": "長野県",
     "company_url": "https://daiichi-super.com/",
     "company_name": "(株)第一スーパー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長野県上水内郡信濃町大字柏原２５５２番地"
   },
   {
     "prefecture": "茨城県",
     "company_url": "http://www.super-seimiya.co.jp/index.html",
     "company_name": "(株)セイミヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "茨城県潮来市潮来６１７番地・６１８番地"
   },
   {
     "prefecture": "茨城県",
     "company_url": "https://www.super-taiyo.com/",
     "company_name": "(株)タイヨー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "茨城県",
     "company_url": "http://www.sanyu-store.jp/",
     "company_name": "(株)サンユーストアー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "茨城県北茨城市磯原町磯原１丁目１２７番地"
   },
   {
     "prefecture": "茨城県",
     "company_url": "http://www.kawaneya.co.jp/",
     "company_name": "(株)かわねや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "茨城県常陸太田市木崎二町８７４番地"
   },
   {
     "prefecture": "茨城県",
     "company_url": "https://harigae.jp/",
     "company_name": "(株)ハリガエ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "茨城県坂東市内野山８９７番地の２"
   },
   {
     "prefecture": "栃木県",
     "company_url": "http://www.fukudaya.net/index.php",
     "company_name": "(株)福田屋百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "栃木県宇都宮市戸祭元町２番８号"
   },
   {
     "prefecture": "栃木県",
     "company_url": "http://www.yaohan.jp/",
     "company_name": "(株)八百半フードセンター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "栃木県鹿沼市上田町２３４１番地"
   },
   {
     "prefecture": "栃木県",
     "company_url": "http://daiyu-super.jp/",
     "company_name": "(株)ダイユー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "栃木県那須烏山市宮原９３番地"
   },
   {
     "prefecture": "栃木県",
     "company_url": "https://sp-otani.com/",
     "company_name": "(株)オータニ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "群馬県",
     "company_url": "http://www.fressay.co.jp/",
     "company_name": "(株)フレッセイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "群馬県前橋市力丸町４９１番地１"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "http://mami-mart.com/",
     "company_name": "(株)マミーマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "埼玉県東松山市本町２丁目２番４７号"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "http://www.marutakenet.co.jp/index.html",
     "company_name": "(株)丸武",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "埼玉県",
     "company_url": "https://www.joymart.jp/",
     "company_name": "(株)ジョイマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "埼玉県春日部市小渕２４３番地"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "http://superkenzo.s171.coreserver.jp/wp/",
     "company_name": "(株)ケンゾー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "埼玉県羽生市南５丁目９番２６号"
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://s-kawaguchi.jp/",
     "company_name": "(株)カワグチ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://www.odoya.com/",
     "company_name": "(株)おどや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県館山市北条２６１７番地"
   },
   {
     "prefecture": "千葉県",
     "company_url": "https://carneys.co.jp/",
     "company_name": "宍倉(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県千葉市中央区神明町２７番地の２"
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://www.landrome.jp/",
     "company_name": "(株)ランドロームジャパン",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県船橋市三咲５丁目９番７号"
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://www.naritaya-net.co.jp/",
     "company_name": "(株)ナリタヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県印旛郡栄町安食２１７０番地１"
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://foods-selection.co.jp/",
     "company_name": "(株)セレクション",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://ootaya-sl.com/index.html",
     "company_name": "　(株)おおたや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県夷隅郡御宿町久保２１２４番地"
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://www.shokusenkan-hifumi.jp/index.html",
     "company_name": "　(株)根岸商店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県館山市長須賀１５７番地"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.santoku.co.jp/",
     "company_name": "(株)三德",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.olympic-corp.co.jp/",
     "company_name": "(株)Olympicグループ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都国分寺市本町４丁目１２番１号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.super-yamazaki.co.jp/index.html",
     "company_name": "(株)スーパーヤマザキ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都府中市寿町１丁目６番３号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.marufuji.net/",
     "company_name": "(株)マルフジ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.super-yamaichi.com/",
     "company_name": "(株)ヤマイチ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://super-tops.com/",
     "company_name": "(株)トップ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.shinanoya.co.jp/",
     "company_name": "(株)信濃屋食品",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都世田谷区代田１丁目３４番１３号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.comodi-iida.co.jp/",
     "company_name": "(株)コモディイイダ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都北区滝野川７丁目２７番７号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.hban-yu.jp/",
     "company_name": "八丈万有(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都八丈島八丈町三根２３３番地３"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.super-shimadaya.com/",
     "company_name": "(株)島田屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://hiruma-marketplace.jp/",
     "company_name": "(株)エフ・クライミング",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.ozam.jp/html/01.htm",
     "company_name": "(株)オザム",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都青梅市友田町５丁目３５０番地"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.ryuseido.co.jp/",
     "company_name": "(株)龍生堂本店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都新宿区百人町１丁目１５番１８号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.heartful-sanwa.co.jp/",
     "company_name": "(株)三和",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.yaomasa.com/",
     "company_name": "ヤオマサ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県小田原市前川１８３番地の１３"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.yuristore.co.jp/",
     "company_name": "百合ヶ丘産業(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県川崎市麻生区百合丘１丁目１番地"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://www.suzukiya-inc.jp/",
     "company_name": "(株)スズキヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県逗子市逗子５丁目３番２８号"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://fresh-tamaya.jp/",
     "company_name": "(株)たまや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.odawara100.com/",
     "company_name": "(株)小田原百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県小田原市栄町２丁目７番８号"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.smyamaka.co.jp/",
     "company_name": "(株)やまか",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県藤沢市稲荷５２０番地"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://super-maruyama.com/",
     "company_name": "(株)丸山百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市西区中央２丁目６番９号"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.ave.gr.jp/",
     "company_name": "(株)エイヴイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横須賀市平成町１丁目５番地１"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.yokohamaya.co.jp//",
     "company_name": "(株)横濱屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市南区宮元町４丁目９３番地"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.shimamura-store.com/",
     "company_name": "(株)しまむら",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県平塚市長持５０８番地"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.bicrise.com/",
     "company_name": "(株)ビック・ライズ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市港北区北新横浜１丁目７番地１"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.seijoishii.co.jp/",
     "company_name": "(株)成城石井",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "岐阜県",
     "company_url": "http://www.nakatsugawa-smile.com/",
     "company_name": "(株)スーパーチェン主婦の店中津川店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "岐阜県",
     "company_url": "https://tamanoyacorp.jp/",
     "company_name": "(株)玉野屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岐阜県多治見市笠原町２１４３番地"
   },
   {
     "prefecture": "岐阜県",
     "company_url": "http://www.tokutokusatou.com/",
     "company_name": "(株)ファミリーストアさとう",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岐阜県高山市石浦町２丁目３５２番地"
   },
   {
     "prefecture": "静岡県",
     "company_url": "http://www.super-ando.com/",
     "company_name": "(株)スーパー安藤",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県静岡市駿河区国吉田４丁目６番１５号"
   },
   {
     "prefecture": "静岡県",
     "company_url": "http://www.luckgroup.co.jp/",
     "company_name": "(株)スーパーラック",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県牧之原市波津３丁目２８番地"
   },
   {
     "prefecture": "静岡県",
     "company_url": "http://www.s-kanehachi.co.jp/",
     "company_name": "(株)カネハチ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県牧之原市細江４４７６番地４"
   },
   {
     "prefecture": "静岡県",
     "company_url": "http://www.s-store.co.jp/",
     "company_name": "(株)静鉄ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県静岡市葵区末広町９５番地"
   },
   {
     "prefecture": "静岡県",
     "company_url": "http://kadoike.com/",
     "company_name": "(株)カドイケ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県沼津市大岡３１７４番地の１６"
   },
   {
     "prefecture": "静岡県",
     "company_url": "http://s-sanzen.com/",
     "company_name": "(株)三善",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "静岡県",
     "company_url": "http://www.makiya-group.co.jp/",
     "company_name": "(株)マキヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県富士市大渕２３７３番地"
   },
   {
     "prefecture": "静岡県",
     "company_url": "http://www.4919228.com/",
     "company_name": "(株)富士屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "静岡県",
     "company_url": "http://www.entstore.co.jp/",
     "company_name": "(株)遠鉄ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県浜松市中央区佐鳴台４丁目１６番１０号"
   },
   {
     "prefecture": "静岡県",
     "company_url": "http://hibari-ya.co.jp/index.html",
     "company_name": "(株)ヒバリヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県静岡市清水区折戸１丁目６番１０号"
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.konomiya.jp/",
     "company_name": "サンビレッジフーズ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県名古屋市緑区滝ノ水３丁目３０１番地"
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.kanesue.co.jp/",
     "company_name": "(株)カネスエ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県一宮市大和町氏永字仲林１４０番地１"
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.newlife-fuji.jp/",
     "company_name": "(株)ニューライフフジ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県豊橋市東岩田３丁目１０番地の５"
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.powersnet.co.jp/",
     "company_name": "(株)シバタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県瀬戸市池田町９８番地の４"
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://epron.co.jp/",
     "company_name": "えぷろんフーズ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県豊田市宮上町３丁目３９番地３"
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.yaosuzu.co.jp/",
     "company_name": "スーパーヤオスズ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県刈谷市高津波町４丁目５０４番地"
   },
   {
     "prefecture": "愛知県",
     "company_url": "https://www.yoshizuya.com/",
     "company_name": "(株)義津屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県津島市新開町１丁目６番地"
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.nafuco-fujiya.co.jp/",
     "company_name": "(株)不二屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.sunace.jp.net/",
     "company_name": "(株)サンエース",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.foodoasis.jp/",
     "company_name": "(株)渥美フーズ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県田原市福江町中羽根７９番地１"
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.yamanobu.co.jp/index.html",
     "company_name": "(株)山信商店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県名古屋市中区栄１丁目７番１７号"
   },
   {
     "prefecture": "愛知県",
     "company_url": "https://www.sapore-nagoya.com/",
     "company_name": "(株)サポーレ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "愛知県",
     "company_url": "http://www.powersnet.co.jp/",
     "company_name": "たつみストアー(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛知県豊橋市東脇４丁目１８番地の１７"
   },
   {
     "prefecture": "三重県",
     "company_url": "http://www.sapore.co.jp/",
     "company_name": "(株)マルヤス（三重）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "三重県",
     "company_url": "http://www.shufunomise.co.jp/",
     "company_name": "(株)主婦の店（尾鷲）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "三重県尾鷲市瀬木山町１１番５７号"
   },
   {
     "prefecture": "三重県",
     "company_url": "http://www.gyutora.com/",
     "company_name": "(株)ぎゅーとら",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "三重県伊勢市西豊浜町６５５番地１８"
   },
   {
     "prefecture": "三重県",
     "company_url": "http://www.ichigokan.co.jp/",
     "company_name": "(株)一号舘",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "三重県四日市市日永東３丁目４番１号"
   },
   {
     "prefecture": "三重県",
     "company_url": "http://www.gooday-tamaki.com/",
     "company_name": "(株)玉城",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "滋賀県",
     "company_url": "http://www.288.jp/",
     "company_name": "(株)フタバヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "滋賀県",
     "company_url": "https://www.sstar.co.jp/",
     "company_name": "スター(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "京都府",
     "company_url": "https://seisenkan-nakamura.co.jp/",
     "company_name": "(株)なかむら",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "京都府",
     "company_url": "http://www.super-nishigaki.jp/",
     "company_name": "(株)にしがき",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "京都府京都市中京区西ノ京大炊御門町８番地の５"
   },
   {
     "prefecture": "京都府",
     "company_url": "http://www.mg-shop.co.jp/index.php",
     "company_name": "(株)エムジー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "京都府京都市左京区静市市原町３５７番地１"
   },
   {
     "prefecture": "京都府",
     "company_url": "http://super-cosmocorp.jp/",
     "company_name": "(株)コスモコーポレーション",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "京都府向日市向日町南山３７番地"
   },
   {
     "prefecture": "京都府",
     "company_url": "http://www.kanzakiya.co.jp/",
     "company_name": "(株)神﨑屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "大阪府",
     "company_url": "http://www.super-san-ei.co.jp/",
     "company_name": "(株)スーパーサンエー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府岸和田市大町４７５番地"
   },
   {
     "prefecture": "大阪府",
     "company_url": "http://www.maruyasu-net.co.jp/",
     "company_name": "(株)マルヤス（大阪）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "大阪府",
     "company_url": "https://n-food.com/",
     "company_name": "(株)スーパーストアナカガワ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府枚方市長尾家具町３丁目１１番１７号"
   },
   {
     "prefecture": "大阪府",
     "company_url": "http://www.topworld.jp/index.cgi",
     "company_name": "不二商事(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "大阪府",
     "company_url": "http://www.konomiya.jp/",
     "company_name": "(株)コノミヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府大阪市鶴見区今津南１丁目５番３２号"
   },
   {
     "prefecture": "大阪府",
     "company_url": "http://takahashi-meat.co.jp/",
     "company_name": "高橋ミート(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府豊中市東豊中町５丁目３０番１７号"
   },
   {
     "prefecture": "大阪府",
     "company_url": "https://www.marushige.co.jp/",
     "company_name": "(株)マルシゲ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "兵庫県",
     "company_url": "http://www.akoshufu.co.jp/",
     "company_name": "(株)主婦の店 赤穂店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "兵庫県赤穂市加里屋４６番地の２"
   },
   {
     "prefecture": "兵庫県",
     "company_url": "https://bon-maru.com/",
     "company_name": "(株)銀ビルストアー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "兵庫県姫路市南町３１番地"
   },
   {
     "prefecture": "兵庫県",
     "company_url": "https://palyamato.jp/",
     "company_name": "(株)パル・ヤマト",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "兵庫県神戸市東灘区北青木２丁目９番５号"
   },
   {
     "prefecture": "兵庫県",
     "company_url": "http://shintetsu-ep.co.jp/top.html",
     "company_name": "(株)神鉄エンタープライズ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "兵庫県神戸市兵庫区大開通１丁目１番１号"
   },
   {
     "prefecture": "兵庫県",
     "company_url": "https://www.maruai-super.co.jp/",
     "company_name": "(株)マルアイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "兵庫県加古川市神野町神野２２５番地１"
   },
   {
     "prefecture": "奈良県",
     "company_url": "http://www.yoshinostore.com/",
     "company_name": "吉野ストア(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "奈良県吉野郡大淀町大字下渕３６０番地"
   },
   {
     "prefecture": "奈良県",
     "company_url": "http://www.ik-isokawa.co.jp/",
     "company_name": "(株)いそかわ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "奈良県奈良市押熊町８７１番地の１"
   },
   {
     "prefecture": "和歌山県",
     "company_url": "http://www.39sankyo.jp/",
     "company_name": "(株)サンキョー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "和歌山県",
     "company_url": "https://matugen.co.jp/",
     "company_name": "(株)松源",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "和歌山県和歌山市田屋１３８番地"
   },
   {
     "prefecture": "鳥取県",
     "company_url": "http://www.tohokigyo.com/",
     "company_name": "東宝企業(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鳥取県倉吉市大正町２丁目９０番地"
   },
   {
     "prefecture": "鳥取県",
     "company_url": "https://www.smart-ds.com/",
     "company_name": "　(株)エスマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鳥取県鳥取市湖山町北３丁目３０３番地"
   },
   {
     "prefecture": "島根県",
     "company_url": "http://www.kinuya.co.jp/",
     "company_name": "(株)キヌヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "島根県益田市常盤町４番３８号"
   },
   {
     "prefecture": "島根県",
     "company_url": "http://www.mishimaya.com/",
     "company_name": "(株)みしまや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "島根県松江市雑賀町９９番地"
   },
   {
     "prefecture": "島根県",
     "company_url": "http://goodday-ushio.com/",
     "company_name": "(株)ウシオ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "島根県松江市西忌部町５２５番地１０"
   },
   {
     "prefecture": "島根県",
     "company_url": "https://e-yamadaya.co.jp/",
     "company_name": "(株)ヤマダヤ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "島根県隠岐郡隠岐の島町平４３１番地１"
   },
   {
     "prefecture": "島根県",
     "company_url": "https://dapps.jp/",
     "company_name": "　(株)油屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "島根県浜田市田町１４４９番地１"
   },
   {
     "prefecture": "岡山県",
     "company_url": "http://www.cmrc.or.jp/",
     "company_name": "(協)シーエムシー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "岡山県",
     "company_url": "http://www.maruilife.co.jp/",
     "company_name": "(株)マルイ（岡山）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "岡山県",
     "company_url": "https://www.kyoeigp.co.jp/",
     "company_name": "　(株)共栄商事",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岡山県高梁市中原町１０８４番地の１"
   },
   {
     "prefecture": "岡山県",
     "company_url": "http://www.grandmart.co.jp/",
     "company_name": "　(株)グランドマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岡山県岡山市北区津高８２０番地"
   },
   {
     "prefecture": "岡山県",
     "company_url": "https://watanabeseisenkan.com/",
     "company_name": "　(株)わたなべ生鮮館",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岡山県岡山市南区泉田３丁目３番１１号"
   },
   {
     "prefecture": "広島県",
     "company_url": "http://www.fresta.co.jp/",
     "company_name": "(株)フレスタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県広島市西区横川町３丁目２番３６号"
   },
   {
     "prefecture": "広島県",
     "company_url": "http://www.k-fujisan.co.jp/",
     "company_name": "(株)藤三",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県呉市広本町３丁目１５番５号"
   },
   {
     "prefecture": "広島県",
     "company_url": "http://www.spark-net.co.jp/",
     "company_name": "(株)スパーク",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県広島市西区商工センター２丁目１７番３７号"
   },
   {
     "prefecture": "広島県",
     "company_url": "http://www.saijo-shoji.co.jp/",
     "company_name": "西條商事(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "広島県東広島市西条土与丸２丁目６番４９号"
   },
   {
     "prefecture": "山口県",
     "company_url": "http://www.yours-value.jp/",
     "company_name": "(株)ユアーズ･バリュー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山口県防府市大字高井５６８番地の１"
   },
   {
     "prefecture": "徳島県",
     "company_url": "http://ff-ookita.jp/index.html",
     "company_name": "(株)オオキタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "徳島県海部郡牟岐町大字中村字本村１５２番地１１"
   },
   {
     "prefecture": "愛媛県",
     "company_url": "http://www.daiya-grp.co.jp/",
     "company_name": "(株)大屋",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛媛県西条市西田甲５９０番地２"
   },
   {
     "prefecture": "愛媛県",
     "company_url": "http://imadepa.net/",
     "company_name": "(株)今治デパート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛媛県今治市南高下町１丁目４番３号"
   },
   {
     "prefecture": "愛媛県",
     "company_url": "https://www.ozmesse21.net/",
     "company_name": "(株)オズメッセ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛媛県大洲市東大洲１５９６番地"
   },
   {
     "prefecture": "愛媛県",
     "company_url": "http://www.sogoh-mart.co.jp/",
     "company_name": "(株)そごうマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛媛県松山市北梅本町７６８番地１"
   },
   {
     "prefecture": "愛媛県",
     "company_url": "https://www.funtable-kitchen.com/",
     "company_name": "(株)FunTable Kitchen",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "愛媛県今治市旭町３丁目２番地３"
   },
   {
     "prefecture": "高知県",
     "company_url": "http://www.sunplaza-kochi.co.jp/",
     "company_name": "(株)サンプラザ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県土佐市高岡町乙２７番地１"
   },
   {
     "prefecture": "高知県",
     "company_url": "http://value-tsc.jp/",
     "company_name": "(株)土佐山田ショッピングセンター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県香美市土佐山田町西本町４丁目１番２４号"
   },
   {
     "prefecture": "高知県",
     "company_url": "http://sunshinechain.com/",
     "company_name": "(株)サンシャインチェーン本部",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県高知市稲荷町１１番４５号"
   },
   {
     "prefecture": "高知県",
     "company_url": "http://www.suehiloya.jp/",
     "company_name": "(株)末広",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県土佐郡土佐町田井１３５３番地２"
   },
   {
     "prefecture": "福岡県",
     "company_url": "https://nishitetsu-store.jp/",
     "company_name": "(株)西鉄ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県筑紫野市針摺中央２丁目１６番１４号"
   },
   {
     "prefecture": "福岡県",
     "company_url": "http://www.sv-kyushu.jp/index.html",
     "company_name": "(株)九州スーパーマーケットグループ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県福岡市南区柳瀬１丁目３３番１０号"
   },
   {
     "prefecture": "福岡県",
     "company_url": "http://www.satoshokusenkan.co.jp/",
     "company_name": "佐藤(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福岡県",
     "company_url": "http://www.hihirose.com/",
     "company_name": "(株)ホームインプルーブメントひろせ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福岡県",
     "company_url": "http://www.hastala.co.jp/index.html",
     "company_name": "(株)アスタラビスタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県三潴郡大木町大字高橋５１８番地"
   },
   {
     "prefecture": "福岡県",
     "company_url": "https://www.meijiya-jumbo.jp/",
     "company_name": "(株)明治屋食品",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県太宰府市都府楼南４丁目１１番１号"
   },
   {
     "prefecture": "福岡県",
     "company_url": "http://www.kawashoku.jp/shokusaikan/",
     "company_name": "(株)川食",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県田川郡川崎町大字田原３３５番地１４"
   },
   {
     "prefecture": "福岡県",
     "company_url": "https://www.halloday.co.jp/sp/",
     "company_name": "(株)ハローデイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県北九州市小倉南区徳力３丁目６番１６号"
   },
   {
     "prefecture": "福岡県",
     "company_url": "http://daikyo-plaza.co.jp/index.html",
     "company_name": "　(株)ダイキョープラザ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福岡県",
     "company_url": "http://market-link.jp/",
     "company_name": "　(有)リンク",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "福岡県",
     "company_url": "https://yakuinvalue.com/",
     "company_name": "　(株)イーマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "福岡県福岡市中央区薬院４丁目１番３３号"
   },
   {
     "prefecture": "佐賀県",
     "company_url": "http://maizuru.co.jp/",
     "company_name": "(株)まいづる百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "佐賀県唐津市中原２９０５番地５"
   },
   {
     "prefecture": "佐賀県",
     "company_url": "http://www.super-morinaga.co.jp/",
     "company_name": "(株)スーパーモリナガ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "佐賀県佐賀市川副町大字南里７５７番地"
   },
   {
     "prefecture": "長崎県",
     "company_url": "http://www.s-tobi.com/",
     "company_name": "(株)東美",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長崎県長崎市栄町５番５号"
   },
   {
     "prefecture": "長崎県",
     "company_url": "http://www.saikinet.co.jp/",
     "company_name": "　(株)サイキ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "長崎県",
     "company_url": "http://www.takesue.co.jp/",
     "company_name": "　(株)タケスエ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長崎県対馬市上対馬町大浦６０番地１"
   },
   {
     "prefecture": "長崎県",
     "company_url": "http://www.value-ichiyama.com/index.html",
     "company_name": "　(株)イチヤマ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長崎県壱岐市郷ノ浦町東触５６８番地１"
   },
   {
     "prefecture": "長崎県",
     "company_url": "http://www.sunlife-co.jp/",
     "company_name": "　サンライフ(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長崎県雲仙市千々石町丙２１９５番地３"
   },
   {
     "prefecture": "熊本県",
     "company_url": "http://www.hirai-wa.com/",
     "company_name": "(株)ヒライ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "熊本県熊本市西区春日７丁目２６番７０号"
   },
   {
     "prefecture": "熊本県",
     "company_url": "http://www.e-rocky.co.jp/",
     "company_name": "(株)ロッキー（熊本）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "熊本県熊本市北区植木町植木１３３番地の１"
   },
   {
     "prefecture": "熊本県",
     "company_url": "https://www.maruei-net.com/",
     "company_name": "(株)マルエイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "熊本県",
     "company_url": "https://www.isumi-s.co.jp/index.html",
     "company_name": "　イスミ商事(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "熊本県人吉市九日町８７番地"
   },
   {
     "prefecture": "熊本県",
     "company_url": "https://www.youmart-tokunaga.com/",
     "company_name": "　(株)ユーマートトクナガ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "熊本県玉名郡長洲町大字長洲２７２０番地"
   },
   {
     "prefecture": "熊本県",
     "company_url": "http://www.dainobu.com/",
     "company_name": "　(株)台信商店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "熊本県熊本市南区城南町隈庄５５２番地"
   },
   {
     "prefecture": "熊本県",
     "company_url": "https://s-miyahara.com/index.html",
     "company_name": "　(株)みやはら",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "熊本県人吉市北泉田町１７７番地"
   },
   {
     "prefecture": "熊本県",
     "company_url": "https://www.arisa-super.com/",
     "company_name": "　(株)有佐スーパー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "熊本県八代市鏡町上鏡９１２番地２"
   },
   {
     "prefecture": "熊本県",
     "company_url": "https://angelus.jp/",
     "company_name": "　(有)魚弘",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "熊本県八代市松崎町７８２番地"
   },
   {
     "prefecture": "大分県",
     "company_url": "http://www.super-hosokawa.com/",
     "company_name": "(株)スーパー細川",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県中津市大字万田３９１番地の１"
   },
   {
     "prefecture": "大分県",
     "company_url": "http://www.oita-maruya.com/",
     "company_name": "　(有)まるや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "大分県",
     "company_url": "http://aokisuper.com/",
     "company_name": "　(有)スーパー青木",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大分県国東市国東町小原１９０２番地３"
   },
   {
     "prefecture": "大分県",
     "company_url": "http://www.value-tuiteru.com/",
     "company_name": "　(有)小串商店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "宮崎県",
     "company_url": "https://pantryksuke.com/",
     "company_name": "　(有)慶助",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "宮崎県児湯郡都農町大字川北４７５２番地１"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "http://www.yamakataya-store.jp/ ",
     "company_name": "(株)山形屋ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市中町１０番１５号"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "http://www.i-daiwa.com/",
     "company_name": "(株)大和（鹿児島）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市玉里町３番３号"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "http://www.narizawa.jp/",
     "company_name": "(有)なりざわ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市東谷山７丁目３０番１２号"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "https://cgcmkc.jp",
     "company_name": "(株)シージーシー南九州センター ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市谷山港１丁目２４番地"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "http://nishimuta.co.jp/",
     "company_name": "(株)ニシムタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県鹿児島市与次郎１丁目１０番１号"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "https://sun-grp.jp/pages/30/",
     "company_name": "　(株)うしじまストアー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県西之表市天神町３番地１２"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "http://www.homecenter-takami.com/",
     "company_name": "　(株)タカミ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県薩摩川内市山之口町４６７７番地１"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "http://kktaihei.com/",
     "company_name": "　(株)タイヘイ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "http://xn--cck1a1a1d6i2b4c.com/company.html",
     "company_name": "　(株)グリーンストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県奄美市名瀬入舟町１８番２１号"
   },
   {
     "prefecture": "鹿児島県",
     "company_url": "https://daimaru-group.com/",
     "company_name": "　(株)義村商店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "鹿児島県大島郡徳之島町亀津７３６５番地"
   },
   {
     "prefecture": "沖縄県",
     "company_url": "http://kanehideshj.com/",
     "company_name": "金秀商事(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "沖縄県中頭郡西原町字小那覇４９４番地１"
   },
   {
     "prefecture": "沖縄県",
     "company_url": "http://ryubostore.jp/",
     "company_name": "(株)リウボウストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "沖縄県那覇市松尾１丁目９番４９号"
   },
   {
     "prefecture": "沖縄県",
     "company_url": "https://okinawa-marudai.co.jp/",
     "company_name": "(株)丸大（沖縄）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "沖縄県那覇市首里石嶺町３丁目１６５番地"
   },
   {
     "prefecture": "広島県",
     "company_url": "https://izumi.co.jp/corp/",
     "company_name": "株式会社イズミ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "沖縄県",
     "company_url": "https://www.san-a.co.jp/",
     "company_name": "株式会社サンエー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "沖縄県宜野湾市大山７丁目２番１０号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.eco-s.co.jp/",
     "company_name": "株式会社エコス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.zennoh.or.jp/",
     "company_name": "全国農業協同組合連合会",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都千代田区大手町１丁目３番１号"
   },
   {
     "prefecture": "和歌山県",
     "company_url": "http://www.okuwa.net/",
     "company_name": "株式会社オークワ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "和歌山県和歌山市中島１８５番地の３"
   },
   {
     "prefecture": "静岡県",
     "company_url": "https://foodmarket-mom.com/index.html",
     "company_name": "株式会社タカラ・エムシー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "静岡県静岡市駿河区小鹿３丁目１番５８号"
   },
   {
     "prefecture": "大阪府",
     "company_url": "https://www.kinshostore.co.jp/",
     "company_name": "株式会社近商ストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "大阪府松原市上田３丁目８番２８号"
   },
   {
     "prefecture": "岡山県",
     "company_url": "https://www.nishina.co.jp/",
     "company_name": "株式会社仁科百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "神奈川県",
     "company_url": "https://www.create-sd.co.jp/",
     "company_name": "株式会社クリエイト",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.fujicitio.com/",
     "company_name": "富士シティオ株式会社",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県横浜市中区日本大通１７番地"
   },
   {
     "prefecture": "兵庫県",
     "company_url": "http://www.kobe.coop.or.jp/",
     "company_name": "生活協同組合コープこうべ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "兵庫県神戸市東灘区住吉本町１丁目３番１９号"
   },
   {
     "prefecture": "滋賀県",
     "company_url": "http://www.heiwado.jp/",
     "company_name": "株式会社平和堂",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "滋賀県彦根市西今町１番地"
   },
   {
     "prefecture": "北海道",
     "company_url": "http://www.sapporo.coop/",
     "company_name": "生活協同組合コープさっぽろ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道札幌市西区発寒十一条５丁目１０番１号"
   },
   {
     "prefecture": "山形県",
     "company_url": "http://yamazawa.co.jp/",
     "company_name": "株式会社ヤマザワ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "山形県山形市あこや町３丁目８番９号"
   },
   {
     "prefecture": "東京都",
     "company_url": "https://www.freshsaeki.co.jp/",
     "company_name": "株式会社さえきセルバホールディングス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都国立市西１丁目１１番地の６"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "http://www.ucoop.or.jp/",
     "company_name": "生活協同組合",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "北海道",
     "company_url": "https://satudora.jp/",
     "company_name": "サツドラホールディングス株式会社",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道札幌市東区北八条東４丁目１番２０号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.lifecorp.jp/",
     "company_name": "株式会社ライフコーポレーション",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "京都府",
     "company_url": "http://www.sato-kyoto.com/",
     "company_name": "株式会社さとう",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "岡山県",
     "company_url": "http://ryobi-store.jp/",
     "company_name": "両備ホールディングス株式会社",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岡山県岡山市東区西大寺上１丁目１番５０号"
   },
   {
     "prefecture": "高知県",
     "company_url": "https://www.sunnymart.co.jp/",
     "company_name": "株式会社サニーマート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県高知市山手町８１番地"
   },
   {
     "prefecture": "北海道",
     "company_url": "http://www.food-d.jp/",
     "company_name": "(株)豊月",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道室蘭市日の出町２丁目２４番２０号"
   },
   {
     "prefecture": "北海道",
     "company_url": "",
     "company_name": "(有)とうかいフーズ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "北海道北斗市飯生３丁目１番２９号"
   },
   {
     "prefecture": "北海道",
     "company_url": "https://www.aizawafood.com/",
     "company_name": "(株)相沢食料百貨店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "青森県",
     "company_url": "http://www.kakemo.com/",
     "company_name": "(株)スーパーカケモ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県十和田市穂並町１５番１０号"
   },
   {
     "prefecture": "青森県",
     "company_url": "http://www.superstore.co.jp/",
     "company_name": "(株)スーパーストア",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "青森県北津軽郡中泊町大字中里字紅葉坂１５４番地"
   },
   {
     "prefecture": "岩手県",
     "company_url": "",
     "company_name": "(有)ケー・マート",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県奥州市水沢字川端２２６番地"
   },
   {
     "prefecture": "岩手県",
     "company_url": "",
     "company_name": "(株)丸江",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "岩手県一関市萩荘字高梨東１番地５"
   },
   {
     "prefecture": "秋田県",
     "company_url": "http://terata.jp/",
     "company_name": "(株)テラタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "秋田県能代市出戸本町１９番１０号"
   },
   {
     "prefecture": "秋田県",
     "company_url": "http://sm-lucky.com/cp.html",
     "company_name": "(株)マルシメ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "秋田県横手市十文字町仁井田字東２２番地１"
   },
   {
     "prefecture": "茨城県",
     "company_url": "http://www.eco-s.co.jp/masuda.html",
     "company_name": "(株)マスダ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "栃木県",
     "company_url": "http://www.eco-s.co.jp/tairaya.php",
     "company_name": "(株)たいらや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "栃木県宇都宮市平出工業団地９番２３"
   },
   {
     "prefecture": "埼玉県",
     "company_url": "",
     "company_name": "(株)与野フードセンター",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "埼玉県さいたま市中央区大字下落合１０２７番地"
   },
   {
     "prefecture": "千葉県",
     "company_url": "",
     "company_name": "(株)千葉セルコ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県千葉市中央区出洲港１４番３８号"
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://www.sendo.co.jp/",
     "company_name": "(株)せんどう",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県市原市八幡８１３番地"
   },
   {
     "prefecture": "千葉県",
     "company_url": "",
     "company_name": "(有)吉田商店",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "千葉県",
     "company_url": "",
     "company_name": "宍倉(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県千葉市中央区神明町２７番地の２"
   },
   {
     "prefecture": "千葉県",
     "company_url": "http://tokiwaya-net.com/",
     "company_name": "(株)ときわや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "千葉県館山市薗２７７番地"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.eco-s.co.jp/",
     "company_name": "(株)エコス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.freshsaeki.co.jp/",
     "company_name": "(株)さえきセルバホールディングス",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都国立市西１丁目１１番地の６"
   },
   {
     "prefecture": "東京都",
     "company_url": "",
     "company_name": "(株)東京さえき",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都国立市富士見台４丁目７番地の１１"
   },
   {
     "prefecture": "東京都",
     "company_url": "",
     "company_name": "(株)カネマン",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都北区十条仲原３丁目１０番４号"
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.super-takaraya.co.jp/",
     "company_name": "(株)たからや",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://www.daieiseika.jp/",
     "company_name": "大栄青果（株）",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "東京都",
     "company_url": "http://boeki.co.jp/",
     "company_name": "KCセントラル貿易(株)",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都千代田区岩本町１丁目８番１５号"
   },
   {
     "prefecture": "東京都",
     "company_url": "",
     "company_name": "(株)日本セルコ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都国立市中１丁目１９番地の１０地下１階"
   },
   {
     "prefecture": "東京都",
     "company_url": "",
     "company_name": "(株)関東城西セルコ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "東京都国立市中１丁目１９番地の１０地下１階"
   },
   {
     "prefecture": "神奈川県",
     "company_url": "",
     "company_name": "(株)京浜さえき",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "神奈川県川崎市幸区小向町７番１３号"
   },
   {
     "prefecture": "新潟県",
     "company_url": "http://www.niigata-cupid.com/",
     "company_name": "(株)キューピット",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "新潟県新潟市東区紫竹７丁目１２番１号"
   },
   {
     "prefecture": "新潟県",
     "company_url": "http://www.hapy.co.jp",
     "company_name": "(株)ハピー",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "富山県",
     "company_url": "http://www.oosakaya-shop.co.jp/",
     "company_name": "(株)大阪屋ショップ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "富山県富山市赤田４８７番地１"
   },
   {
     "prefecture": "山梨県",
     "company_url": "",
     "company_name": "(株)山梨さえき",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": null
   },
   {
     "prefecture": "長野県",
     "company_url": "https://www.marutoshi-foods.com",
     "company_name": "(株)マルトシ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "長野県駒ヶ根市中央１６番１９号"
   },
   {
     "prefecture": "島根県",
     "company_url": "",
     "company_name": "(株)フーズマーケットホック",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "島根県安来市赤江町１４４８番地１"
   },
   {
     "prefecture": "高知県",
     "company_url": "http://www.sunshinechain.co.jp/",
     "company_name": "(株)サンシャインチェーン本部",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "高知県高知市稲荷町１１番４５号"
   },
   {
     "prefecture": "佐賀県",
     "company_url": "http://www.al-alta.jp/",
     "company_name": "(株)アルタ",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "佐賀県武雄市武雄町大字昭和８２番地"
   },
   {
     "prefecture": "佐賀県",
     "company_url": "",
     "company_name": "(株)SMAT",
-    "supermarket_names": []
+    "supermarket_names": [],
+    "location": "佐賀県伊万里市山代町楠久津１７７番地３４０"
   }
 ]

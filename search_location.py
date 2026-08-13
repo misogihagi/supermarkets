@@ -9,6 +9,9 @@ from playwright.sync_api import sync_playwright
 DATA_FILE = "data.json"
 BASE_URL = "https://www.houjin-bangou.nta.go.jp/"
 
+FOREIGN_PREFECTURE = "海外"
+FOREIGN_PREFECTURE_LABEL = "国外"
+
 HEADERS_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 
 
@@ -72,15 +75,24 @@ def get_name_text(cell):
     )
 
 
-def search_location(page, company_name, prefecture):
-    """法人番号公表サイトで検索し、正規化後の商号と都道府県が完全一致する所在地の一覧を返す"""
+def search_location(page, company_name, prefecture, location=None):
+    """法人番号公表サイトで検索し、正規化後の商号と都道府県が完全一致する所在地の一覧を返す
+
+    海外(国外)の場合は「都道府県=国外」を選択し、国外所在地が判明していれば
+    kokugaiTxtfに入力して検索する。
+    """
     query = normalize_name(company_name)
     query_with_entity = normalize_name_with_entity(company_name)
+
+    is_foreign = prefecture == FOREIGN_PREFECTURE
+    pref_label = FOREIGN_PREFECTURE_LABEL if is_foreign else prefecture
 
     # ホーム画面に戻って検索（トークンを毎回取得）
     page.goto(BASE_URL, wait_until="domcontentloaded")
     page.fill("#corp_name", query)
-    page.select_option("#addr_pref", label=prefecture)
+    page.select_option("#addr_pref", label=pref_label)
+    if is_foreign and location:
+        page.fill("#addr_global", location)
     page.check("input[name='houzinNmShTypeRbtn'][value='1']")
     page.click("#search_condition")
     page.wait_for_url("**/kensaku-kekka.html*", timeout=30000)
@@ -95,10 +107,14 @@ def search_location(page, company_name, prefecture):
                 continue
             name_cell = tds.nth(0)
             address = tds.nth(1).inner_text().strip()
-            if (
-                normalize_name_with_entity(get_name_text(name_cell)) == query_with_entity
-                and address.startswith(prefecture)
-            ):
+            if normalize_name_with_entity(
+                get_name_text(name_cell)
+            ) == query_with_entity and (is_foreign or address.startswith(prefecture)):
+                if is_foreign:
+                    # 国外における本店等の所在地（span.icon02内の住所）を抽出
+                    foreign_addr = tds.nth(1).locator("span.icon02 span")
+                    if foreign_addr.count() > 0:
+                        address = foreign_addr.first.inner_text().strip()
                 matches.append(address)
 
         next_link = page.locator(".paginate li.next a")

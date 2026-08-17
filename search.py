@@ -77,42 +77,44 @@ def main():
         # 2. データの数だけURL遷移を繰り返す
         # ==========================================
         for item in data:
-            # 検索ターゲット名の決定
-            if item.get("supermarket_names") and len(item["supermarket_names"]) > 0:
-                target_name = item["supermarket_names"][0]
-            else:
-                target_name = clean_company_name(item["company_name"])
+            company_name = clean_company_name(item["company_name"])
+            supermarket_names = item.get("supermarket_names") or []
 
-            # 既に結果がある場合はスキップ
-            if existing.get(target_name) and existing[target_name].get("results"):
-                print(f"[スキップ] {target_name}")
-                continue
+            # 検索対象名のリストを作成（会社名は必ず含む）
+            search_targets = [company_name]
+            for sname in supermarket_names:
+                cleaned = clean_company_name(sname)
+                if cleaned and cleaned != company_name:
+                    search_targets.append(cleaned)
 
-            # 検索クエリの作成
-            query = f'{target_name} テーマソング OR イメージソング OR 曲 OR BGM'
+            for target_name in search_targets:
+                # 既に結果がある場合はスキップ
+                if existing.get(target_name) and existing[target_name].get("results"):
+                    print(f"[スキップ] {target_name}")
+                    continue
 
-            try:
-                # 使い回している「page」を渡してURL遷移を実行
-                search_results = []
-                max_retries = 3
-                for attempt in range(1, max_retries + 1):
-                    search_results = fetch_search_results(page, query)
-                    if search_results:
-                        break
-                    print(f"  結果が空のためリトライ ({attempt}/{max_retries})")
-                    time.sleep(random.uniform(5.0, 10.0))
+                query = f'{target_name} テーマソング OR イメージソング OR 曲 OR BGM'
 
-                final_results.append({
-                    "target_name": target_name,
-                    "search_query": query,
-                    "results": search_results
-                })
-            except Exception as e:
-                print(f"[{target_name}] の検索中にエラーが発生しました: {e}")
+                try:
+                    search_results = []
+                    max_retries = 3
+                    for attempt in range(1, max_retries + 1):
+                        search_results = fetch_search_results(page, query)
+                        if search_results:
+                            break
+                        print(f"  結果が空のためリトライ ({attempt}/{max_retries})")
+                        time.sleep(random.uniform(5.0, 10.0))
 
-            # ループの最後に待機時間を入れる（Googleの連続アクセス制限ブロック回避）
-            sleep_time = random.uniform(2.0, 5.0)
-            time.sleep(sleep_time)
+                    final_results.append({
+                        "target_name": target_name,
+                        "search_query": query,
+                        "results": search_results
+                    })
+                except Exception as e:
+                    print(f"[{target_name}] の検索中にエラーが発生しました: {e}")
+
+                sleep_time = random.uniform(2.0, 5.0)
+                time.sleep(sleep_time)
 
         # ==========================================
         # 3. すべてのURL遷移が終わったらブラウザを閉じる

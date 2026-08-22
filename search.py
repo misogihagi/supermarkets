@@ -45,7 +45,13 @@ def fetch_search_results(page, query):
                 "url": href
             })
 
-    return results
+    # AI概要の取得
+    ai_overview = ""
+    section = page.locator("section").first
+    if section.count() > 0:
+        ai_overview = section.inner_text()
+
+    return {"results": results, "ai_overview": ai_overview}
 
 def main():
     data = json.loads(json_data)
@@ -89,18 +95,18 @@ def main():
 
             for target_name in search_targets:
                 # 既に結果がある場合はスキップ
-                if existing.get(target_name) and existing[target_name].get("results"):
+                if existing.get(target_name) and (existing[target_name].get("results") or existing[target_name].get("ai_overview")):
                     print(f"[スキップ] {target_name}")
                     continue
 
                 query = f'{target_name} テーマソング OR イメージソング OR 曲 OR BGM'
 
                 try:
-                    search_results = []
+                    search_data = {"results": [], "ai_overview": ""}
                     max_retries = 3
                     for attempt in range(1, max_retries + 1):
-                        search_results = fetch_search_results(page, query)
-                        if search_results:
+                        search_data = fetch_search_results(page, query)
+                        if search_data["results"] or search_data["ai_overview"]:
                             break
                         print(f"  結果が空のためリトライ ({attempt}/{max_retries})")
                         time.sleep(random.uniform(5.0, 10.0))
@@ -108,7 +114,8 @@ def main():
                     final_results.append({
                         "target_name": target_name,
                         "search_query": query,
-                        "results": search_results
+                        "results": search_data["results"],
+                        "ai_overview": search_data["ai_overview"]
                     })
                 except Exception as e:
                     print(f"[{target_name}] の検索中にエラーが発生しました: {e}")

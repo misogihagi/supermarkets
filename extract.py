@@ -7,10 +7,11 @@ import ollama
 
 output_filename = "supermarket_songs.yaml"
 with open(output_filename, "r", encoding="utf-8") as f:
-        yaml_data = f.read()
+    yaml_data = f.read()
 
 # 使用するOllamaモデル名（ローカルにダウンロードされているモデルを指定）
 OLLAMA_MODEL = "qwen3.5:9b"  # 例: 'qwen2.5', 'gemma2', 'mistral' など
+
 
 def fetch_page_text(url: str) -> str:
     """URLからHTMLを取得し、本文テキストのみを抽出する（文字化け・アクセスブロック対策込み）"""
@@ -24,19 +25,20 @@ def fetch_page_text(url: str) -> str:
         # エンコーディング自動判定の修正
         response.encoding = response.apparent_encoding
 
-        soup = BeautifulSoup(response.text, 'html.parser')
+        soup = BeautifulSoup(response.text, "html.parser")
 
         # スクリプトやスタイルシートなどを除去
         for element in soup(["script", "style", "noscript", "header", "footer"]):
             element.decompose()
 
-        text = soup.get_text(separator=' ', strip=True)
+        text = soup.get_text(separator=" ", strip=True)
         # トークン節約のため、テキストを長すぎる場合は1500文字程度にカット
-#        return text[:1500]
+        #        return text[:1500]
         return text
     except Exception as e:
         print(f"  [エラー] {url} の取得に失敗しました: {e}")
         return ""
+
 
 def fetch_html(url: str) -> str:
     """URLからHTMLをそのまま取得する（URL探索用。トークン節約のため先頭のみ保持）"""
@@ -52,13 +54,20 @@ def fetch_html(url: str) -> str:
         print(f"  [エラー] {url} のHTML取得に失敗しました: {e}")
         return ""
 
-def find_song_name(target_name: str, url: str, text_content: str):
+
+def find_song_name(
+    target_name: str, url: str, text_content: str, ai_overview: str = ""
+):
     """Ollamaに曲名の有無だけを判定させる。見つかれば曲名、なければNoneを返す"""
     prompt = f"""
-以下は「{target_name}」に関するWebページのテキストです。
+以下は「{target_name}」に関するWebページのテキストと、検索時のAI概要です。
 この中に{target_name}のテーマソング・イメージソング・BGM・店内で流れる曲などの「曲名」が記載されていますか？
+※AI概要はあくまで参考情報であり、ページテキストに記載がなくてもAI概要内に明確な曲名があれば採用してください。
 
 【対象URL】: {url}
+【AI概要（参考情報）】:
+{ai_overview if ai_overview else "（なし）"}
+
 【ページテキスト】:
 {text_content}
 
@@ -71,16 +80,20 @@ def find_song_name(target_name: str, url: str, text_content: str):
     response = ollama.chat(
         model=OLLAMA_MODEL,
         messages=[
-            {"role": "system", "content": "あなたは与えられたテキストから正確に情報を抽出するアシスタントです。"},
-            {"role": "user", "content": prompt}
-        ]
+            {
+                "role": "system",
+                "content": "あなたは与えられたテキストから正確に情報を抽出するアシスタントです。",
+            },
+            {"role": "user", "content": prompt},
+        ],
     )
-    content = response['message']['content'].strip()
+    content = response["message"]["content"].strip()
     if "該当なし" in content:
         return None
     if "曲名:" in content:
         return content.split("曲名:", 1)[1].strip().splitlines()[0].strip()
     return content
+
 
 def find_song_url(target_name: str, song_name: str, html_content: str):
     """OllamaにHTMLを食わせ、曲の音源・動画が格納されたURLを探させる"""
@@ -100,14 +113,18 @@ def find_song_url(target_name: str, song_name: str, html_content: str):
     response = ollama.chat(
         model=OLLAMA_MODEL,
         messages=[
-            {"role": "system", "content": "あなたは与えられたHTMLから正確にURLを抽出するアシスタントです。"},
-            {"role": "user", "content": prompt}
-        ]
+            {
+                "role": "system",
+                "content": "あなたは与えられたHTMLから正確にURLを抽出するアシスタントです。",
+            },
+            {"role": "user", "content": prompt},
+        ],
     )
-    content = response['message']['content'].strip()
+    content = response["message"]["content"].strip()
     if "URL:" in content:
         return content.split("URL:", 1)[1].strip().splitlines()[0].strip()
     return content
+
 
 def main():
     # YAMLのパース
@@ -115,6 +132,7 @@ def main():
 
     for item in items:
         target_name = item.get("target_name", "")
+        ai_overview = item.get("ai_overview", "") or ""
         results = item.get("results", [])
 
         print(f"=== 対象: {target_name} ===")
@@ -132,8 +150,8 @@ def main():
                 print("  -> テキストを取得できなかったためスキップします。")
                 continue
 
-            # 2. 曲名の有無を判定
-            song_name = find_song_name(target_name, url, page_text)
+            # 2. 曲名の有無を判定（AI概要も参考にさせる）
+            song_name = find_song_name(target_name, url, page_text, ai_overview)
 
             if not song_name:
                 print("  -> 曲名が見つかりませんでした。")
@@ -152,6 +170,7 @@ def main():
 
             print("--- URL抽出結果 ---")
             print(url_result)
+
 
 if __name__ == "__main__":
     main()
